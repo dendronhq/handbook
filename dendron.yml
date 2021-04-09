@@ -10,6 +10,7 @@ site:
         - handbook
     siteRootDir: docs
     usePrettyRefs: true
+    siteUrl: https://handbook.dendron.so
     title: Dendron Handbook
     duplicateNoteBehavior:
         action: useVault
