@@ -9,9 +9,12 @@ site:
     siteHierarchies:
         - handbook
     siteRootDir: docs
+    logo: handbook/assets/images/logo.png
     usePrettyRefs: true
     siteUrl: https://handbook.dendron.so
     title: Dendron Handbook
+    gh_edit_repository: 'https://github.com/dendronhq/handbook'
+    gh_edit_branch: main
     duplicateNoteBehavior:
         action: useVault
         payload:
