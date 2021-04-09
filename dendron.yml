@@ -1,0 +1,19 @@
+version: 1
+vaults:
+    - fsPath: handbook
+useFMTitle: true
+useNoteTitleForLink: true
+usePrettyRefs: false
+site:
+    copyAssets: true
+    siteHierarchies:
+        - handbook
+    siteRootDir: docs
+    usePrettyRefs: true
+    title: Dendron Handbook
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - handbook
+initializeRemoteVaults: true
+useKatex: false
