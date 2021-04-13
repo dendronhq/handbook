@@ -2,7 +2,7 @@
 id: 5d435a43-ca9c-4c26-a156-d9ccc56ab698
 title: Investor Updates
 desc: ''
-updated: 1618029616587
+updated: 1618334224813
 created: 1618029533953
 ---
 
@@ -28,3 +28,6 @@ You're getting this email as part of Dendron's investor update. These updates wi
 
 Bests,
 Kevin
+
+## Related
+- [[Dendron Investors|dendron://dendron-private/groups.dendron-investors]]
