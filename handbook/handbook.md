@@ -2,7 +2,7 @@
 id: 27237fd0-4ae1-4e31-9c15-34167fb264d8
 title: Dendron Handbook
 desc: ''
-updated: 1618029680403
+updated: 1618412193679
 created: 1610126185067
 published: true
 hierarchyDisplay: false
@@ -14,6 +14,7 @@ It documents everything we stand for and everything we are working towards. It i
 ## Table of Contents
 
 - [[handbook.company]]
+  - [[handbook.company.misson]]
   - [[handbook.company.values]]
 - [[handbook.people]]
   - [[handbook.people.benefits]]
