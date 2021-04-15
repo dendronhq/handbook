@@ -56,7 +56,7 @@ The perfect is the enemy of the shipped. We strive to do great work but we will 
 - We push out updates on a [weekly release cycle](https://wiki.dendron.so/notes/932534e7-e788-4fdb-bc8c-eaf761992a8d.html)
 - We dedicate a `learnings` section to the end of every project to figure out how to improve the process for next time
 
-## Leveraging the Lookup
+## Lookup
 
 Instead of _not invented here_, we believe in _building on what already exists_. We actively seek to find order in the universe and add our node on top of what already exists.
 
