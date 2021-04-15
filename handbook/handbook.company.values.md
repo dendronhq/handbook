@@ -10,7 +10,7 @@ created: 1617987789017
 
 This page describes our values as a company. We are at our best when we operate with these values in mind.
 
-## Community-focused
+## User-focused
 
 Dendron wouldn't exist without our strong community. Our north star is meaningfully improving the lives of everyone who uses Dendron. The way we think about what to work on is guided by what would be best for our entire community.
 
@@ -20,7 +20,7 @@ Dendron wouldn't exist without our strong community. Our north star is meaningfu
 - We addressing questions and feedback in [discord](https://discord.gg/AE3NRw9) in near realtime
 - We adjusting and prioritize user feedback when planning our [roadmap](https://wiki.dendron.so/notes/6e4c4f61-80a3-46fa-9ad3-04b99d9e9695.html)
 
-## Artisanship
+## Ownership
 
 We care about putting high quality, well thought through products out to customers. True artisans view products end-to-end and never sacrifice long-term reputational value for short-term results. We act on behalf of the entire team and community, beyond just our own focus area. We are not satisfied by the phrase “that’s not my job.”
 
