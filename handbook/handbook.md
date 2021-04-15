@@ -14,10 +14,11 @@ It documents everything we stand for and everything we are working towards. It i
 ## Table of Contents
 
 - [[handbook.company]]
-  - [[handbook.company.misson]]
+  - [[handbook.company.mission]]
   - [[handbook.company.values]]
 - [[handbook.people]]
   - [[handbook.people.benefits]]
 - [[handbook.sop]]
-    - [[handbook.sop.standup]]
-    - [[handbook.sop.investor-updates]]
+  - [[handbook.sop.standup]]
+  - [[handbook.sop.investor-updates]]
+
