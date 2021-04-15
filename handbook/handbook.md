@@ -19,6 +19,6 @@ It documents everything we stand for and everything we are working towards. It i
 - [[handbook.people]]
   - [[handbook.people.benefits]]
 - [[handbook.sop]]
-  - [[handbook.sop.standup]]
+  - [[handbook.sop.daily-update]]
   - [[handbook.sop.investor-updates]]
 
