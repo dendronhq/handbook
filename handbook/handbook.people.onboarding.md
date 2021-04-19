@@ -2,7 +2,7 @@
 id: 09a34445-345d-42c9-b82b-6f6691aed668
 title: Onboarding
 desc: ''
-updated: 1618792131917
+updated: 1618792169006
 created: 1618789330639
 ---
 
@@ -30,7 +30,7 @@ created: 1618789330639
 
 ## Workflow
 
-Use the workspace commands to keep your repository in sync.
+Use the workspace commands to keep your repository in sync 
 
 ```sh
 # add . && commit all vaults
