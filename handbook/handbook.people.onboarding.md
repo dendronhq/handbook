@@ -2,7 +2,7 @@
 id: 09a34445-345d-42c9-b82b-6f6691aed668
 title: Onboarding
 desc: ''
-updated: 1618789527250
+updated: 1618792131917
 created: 1618789330639
 ---
 
@@ -27,3 +27,21 @@ created: 1618789330639
             visibility: private
     ```
     - NOTE: we need to do this because we want meaningful commit messages for these repositories. setting them to private will prevent [workspace sync](https://wiki.dendron.so/notes/23a1b942-99af-45c8-8116-4f4bb7dccd21.html#sync) from auto syncing them
+
+## Workflow
+
+Use the workspace commands to keep your repository in sync.
+
+```sh
+# add . && commit all vaults
+dendron workspace addAndCommit
+
+# pull --rebase all vaults
+dendron workspace pull
+
+# push all vaults
+dendron workspace push 
+
+# run all the commands above
+dendron workspace sync
+```
