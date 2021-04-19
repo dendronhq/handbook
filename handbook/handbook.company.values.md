@@ -36,7 +36,7 @@ We are never done learning (we are in the knowledge management space after all .
 
 - We are collecting and indexing the worlds data in publically available vaults on [Personal Knowledge Management](https://pkm.dendron.so/), [AWS](https://aws.dendron.so/) and of course [XKCD](https://xkcd.dendron.so/)
 
-## Openness
+## Transparency
 
 We work in the open. This means that we will be transaparent about what, how, and why we do things.
 
