@@ -2,7 +2,7 @@
 id: 023294b5-516d-4b1b-8c4e-9f667c8b9e39
 title: Investor Updates
 desc: ""
-updated: 1618481953680
+updated: 1618803872627
 created: 1618029427313
 ---
 
@@ -18,4 +18,4 @@ created: 1618029427313
 
 ## Related
 
-- [[Investors Report|dendron://dendron/scratch.2021.04.04.095434.investors-report]]
+- [[Investors Report|scratch.2021.04.04.095434.investors-report]]
