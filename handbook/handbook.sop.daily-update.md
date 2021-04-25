@@ -2,7 +2,7 @@
 id: eefd546b-96ee-4830-b11e-dbb1f112a857
 title: Daily Update
 desc: ""
-updated: 1618482710631
+updated: 1619360244242
 created: 1617592791260
 ---
 
@@ -10,17 +10,31 @@ created: 1617592791260
 - users enter a journal entry for the day's work in the following format
 
 ```md
-## Done
+## Discussion
 
-<!-- Anything that was done the day before -->
+<!-- Things you need help with to get unblocked -->
 
 ## Do
 
-<!-- Anything that will be done today -->
+<!-- Tasks you want to get done today -->
 
-## Other
+## Routine
 
-<!-- Anything that comes up -->
+<!-- Daily tax/operational load -->
+
+- [ ] check missed discussions
+- [ ] file discussions
+- [ ] prep for meetings
+
+## Ongoing Projects
+
+<!-- Should be tracked in the proj.* heirarchy. Longer term initiatives -->
+
+## Done
+
+## Comments
+
+<!-- Space for other people to comment on your daily note (mostly on discussion topics) -->
 ```
 
 - Purely through the written portion of the update, the rest of the team should get a fair idea of what you're working on, whether you're blocked on anything and what you need help on
@@ -35,7 +49,7 @@ created: 1617592791260
 
 ### Discuss
 
-<!-- Anything that you want to bring up during standup -->
+<!-- Aggregation of individual open discussions -->
 
 ## Notes
 
