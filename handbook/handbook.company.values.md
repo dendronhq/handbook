@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1619372310797
+updated: 1619372341404
 created: 1617987789017
 ---
 
@@ -27,7 +27,7 @@ We have high level goals but we are flexible in the details. At the end of the d
 - We build Dendron on top of VSCode because it has widespread adoption and allows us to iterate quickly
 - We look to integrate with existing tools instead of replacing them using pods and interoperable standards
 
-## User-focused
+## Customer-focused
 
 Dendron wouldn't exist without our strong community. Our north star is meaningfully improving the lives of everyone who uses Dendron. The way we think about what to work on is guided by what would be best for our entire community.
 
