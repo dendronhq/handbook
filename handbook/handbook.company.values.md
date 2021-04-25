@@ -2,13 +2,30 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1618481740137
+updated: 1619372310797
 created: 1617987789017
 ---
 
 ## Summary
 
 This page describes our values as a company. We are at our best when we operate with these values in mind.
+
+## Lookup
+
+Instead of _not invented here_, we believe in _building on what already exists_. We actively seek to find order in the universe and add our node on top of what already exists.
+
+### In Practice
+
+- we use standard markdown where possible and expand where needed, with a focus on interoperability and portability
+- we based our values off our experience in past companies as well as places we admire
+
+## Pragmatism
+
+We have high level goals but we are flexible in the details. At the end of the day we will do whatever it takes to help people make sense of the things that matter.
+
+### In Practice
+- We build Dendron on top of VSCode because it has widespread adoption and allows us to iterate quickly
+- We look to integrate with existing tools instead of replacing them using pods and interoperable standards
 
 ## User-focused
 
@@ -55,12 +72,3 @@ The perfect is the enemy of the shipped. We strive to do great work but we will 
 - We publish our work (eg. code, handbook, roadmap) in the process of working on it
 - We push out updates on a [weekly release cycle](https://wiki.dendron.so/notes/932534e7-e788-4fdb-bc8c-eaf761992a8d.html)
 - We dedicate a `learnings` section to the end of every project to figure out how to improve the process for next time
-
-## Lookup
-
-Instead of _not invented here_, we believe in _building on what already exists_. We actively seek to find order in the universe and add our node on top of what already exists.
-
-### In Practice
-
-- we use standard markdown where possible and expand where needed, with a focus on interoperability and portability
-- we based our values off our experience in past companies as well as places we admire
