@@ -2,7 +2,7 @@
 id: 09a34445-345d-42c9-b82b-6f6691aed668
 title: Onboarding
 desc: ''
-updated: 1619483497222
+updated: 1619483684383
 created: 1618789330639
 ---
 
@@ -80,3 +80,6 @@ dendron workspace push
 # run all the commands above
 dendron workspace sync
 ```
+
+## Next Steps
+- Make sure you have access to the code: [[Code|dendron://private/pro]]
