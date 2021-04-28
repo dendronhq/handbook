@@ -2,7 +2,7 @@
 id: fc057be8-80e7-4a08-bca6-5bd6bc398eea
 title: Map
 desc: ''
-updated: 1619482988025
+updated: 1619571503713
 created: 1619479695413
 ---
 
@@ -26,6 +26,7 @@ This is for developer documentation
 - vault: org-private
 
 Everyone in Dendron has their own user hiearchy. We use it primarily for standups. You can see everyone's updates at `user.{username}.journal.{date}`
+Fanciful ideas about new features or fixes for Dendron can also be put in `user.{username}.ideas` if they don't immediately fit the current roadmap.
 
 ### weekly
 
