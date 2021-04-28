@@ -2,7 +2,7 @@
 id: fc057be8-80e7-4a08-bca6-5bd6bc398eea
 title: Map
 desc: ''
-updated: 1619571503713
+updated: 1619576331646
 created: 1619479695413
 ---
 
@@ -35,3 +35,7 @@ This tracks weekly sprint items for the company.
 ### yearly
 
 This tracks high level items we want to do for the year
+
+### books
+
+Notes on books that we've found useful
