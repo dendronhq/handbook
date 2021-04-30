@@ -2,7 +2,7 @@
 id: 023294b5-516d-4b1b-8c4e-9f667c8b9e39
 title: Investor Updates
 desc: ""
-updated: 1618803872627
+updated: 1619794218352
 created: 1618029427313
 ---
 
@@ -14,7 +14,7 @@ created: 1618029427313
 
 ## Ref
 
-- [[Dendron Investors|dendron://dendron-private/groups.dendron-investors]]
+- [[Dendron Investors|groups.dendron-investors]]
 
 ## Related
 

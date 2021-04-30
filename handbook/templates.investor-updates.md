@@ -2,7 +2,7 @@
 id: 5d435a43-ca9c-4c26-a156-d9ccc56ab698
 title: Investor Updates
 desc: ''
-updated: 1618334224813
+updated: 1619794218350
 created: 1618029533953
 ---
 
@@ -30,4 +30,4 @@ Bests,
 Kevin
 
 ## Related
-- [[Dendron Investors|dendron://dendron-private/groups.dendron-investors]]
+- [[Dendron Investors|groups.dendron-investors]]
