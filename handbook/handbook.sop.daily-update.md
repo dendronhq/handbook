@@ -2,7 +2,7 @@
 id: eefd546b-96ee-4830-b11e-dbb1f112a857
 title: Daily Update
 desc: ""
-updated: 1619360244242
+updated: 1619794096946
 created: 1617592791260
 ---
 
@@ -61,8 +61,8 @@ created: 1617592791260
 
 ### Individual updates
 
-![[dendron://user-kevin/user.kevin.journal.2021.04.01]]
-![[dendron://user-kpats/user.kpats.journal.2021.04.01]]
+![[user.kevin.journal.2021.04.01]]
+![[user.kpats.journal.2021.04.01]]
 ```
 
 - during the daily update, one person should be responsible for taking notes
