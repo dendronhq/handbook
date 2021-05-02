@@ -1,11 +1,10 @@
 ---
 id: 023294b5-516d-4b1b-8c4e-9f667c8b9e39
 title: Investor Updates
-desc: ""
+desc: ''
 updated: 1619794218352
 created: 1618029427313
 ---
-
 ## Details
 
 - send out the first monday of every month
@@ -18,4 +17,5 @@ created: 1618029427313
 
 ## Related
 
-- [[Investors Report|scratch.2021.04.04.095434.investors-report]]
+- [[Investors Report|investors.journal.03]]
+
