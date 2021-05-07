@@ -2,13 +2,13 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Checklist
 desc: ""
-updated: 1620248743423
+updated: 1620424274937
 created: 1620248731246
 ---
 
 ## Welcome to Dendron!
 
-We are so excited you’re here and look forward to setting you up for [all-remote](https://about.gitlab.com/company/culture/all-remote/guide/) success as your journey begins. Copy this onboarding checklist and work through them over the course of your first 30 days. If any task doesn't make sense, please reach out to the team on discord. **Note:** We [lookup](https://handbook.dendron.so/notes/b89ba854-72fb-4ebc-a8a0-55960b89e9dc.html#lookup) to Gitlab for their focus on [single-source of truth](https://about.gitlab.com/handbook/values/#single-source-of-truth) handbook creation and would like to do the same for Dendron. We've included a lot of links to the Gitlab handbook and will tweak/subsume them into the Dendron handbook over time. The wealth of information in this note can be overwhelming at times. It's okay to skim through resources, bookmark them and come back at a later time.
+We are so excited you’re here and look forward to setting you up for remote-first success as your journey begins. Copy this onboarding checklist to user.{alias}.onboarding in the private vault and work through the tasks over the course of your first 30 days. If any task doesn't make sense, please reach out to the team on discord. **Note:** We're really appreciative of Gitlab pioneering the space of remote work and have included a lot of links to the Gitlab handbook. The wealth of information in this note can be overwhelming at times. It's okay to skim through resources, bookmark them and come back at a later time.
 
 ### Table of Contents
 
@@ -83,16 +83,13 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 
 #### 1Password
 
-1. [ ] :red_circle: Install 1Password. Dendron provides all team members with an account to 1Password. Some teams use 1Password for shared notes and some shared accounts. 1Password is available as a standalone application for macOS, and as a browser extension and CLI tool for Linux.
+1. [ ] :red_circle: Install rpass. Dendron provides all team members with an account to rpass to help manage work credentials.
 
-   1. [ ] The 1Password invitation email will be in your Dendron email inbox, please search for it and accept the invitation.
-   1. [ ] Install the 1Password app or browser extension on your computer, and link it to your team (GitLab company) account, as described on the [security practices page](https://about.gitlab.com/handbook/security/#adding-the-gitlab-team-to-a-1password-app). Please let People Experience or your manager know if you need any assistance.
-   1. [ ] Read 1Password's [getting started guides](https://support.1password.com/explore/extension/) and the [Mac app's guide](https://support.1password.com/getting-started-mac/) to understand its functionality.
-   1. [ ] Before saving passwords in 1Password, understand why some will be in 1Password remember to save your passwords in your [_Private_ vault](https://support.1password.com/1password-com-items/) (only accessible to you) rather than the team vault (accessible to others at Dendron).
+   - [ ] Detailed instructions TBD.
 
    #### 2FA (Two-Factor Authentication)
 
-1. [ ] Dendron requires you to enable 2FA (2-Step Verification, also known as two-factor authentication), because it adds an extra layer of security to your account. You sign in with something you know (your password) and something you have (a code you can copy from your Virtual Multi-Factor authentication Device, like FreeOTP, 1Password or Google Authenticator). Please make sure that time is set automatically on your device (ie. on Android: "Settings" > "Date & Time" > "Set automatically"). If you have problems with 2FA just let the team know! We can disable it for you to then set it up again. Reach out proactively if you're struggling - it's better than getting locked out and needing to wait for IT Ops to help you get back online.
+1. [ ] Dendron requires you to enable 2FA (2-Step Verification, also known as two-factor authentication), because it adds an extra layer of security to your account. You sign in with something you know (your password) and something you have (a code you can copy from your Virtual Multi-Factor authentication Device, like [Authy](https://authy.com), FreeOTP, or Google Authenticator). Please make sure that time is set automatically on your device (ie. on Android: "Settings" > "Date & Time" > "Set automatically"). If you have problems with 2FA just let the team know! We can disable it for you to then set it up again. Reach out proactively if you're struggling - it's better than getting locked out and needing to wait for IT Ops to help you get back online.
 1. [ ] :red_circle: Do the next 3 steps Today. Actually -- why not RIGHT NOW. This absolutely must be done within a week or you will be locked out and need to wait for an admin to get around to helping you get reconnected.
    1. [ ] :red_circle: Enable 2FA on your Dendron email account (Gmail/GSuite) (this should have been an option to do when you first received the invitation to the account).
    1. [ ] :red_circle: Enable [two-factor authentication](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication) on your Github account.
@@ -151,7 +148,7 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 #### Set Up
 
 1. [ ] Set your Google Calendar [default event duration](https://calendar.google.com/calendar/r/settings) to use `speedy meetings`
-1. [ ] Set up [Calendly](https://about.gitlab.com/handbook/tools-and-tips/other-apps/#sts=Calendly). Calendly is a calendar tool that allows individuals to select open meeting slots in order to speak with others outside of GitLab. For GitLab team members, feel free to [schedule directly in Google Calendar](https://about.gitlab.com/handbook/communication/#scheduling-meetings). When you are setting up Calendly, there is no specific GitLab account. With the free version you will only be allowed one meeting time, but if you need to upgrade to a Pro account, you can do so and expense it per [spending company money](https://about.gitlab.com/handbook/spending-company-money).
+1. [ ] Set up [Calendly](https://about.gitlab.com/handbook/tools-and-tips/other-apps/#sts=Calendly). Calendly is a calendar tool that allows individuals to select open meeting slots in order to speak with others outside of Dendron. For Dendron team members, feel free to schedule directly through Google calendar. When you are setting up Calendly, there is no specific Dendron account. With the free version you will only be allowed one meeting time, but if you need to upgrade to a Pro account, you can do so and expense it.
 1. [ ] Add the Zoom integration by going to the `Integrations` section at the top of the page. Find Zoom in the list of integrations and click it. It will then ask you to link your Calendly and Zoom accounts together. Do so.
 1. [ ] Now make Zoom the default event location by editing each 'Event type' in Calendly (By default, there should be a `15 Minute Meeting`, `30 Minute Meeting` and `60 Minute Meeting` event types) by clicking the gear icon associated with each event type then going to `Edit`. Click on `What event is this?` and under `Location` choose Zoom. Click on `Save and Close`, and do this for each remaining event type.
 1. [ ] [Set your working hours & availability](https://support.google.com/calendar/answer/7638168?hl=en) in your Google Calendar.
@@ -254,3 +251,7 @@ For those new to Github and Dendron, it's important to get familiar with the bel
 ---
 
 </details>
+
+## [Lookups](https://handbook.dendron.so/notes/b89ba854-72fb-4ebc-a8a0-55960b89e9dc.html#lookup)
+
+- this page is inspired and comprised of contents from the following sources: [Gitlab](https://about.gitlab.com/handbook/) ([license](https://gitlab.com/gitlab-org/dco/blob/master/README.md))
