@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1619372341404
+updated: 1620361821217
 created: 1617987789017
 ---
 
@@ -66,6 +66,8 @@ We work in the open. This means that we will be transaparent about what, how, an
 ## Iteration
 
 The perfect is the enemy of the shipped. We strive to do great work but we will do it incrementally instead of waiting for something to be _perfect_. We prioritize ruthlessly, delivering the right things with the right quality in a timely fashion.
+
+Iteration means that we will hit the deadline but are fleixble about the scope. It's okay and also encouraged to have multiple phases for any individual feature. 
 
 ### In Practice
 
