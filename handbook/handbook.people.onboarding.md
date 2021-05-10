@@ -2,7 +2,7 @@
 id: 09a34445-345d-42c9-b82b-6f6691aed668
 title: Onboarding
 desc: ""
-updated: 1620248992769
+updated: 1620679694498
 created: 1618789330639
 ---
 
@@ -79,6 +79,22 @@ dendron workspace pull
 dendron workspace push
 
 # run all the commands above
+dendron workspace sync
+```
+
+### Merge Conflicts
+
+When you run `workspace sync`, you might get a merge conflict since others could have edited the file. This is expected and use your best sense when resolving the merge conflict.
+
+The typical workflow:
+
+```sh
+dendron workspace sync
+# discover merge conflict
+# fix merge conflict
+# run the folloing on the bad file
+git add && git commit && git push
+# re-run sync
 dendron workspace sync
 ```
 
