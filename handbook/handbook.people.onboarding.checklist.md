@@ -2,7 +2,7 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Checklist
 desc: ""
-updated: 1620424274937
+updated: 1620656799345
 created: 1620248731246
 ---
 
@@ -30,9 +30,7 @@ Since Dendron aspires to be a [handbook first](https://about.gitlab.com/company/
 
 ### The First Thirty Days
 
-This issue consists of a series of tasks which should be completed sequentially over the course of the next thirty days structured as follows:
-
-<!--TODO: Modify this -->>
+This note consists of a series of tasks which should be completed sequentially over the course of the next thirty days structured as follows:
 
 | Day         | Area of Focus                                |
 | ----------- | -------------------------------------------- |
@@ -81,7 +79,7 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 <details>
 <summary>New Team Member</summary>
 
-#### 1Password
+#### Rpass
 
 1. [ ] :red_circle: Install rpass. Dendron provides all team members with an account to rpass to help manage work credentials.
 
