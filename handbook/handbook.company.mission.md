@@ -6,7 +6,7 @@ updated: 1620322835825
 created: 1618412194244
 ---
 
-Our mission is to help **people** organize and make sense of any amount information.
+Our mission is to help **people** organize and make sense of any amount of information.
 
 We are doing this by building the [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) for general knowledge.
 
