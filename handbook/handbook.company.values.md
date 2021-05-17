@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1620361821217
+updated: 1621293729507
 created: 1617987789017
 ---
 
@@ -27,7 +27,7 @@ We have high level goals but we are flexible in the details. At the end of the d
 - We build Dendron on top of VSCode because it has widespread adoption and allows us to iterate quickly
 - We look to integrate with existing tools instead of replacing them using pods and interoperable standards
 
-## Customer-focused
+## Community Focused
 
 Dendron wouldn't exist without our strong community. Our north star is meaningfully improving the lives of everyone who uses Dendron. The way we think about what to work on is guided by what would be best for our entire community.
 
@@ -74,3 +74,11 @@ Iteration means that we will hit the deadline but are fleixble about the scope. 
 - We publish our work (eg. code, handbook, roadmap) in the process of working on it
 - We push out updates on a [weekly release cycle](https://wiki.dendron.so/notes/932534e7-e788-4fdb-bc8c-eaf761992a8d.html)
 - We dedicate a `learnings` section to the end of every project to figure out how to improve the process for next time
+
+## Productivity
+
+We like to be efficient about how we do things. This could mean finding better tools and processes to do things as well as finding the [right things](https://en.wikipedia.org/wiki/Pareto_principle) to work on in the first place. Life is short - we aim to make good use of the time that we have. 
+
+### In Practice
+- [[Lookup|handbook.company.values#lookup]] -> [[Iterate|handbook.company.values#iteration]] -> [[Learn|handbook.company.values#lifelong-learning]]
+- We show up ahead of time for meetings - whether we are onboarding a new customer or meeting internally, we respect people's time and will not keep people waiting
