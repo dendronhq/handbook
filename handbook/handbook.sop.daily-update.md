@@ -2,7 +2,7 @@
 id: eefd546b-96ee-4830-b11e-dbb1f112a857
 title: Daily Update
 desc: ""
-updated: 1619794096946
+updated: 1621294022345
 created: 1617592791260
 ---
 
@@ -68,3 +68,4 @@ created: 1617592791260
 - during the daily update, one person should be responsible for taking notes
 - useful to use something like [gitduck](http://gitduck.com/) to screen share and go over priorities
 - afterwards, notes should be committed and notes for the next day should be created
+- all daily updates should be checked in and pushed by 6pm local time or before 8AM Pacific time (which ever one is earlier)
