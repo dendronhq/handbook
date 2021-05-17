@@ -28,7 +28,7 @@ created: 1617592791260
 
 ## Ongoing Projects
 
-<!-- Should be tracked in the proj.* heirarchy. Longer term initiatives -->
+<!-- Should be tracked in the proj.* hierarchy. Longer term initiatives -->
 
 ## Done
 
