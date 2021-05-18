@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1621293729507
+updated: 1621352418704
 created: 1617987789017
 ---
 
@@ -75,10 +75,10 @@ Iteration means that we will hit the deadline but are fleixble about the scope. 
 - We push out updates on a [weekly release cycle](https://wiki.dendron.so/notes/932534e7-e788-4fdb-bc8c-eaf761992a8d.html)
 - We dedicate a `learnings` section to the end of every project to figure out how to improve the process for next time
 
-## Productivity
+<!-- ## Productivity
 
 We like to be efficient about how we do things. This could mean finding better tools and processes to do things as well as finding the [right things](https://en.wikipedia.org/wiki/Pareto_principle) to work on in the first place. Life is short - we aim to make good use of the time that we have. 
 
 ### In Practice
 - [[Lookup|handbook.company.values#lookup]] -> [[Iterate|handbook.company.values#iteration]] -> [[Learn|handbook.company.values#lifelong-learning]]
-- We show up ahead of time for meetings - whether we are onboarding a new customer or meeting internally, we respect people's time and will not keep people waiting
+- We show up ahead of time for meetings - whether we are onboarding a new customer or meeting internally, we respect people's time and will not keep people waiting -->
