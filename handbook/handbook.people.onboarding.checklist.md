@@ -2,7 +2,7 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Checklist
 desc: ""
-updated: 1620656799345
+updated: 1621759321769
 created: 1620248731246
 ---
 
@@ -172,12 +172,13 @@ may not fall during your first week.
    
 1. [ ] Create and add your own [README](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#creating-and-publishing-your-gitlab-readme). This may take some time to create so please feel free to iterate on it once you get some details in to your user.<name> hierarchy in Dendron.
 
-#### Social Media and Connecting
+#### Social media + Expenses
 
-[ ] Connect with or follow Dendron's social media sites:
-[LinkedIn](https://www.linkedin.com/company/dendron-so/),
-[Twitter](https://twitter.com/dendronhq),
-[YouTube](https://www.youtube.com/channel/UC8GQLj4KZhN8WcJPiKXtcRQ).
+- [ ] Connect with or follow Dendron's social media sites:
+      [LinkedIn](https://www.linkedin.com/company/dendron-so/),
+      [Twitter](https://twitter.com/dendronhq),
+      [YouTube](https://www.youtube.com/channel/UC8GQLj4KZhN8WcJPiKXtcRQ).
+- [ ] Familiarize yourself with our [[expense report process|dendron.sop.expensing]] and bookmark the [link](https://airtable.com/shrtJd0sitnY6Bfre) to expensing stuff.
 
 #### Your Role
 
