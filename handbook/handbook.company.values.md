@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1621789724594
+updated: 1621792091865
 created: 1617987789017
 ---
 
@@ -69,7 +69,7 @@ Iteration means that we will hit the deadline but are fleixble about the scope. 
 
 ## Sustainability
 
-We look for virtuous cycles and long term growth in all that we do. This means we think about both the long term **befits and costs** of the actions we take and invest in areas that will take many years to bear fruit
+We look for virtuous cycles and long term growth in all that we do. This means we think about both the long term **benefits and costs** of the actions we take and invest in areas that will take many years to bear fruit
 
 ### In Practice
 - We pay down technical debt by dedicating cycles to it every sprint
@@ -81,21 +81,5 @@ We leave things better than we found it. Code, knowledge, the world - we like to
 
 ### In Practice
 - all important decisions and learnings are written down in the company handbook so everyone can benefit
-
-## Lifelong Learning
-
-We are never done learning (we are in the knowledge management space after all ...) and we always seek to improve ourselves. We are externally curious, internally aware and seek to explore.
-
-### In Practice
-
 - We are collecting and indexing the worlds data in publically available vaults on [Personal Knowledge Management](https://pkm.dendron.so/), [AWS](https://aws.dendron.so/) and of course [XKCD](https://xkcd.dendron.so/)
 
-
-
-<!-- ## Productivity
-
-We like to be efficient about how we do things. This could mean finding better tools and processes to do things as well as finding the [right things](https://en.wikipedia.org/wiki/Pareto_principle) to work on in the first place. Life is short - we aim to make good use of the time that we have. 
-
-### In Practice
-- [[Lookup|handbook.company.values#lookup]] -> [[Iterate|handbook.company.values#iteration]] -> [[Learn|handbook.company.values#lifelong-learning]]
-- We show up ahead of time for meetings - whether we are onboarding a new customer or meeting internally, we respect people's time and will not keep people waiting -->
