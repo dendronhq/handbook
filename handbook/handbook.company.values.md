@@ -2,13 +2,23 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1621352418704
+updated: 1621789724594
 created: 1617987789017
 ---
 
 ## Summary
 
 This page describes our values as a company. We are at our best when we operate with these values in mind.
+
+## Community Focused
+
+Dendron wouldn't exist without our strong community. Our north star is meaningfully improving the lives of everyone who uses Dendron. The way we think about what to work on is guided by what would be best for our entire community.
+
+### In Practice
+
+- We provide personal onboardings for new users
+- We addressing questions and feedback in [discord](https://discord.gg/AE3NRw9) in near realtime
+- We adjusting and prioritize user feedback when planning our [roadmap](https://wiki.dendron.so/notes/6e4c4f61-80a3-46fa-9ad3-04b99d9e9695.html)
 
 ## Lookup
 
@@ -27,16 +37,6 @@ We have high level goals but we are flexible in the details. At the end of the d
 - We build Dendron on top of VSCode because it has widespread adoption and allows us to iterate quickly
 - We look to integrate with existing tools instead of replacing them using pods and interoperable standards
 
-## Community Focused
-
-Dendron wouldn't exist without our strong community. Our north star is meaningfully improving the lives of everyone who uses Dendron. The way we think about what to work on is guided by what would be best for our entire community.
-
-### In Practice
-
-- We provide personal onboardings for new users
-- We addressing questions and feedback in [discord](https://discord.gg/AE3NRw9) in near realtime
-- We adjusting and prioritize user feedback when planning our [roadmap](https://wiki.dendron.so/notes/6e4c4f61-80a3-46fa-9ad3-04b99d9e9695.html)
-
 ## Ownership
 
 We care about putting high quality, well thought through products out to customers. True artisans view products end-to-end and never sacrifice long-term reputational value for short-term results. We act on behalf of the entire team and community, beyond just our own focus area. We are not satisfied by the phrase “that’s not my job.”
@@ -44,14 +44,6 @@ We care about putting high quality, well thought through products out to custome
 ### In Practice
 
 - We prioritize entire customer scenarios over component areas.
-
-## Lifelong Learning
-
-We are never done learning (we are in the knowledge management space after all ...) and we always seek to improve ourselves. We are externally curious, internally aware and seek to explore.
-
-### In Practice
-
-- We are collecting and indexing the worlds data in publically available vaults on [Personal Knowledge Management](https://pkm.dendron.so/), [AWS](https://aws.dendron.so/) and of course [XKCD](https://xkcd.dendron.so/)
 
 ## Transparency
 
@@ -74,6 +66,31 @@ Iteration means that we will hit the deadline but are fleixble about the scope. 
 - We publish our work (eg. code, handbook, roadmap) in the process of working on it
 - We push out updates on a [weekly release cycle](https://wiki.dendron.so/notes/932534e7-e788-4fdb-bc8c-eaf761992a8d.html)
 - We dedicate a `learnings` section to the end of every project to figure out how to improve the process for next time
+
+## Sustainability
+
+We look for virtuous cycles and long term growth in all that we do. This means we think about both the long term **befits and costs** of the actions we take and invest in areas that will take many years to bear fruit
+
+### In Practice
+- We pay down technical debt by dedicating cycles to it every sprint
+- [[Lookup|handbook.company.values#lookup]] -> [[Iterate|handbook.company.values#iteration]] -> [[Learn|handbook.company.values#lifelong-learning]]
+
+## Passing It Forward
+
+We leave things better than we found it. Code, knowledge, the world - we like to leave things so that the next person coming back do it will have a better way of starting.
+
+### In Practice
+- all important decisions and learnings are written down in the company handbook so everyone can benefit
+
+## Lifelong Learning
+
+We are never done learning (we are in the knowledge management space after all ...) and we always seek to improve ourselves. We are externally curious, internally aware and seek to explore.
+
+### In Practice
+
+- We are collecting and indexing the worlds data in publically available vaults on [Personal Knowledge Management](https://pkm.dendron.so/), [AWS](https://aws.dendron.so/) and of course [XKCD](https://xkcd.dendron.so/)
+
+
 
 <!-- ## Productivity
 
