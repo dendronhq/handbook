@@ -2,7 +2,7 @@
 id: 3a09792b-3cad-4dbd-8d7f-900bd4d57a2d
 title: One on One
 desc: ''
-updated: 1619479546853
+updated: 1622419902325
 created: 1619479326157
 ---
 
@@ -17,3 +17,7 @@ The cadence for one on one's will depend on the individual and circumstance - in
 This is a starting template for what a one on one typically looks like. 
 
 ![[dendron://handbook/templates.one-on-one]]
+
+## Process
+
+Before the one on one, team members are encouraged to fill out as much of the one-on-one template a day prior to help prepare both parties for the meeting.
