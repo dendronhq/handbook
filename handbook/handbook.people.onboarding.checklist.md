@@ -2,7 +2,7 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Checklist
 desc: ""
-updated: 1621759321769
+updated: 1622501245023
 created: 1620248731246
 ---
 
@@ -10,7 +10,7 @@ created: 1620248731246
 
 We are so excited you’re here and look forward to setting you up for remote-first success as your journey begins. Copy this onboarding checklist to user.{alias}.onboarding in the private vault and work through the tasks over the course of your first 30 days. If any task doesn't make sense, please reach out to the team on discord. **Note:** We're really appreciative of Gitlab pioneering the space of remote work and have included a lot of links to the Gitlab handbook. The wealth of information in this note can be overwhelming at times. It's okay to skim through resources, bookmark them and come back at a later time.
 
-### Table of Contents
+## Table of Contents
 
 - Day 1: [Getting Started: Accounts and Paperwork](#day-1-getting-started-accounts-and-paperwork)
 - Day 2: [Morning: Remote Working and our Values](#day-2-remote-working-and-our-values)
@@ -18,17 +18,17 @@ We are so excited you’re here and look forward to setting you up for remote-fi
 - Day 4: [Morning: Git](#day-4-git)
 - [Job Specific Tasks](#job-specific-tasks)
 
-### Introduction
+## Introduction
 
 This is your core onboarding issue and it is housed in Dendron in the interests of what is known as [dogfooding](https://about.gitlab.com/handbook/values/#dogfooding). It has been crafted with the [three dimensions of remote onboarding](https://about.gitlab.com/company/culture/all-remote/onboarding/) in mind, namely: Organizational Onboarding, Technical Onboarding and Social Onboarding.
 
 All three of these are underpinned by the sentiments of [lifelong learning](https://handbook.dendron.so/notes/b89ba854-72fb-4ebc-a8a0-55960b89e9dc.html#lifelong-learning), while encouraging [asynchronous communication and workflows](https://about.gitlab.com/company/culture/all-remote/asynchronous/).
 
-### Support and our Single Source of Truth
+## Support and our Single Source of Truth
 
 Since Dendron aspires to be a [handbook first](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) organization, the answer to question you may have particularly throughout your first thirty days should be documented and readily available in the [handbook](http://handbook.dendron.so). If you are unable to find the information you are looking for, please reach out on the #dendron-team channel in Discord and update the handbook once you find the answer.
 
-### The First Thirty Days
+## The First Thirty Days
 
 This note consists of a series of tasks which should be completed sequentially over the course of the next thirty days structured as follows:
 
@@ -42,7 +42,7 @@ This note consists of a series of tasks which should be completed sequentially o
 
 Though you may be eager to jump right into your role we encourage you to set aside dedicated time every day for your first week to focus on these tasks as they are geared toward ensuring you are enabled to [thrive in an all-remote environment](https://about.gitlab.com/company/culture/all-remote/onboarding/#the-importance-of-onboarding).
 
-### Continuous Improvement
+## Continuous Improvement
 
 In the interests of paying it forward and contributing to our core value of [Iteration](https://handbook.dendron.so/notes/b89ba854-72fb-4ebc-a8a0-55960b89e9dc.html#iteration) - we encourage you to suggest changes and updates to this note and the handbook, both of which can be done via Pull Request (PR).
 
@@ -50,7 +50,7 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 
 ---
 
-### Before Starting at Dendron
+## Before Starting at Dendron
 
 <details>
 <summary>Manager</summary>
@@ -74,12 +74,12 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 1. [ ] Set new team member's Github group and project-level permissions as needed.
 </details>
 
-### Day 1 - Getting Started: Accounts and Paperwork
+## Day 1 - Getting Started: Accounts and Paperwork
 
 <details>
 <summary>New Team Member</summary>
 
-#### Rpass
+### Rpass
 
 1. [ ] :red_circle: Install rpass. Dendron provides all team members with an account to rpass to help manage work credentials.
 
@@ -92,7 +92,7 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
    1. [ ] :red_circle: Enable 2FA on your Dendron email account (Gmail/GSuite) (this should have been an option to do when you first received the invitation to the account).
    1. [ ] :red_circle: Enable [two-factor authentication](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication) on your Github account.
 
-##### Rippling
+#### Rippling
 
 **_This section is super important to ensure payroll + operations support. Please complete these items on your first day if possible._**
 
@@ -101,7 +101,7 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
    1. [ ] For contractors being paid by the hour, it may be useful to save an invoice template for future use. An invoice template can be found in Google Docs by searching `Invoice Template` or [here](https://docs.google.com/spreadsheets/d/1faslC4H_NSLsk8jd8xUuwgAjqhkdSlaI0D1WINA1y9Y/edit#gid=0).
 1. [ ] Don't forget to comply with the contract you signed, and make sure you understand [Intellectual Property](https://about.gitlab.com/handbook/people-group/code-of-conduct/#intellectual-property-and-protecting-ip).
 
-##### Discord
+#### Discord
 
 1. [ ] Register on Discord by following this [invitation link](https://discord.gg/xrKTUStHNZ). Read the next suggestions on how to choose a username first.
 1. [ ] You can use your personal discord OR choose to create a new username using your Dendron email. It's generally helpful to choose a username to be the same as your Github handle, for consistency and ease of use.
@@ -116,7 +116,7 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 
 ---
 
-### Day 2 - Remote Working and our Values
+## Day 2 - Remote Working and our Values
 
 <details>
 <summary>New Team Member</summary>
@@ -165,14 +165,14 @@ may not fall during your first week.
 
 </details>
 
-### Day 3 - Social
+## Day 3 - Social
 
 <details>
 <summary>New Team Member</summary>
    
 1. [ ] Create and add your own [README](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#creating-and-publishing-your-gitlab-readme). This may take some time to create so please feel free to iterate on it once you get some details in to your user.<name> hierarchy in Dendron.
 
-#### Social media + Expenses
+### Social media + Expenses
 
 - [ ] Connect with or follow Dendron's social media sites:
       [LinkedIn](https://www.linkedin.com/company/dendron-so/),
@@ -180,7 +180,7 @@ may not fall during your first week.
       [YouTube](https://www.youtube.com/channel/UC8GQLj4KZhN8WcJPiKXtcRQ).
 - [ ] Familiarize yourself with our [[expense report process|dendron.sop.expensing]] and bookmark the [link](https://airtable.com/shrtJd0sitnY6Bfre) to expensing stuff.
 
-#### Your Role
+### Your Role
 
 - Spend the rest of your day doing your Role-based tasks (see the Job-specific
   tasks at the end of this issue and in your assigned role-based onboarding
@@ -190,19 +190,19 @@ may not fall during your first week.
 
 ---
 
-### Day 4 - Dendron + Github
+## Day 4 - Dendron + Github
 
 <details>
 <summary>New Team Member</summary>
 
 For those new to Github and Dendron, it's important to get familiar with the below and [bookmark these links](https://about.gitlab.com/company/culture/all-remote/self-service/)
 
-#### General Breakdown
+### General Breakdown
 
 1. [ ] Read how devs can [contribute](https://wiki.dendron.so/notes/81da87be-2d4e-47b5-a1d6-c0d647e1ab00.html) to Dendron.
 1. [ ] Read [this page](https://wiki.dendron.so/notes/3489b652-cd0e-4ac8-a734-08094dc043eb.html) and all child pages for an overview of the Dendron Development Process
 
-##### Issues and Issue Trackers
+#### Issues and Issue Trackers
 
 1. [ ] Learn how to use [Github Issues](https://github.com/dendronhq/dendron/issues). We use Github Issues to raise awareness, discuss, and propose solutions for various issues related to any aspect of our business. The most common issues are created in the following projects:
    - [Dendron](https://github.com/dendronhq/dendron/issues) - Issues related to
@@ -215,11 +215,12 @@ For those new to Github and Dendron, it's important to get familiar with the bel
 
 ---
 
-#### Survey
+### Survey
 
 1. [ ] Set a reminder for 30 days past your start date to complete the [Onboarding Survey](TODO). We're actively trying to improve this process so please be proactive in reporting issues (or fixing them).
 
-### Job-specific tasks
+## Job-specific tasks
+- [[Engineering|eng.onboarding]]
 
 <details>
 
@@ -231,15 +232,15 @@ For those new to Github and Dendron, it's important to get familiar with the bel
 
 <!-- include: intern_tasks -->
 
-#### Day 10
+### Day 10
 
 - [ ] Schedule a mid-point check-in with your mentor that should happen by about week 8 of your internship
 
-#### Day 30
+### Day 30
 
 - [ ] Have clarity/weekly breakdown for the remaining weeks of the internship. Review this with your mentor to make sure you're on the same page.
 
-#### Day 90
+### Day 90
 
 - [ ] Make sure you have scheduled a community office hour slot to demo/show-off what you've built. There should be a mini-announcement that goes out in the Discord prior to the office hour.
 

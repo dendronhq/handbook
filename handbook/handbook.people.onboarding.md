@@ -2,7 +2,7 @@
 id: 09a34445-345d-42c9-b82b-6f6691aed668
 title: Onboarding
 desc: ""
-updated: 1620679694498
+updated: 1622500995400
 created: 1618789330639
 ---
 
@@ -60,27 +60,9 @@ You can see our annual goals as a company in the [[yearly|handbook.map#yearly]] 
 
 You can also look at individual [[user|handbook.map#user]] hierarchies to see the day to day tasks.
 
-## Doing your first task
-
-At this point, you can get started by picking off a good first task from our backlog. You can find our coding guidelines, how to setup Dendron and a list of good first tasks [here](https://wiki.dendron.so/notes/81da87be-2d4e-47b5-a1d6-c0d647e1ab00.html).
-
 ## Workflow
 
-Use the workspace commands to keep your repository in sync
-
-```sh
-# add . && commit all vaults
-dendron workspace addAndCommit
-
-# pull --rebase all vaults
-dendron workspace pull
-
-# push all vaults
-dendron workspace push
-
-# run all the commands above
-dendron workspace sync
-```
+Use `> Workspace: Sync` to keep your repository in sync
 
 ### Merge Conflicts
 
