@@ -8,7 +8,7 @@ created: 1619479695413
 
 ## Summary
 
-The following describes how the Dendron org speciifc workspace is structured. Note that these notes are not available publically but we use this page to document our internal structure in case its helpful for others.
+The following describes how the Dendron org specific workspace is structured. Note that these notes are not available publically but we use this page to document our internal structure in case its helpful for others.
 
 ## Vaults
 
@@ -18,7 +18,7 @@ This is for company internal notes
 
 ### org-dev
 
-This is for developer documentation 
+This is for developer documentation
 
 ## Hierarchies
 
@@ -30,7 +30,7 @@ Fanciful ideas about new features or fixes for Dendron can also be put in `user.
 
 ### weekly
 
-This tracks weekly sprint items for the company. 
+This tracks weekly sprint items for the company.
 
 ### yearly
 
