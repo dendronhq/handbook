@@ -2,7 +2,7 @@
 id: 09a34445-345d-42c9-b82b-6f6691aed668
 title: Onboarding
 desc: ""
-updated: 1620679694498
+updated: 1622544097102
 created: 1618789330639
 ---
 
@@ -20,7 +20,7 @@ The following describes what onboarding at Dendron looks like
 
 ## Information
 
-We need your github handle and discord handle to add you to our workspace and community. If you do not have accounts, please create one and message `kpats` with the details.
+We need your github handle and discord handle to add you to our workspace and community. If you do not have accounts, please create one and message `kpats@` with the details. Once you've got access, you can proceed to the following steps.
 
 ## Setting up your workspace
 
@@ -54,33 +54,25 @@ Take a moment to read the `handbook.company*` notes. Especially the following se
 
 ## Getting context
 
-You can get caught up on what we're working on recently by reviewing the [[weekly|handbook.map#weekly]] hierarchy.
+You can get caught up on what we've been working on recently by reviewing the [[weekly|handbook.map#weekly]] hierarchy.
 
 You can see our annual goals as a company in the [[yearly|handbook.map#yearly]] hierarchy.
 
-You can also look at individual [[user|handbook.map#user]] hierarchies to see the day to day tasks.
+You can also look at individual [[user|handbook.map#user]] hierarchies to see each person's day to day tasks.
+
+This would also be a good time to start your own user.<name> hierarchy. If you have an email alias w/ Dendron, that would be good to use. If not, feel free to pick any name that doesn't conflict with someone's existing note.
+
+- [ ] Create your user.\*.journal.daily hierarchy
 
 ## Doing your first task
 
 At this point, you can get started by picking off a good first task from our backlog. You can find our coding guidelines, how to setup Dendron and a list of good first tasks [here](https://wiki.dendron.so/notes/81da87be-2d4e-47b5-a1d6-c0d647e1ab00.html).
 
+- [ ] Add the details of your first task to your daily journal so you can take notes/ask for help etc.
+
 ## Workflow
 
-Use the workspace commands to keep your repository in sync
-
-```sh
-# add . && commit all vaults
-dendron workspace addAndCommit
-
-# pull --rebase all vaults
-dendron workspace pull
-
-# push all vaults
-dendron workspace push
-
-# run all the commands above
-dendron workspace sync
-```
+Use the `Dendron: Workspace: Sync` command (command bar + Dendron: Workspace Sync) to keep your repository up to date.
 
 ### Merge Conflicts
 
