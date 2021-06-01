@@ -2,7 +2,7 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Checklist
 desc: ""
-updated: 1621759321769
+updated: 1622543954782
 created: 1620248731246
 ---
 
@@ -46,9 +46,16 @@ Though you may be eager to jump right into your role we encourage you to set asi
 
 In the interests of paying it forward and contributing to our core value of [Iteration](https://handbook.dendron.so/notes/b89ba854-72fb-4ebc-a8a0-55960b89e9dc.html#iteration) - we encourage you to suggest changes and updates to this note and the handbook, both of which can be done via Pull Request (PR).
 
-Along with this you will complete onboarding on Day Thirty by being asked to fill out the [Onboarding Satisfaction Survey](TODO), which is an opportunity to share feedback on your general Onboarding Experience.
+Along with this you will complete onboarding on Day Thirty by being asked to fill out the [Onboarding Satisfaction Survey](https://airtable.com/shrcILcL6cm6lpCZt), which is an opportunity to share feedback on your general Onboarding Experience.
 
 ---
+
+> Note: You'll see certain comments throughout this checklist to clarify what is applicable to you. The comment is valid till the next section/heading. They are:
+>
+> - `<!-- Full time -->` applies only to team members that are working on Dendron full time (includes full-time contractors + interns)
+> - `<!-- Trial -->` applies to team members that are working on limited duration projects (2-4 weeks)
+> - `<!-- Hourly -->` applies to team members paid by the hour.
+> - If not specified, sections should be applicable to everyone.
 
 ### Before Starting at Dendron
 
@@ -56,22 +63,41 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 <summary>Manager</summary>
 
 1. [ ] Check to see if the new hire's Rippling onboard has been completed, if not send out a reminder.
-1. [ ] Schedule a Zoom video call with the new team member for the start of their first day to welcome them to the team and set expectations. Send them an invitation to their personal email. The team members Dendron email address will only be activated on their first day. You can find their personal email address on Rippling.
+1. [ ] Schedule a Zoom video call with the new team member for the start of their first day to welcome them to the team and set expectations. Send them an invitation to their personal email.
 1. [ ] Send an email to the new team member's personal email address welcoming them to Dendron. Provide them with a link to this note to help with a great first day experience.
+
+```eml
+Hi {{name}}
+
+Welcome to the team! Here's a couple of things to know for the first day:
+1. The information you need is documented at [onboarding instructions](https://handbook.dendron.so/notes/09a34445-345d-42c9-b82b-6f6691aed668.html) as well as the detailed [onboarding checklist](https://handbook.dendron.so/notes/c6b422a5-204a-41dd-8e47-f0b736160790.html). If you see anything that's confusing or doesn't seem like it applies, please reach out and I can work with you to get that piece updated/documented better.
+2. I need to give account access to you on Github/Discord. Could you let me know your ID's so I can do that?
+3. I'll be your POC for all things onboarding/paperwork. Feel free to email or discord chat me (<discord alias>).
+```
+
 1. [ ] Read through Gitlab's [Building Trust Handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/building-trust/).
 1. [ ] Organize a smooth onboarding plan with clear starting tasks and pathway for new team member (copy this note for the team member as a starting point)
 1. [ ] Review and add any Job-specific tasks to this note. Complete any manager tasks and coordinate with kpats@ if any changes are needed.
 
+<!--Full time only -->
+
+1. The team members Dendron email address will only be activated on their first day. You can find their personal email address on Rippling.
+
 ### Google account
+
+<!--Full time only -->
 
 1.  [ ] Log on to the [Google Admin console](https://admin.google.com/ac/users) and verify the chosen email address is not conflicting with a current account. Then assign the email to team meber and add the email address to [Rippling](https://app.rippling.com/dashboard) in the work email field.
 
 ### Accounts and Access
 
-1. [ ] Add the team members to the `Dendron Team` role in Discord. This will give them access to the relevant channels.
-1. [ ] Invite team member to recurring team meetings, consider pressing `don't send`, this will reduce noise in their inbox on day 1.
-1. [ ] Schedule weekly [1:1 meetings](https://about.gitlab.com/handbook/leadership/1-1/) with new team member. Use the first 15 minutes to get to know your new team member on a personal level.
 1. [ ] Set new team member's Github group and project-level permissions as needed.
+
+<!-- Full time -->
+
+1. [ ] Invite team member to recurring team meetings, consider pressing `don't send`, this will reduce noise in their inbox on day 1.
+1. [ ] Add the team members to the `Dendron Team` role in Discord. This will give them access to the relevant channels.
+1. [ ] Schedule weekly [1:1 meetings](https://about.gitlab.com/handbook/leadership/1-1/) with new team member. Use the first 15 minutes to get to know your new team member on a personal level.
 </details>
 
 ### Day 1 - Getting Started: Accounts and Paperwork
@@ -79,20 +105,40 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 <details>
 <summary>New Team Member</summary>
 
+#### Daily Journal Note
+
+1. [ ] Start the daily journal note for today.
+
+<!-- Hourly -->
+
+1. [ ] Please include two additional frontmatter fields that track the hours you've worked. It should look something like this:
+
+```
+---
+id: c6b422a5-204a-41dd-8e47-f0b736160790
+title: Daily note
+desc: ""
+updated: 1622543447981
+created: 1620248731246
+hoursToday: 8
+hoursMonth: 48
+---
+```
+
 #### Rpass
 
 1. [ ] :red_circle: Install rpass. Dendron provides all team members with an account to rpass to help manage work credentials.
 
    - [ ] Detailed instructions TBD.
 
-   #### 2FA (Two-Factor Authentication)
+#### 2FA (Two-Factor Authentication)
 
 1. [ ] Dendron requires you to enable 2FA (2-Step Verification, also known as two-factor authentication), because it adds an extra layer of security to your account. You sign in with something you know (your password) and something you have (a code you can copy from your Virtual Multi-Factor authentication Device, like [Authy](https://authy.com), FreeOTP, or Google Authenticator). Please make sure that time is set automatically on your device (ie. on Android: "Settings" > "Date & Time" > "Set automatically"). If you have problems with 2FA just let the team know! We can disable it for you to then set it up again. Reach out proactively if you're struggling - it's better than getting locked out and needing to wait for IT Ops to help you get back online.
 1. [ ] :red_circle: Do the next 3 steps Today. Actually -- why not RIGHT NOW. This absolutely must be done within a week or you will be locked out and need to wait for an admin to get around to helping you get reconnected.
    1. [ ] :red_circle: Enable 2FA on your Dendron email account (Gmail/GSuite) (this should have been an option to do when you first received the invitation to the account).
    1. [ ] :red_circle: Enable [two-factor authentication](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication) on your Github account.
 
-##### Rippling
+#### Rippling
 
 **_This section is super important to ensure payroll + operations support. Please complete these items on your first day if possible._**
 
@@ -101,16 +147,21 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
    1. [ ] For contractors being paid by the hour, it may be useful to save an invoice template for future use. An invoice template can be found in Google Docs by searching `Invoice Template` or [here](https://docs.google.com/spreadsheets/d/1faslC4H_NSLsk8jd8xUuwgAjqhkdSlaI0D1WINA1y9Y/edit#gid=0).
 1. [ ] Don't forget to comply with the contract you signed, and make sure you understand [Intellectual Property](https://about.gitlab.com/handbook/people-group/code-of-conduct/#intellectual-property-and-protecting-ip).
 
-##### Discord
+#### Discord
 
 1. [ ] Register on Discord by following this [invitation link](https://discord.gg/xrKTUStHNZ). Read the next suggestions on how to choose a username first.
 1. [ ] You can use your personal discord OR choose to create a new username using your Dendron email. It's generally helpful to choose a username to be the same as your Github handle, for consistency and ease of use.
    1. [ ] At Dendron [Transparency](https://handbook.dendron.so/notes/b89ba854-72fb-4ebc-a8a0-55960b89e9dc.html#transparencyy) is a value and we prefer to use Public channels in Discord. Continue to use public channels wherever possible (`#dev`), especially if it is a work related discussion (you may be surprised by the feedback you get from the community).
    1. Make sure your Discord profile has a **photo** - it makes it easier for other team members to remember you!
+1. [ ] If you're new to Discord, a short primer can be found at [a Beginner's guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
+1. [ ] We also encourage you to message with community members in #questions and #feedback.
+   - There are lots of other more informal channels (like #note-taking) where interesting stuff happens so check those out as well.
+
+<!-- Full time -->
+
+1. [ ] Make sure you have access to the #dendron-team channel and post an intro.
    1. We love to hear more, such as where you were before, family/pets, and hobbies.
    1. We also enjoy pictures if you're willing to share. Consider giving your new team members a glimpse into your world (scroll through previous messages in the channel for inspiration).
-1. [ ] If you're new to Discord, a short primer can be found at
-       [a Beginner's guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
 
 </details>
 
@@ -122,6 +173,8 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 <summary>New Team Member</summary>
 
 ### Remote Work
+
+<!--Trial/Part-time optional-->
 
 1. [ ] The first month at a remote company can be hard. **There is as much to unlearn as there is to learn**. Gitlab's a pioneer in this regard and have put together a great set of tips and tricks that will help. You can view their entire course listed below.
 1. [ ] Particularly if you're new to working in a 100% remote environment, read over the [Guide for starting a new remote role](https://about.gitlab.com/company/culture/all-remote/getting-started/). You'll find other tips for operating (and thriving!) in an all-remote setting within the [All-Remote section of the Gitlab handbook](https://about.gitlab.com/company/culture/all-remote/). Take some inspiration from the folks at Gitlab on how they structure their remote working day, read this helpful blog post [A day in the life of remote worker](https://about.gitlab.com/blog/2019/06/18/day-in-the-life-remote-worker/)
@@ -217,7 +270,7 @@ For those new to Github and Dendron, it's important to get familiar with the bel
 
 #### Survey
 
-1. [ ] Set a reminder for 30 days past your start date to complete the [Onboarding Survey](TODO). We're actively trying to improve this process so please be proactive in reporting issues (or fixing them).
+1. [ ] Set a reminder for 30 days past your start date to complete the [Onboarding Survey](https://airtable.com/shrcILcL6cm6lpCZt). We're actively trying to improve this process so please be proactive in reporting issues (or fixing them).
 
 ### Job-specific tasks
 
@@ -251,6 +304,8 @@ For those new to Github and Dendron, it's important to get familiar with the bel
 
 </details>
 
-## [Lookups](https://handbook.dendron.so/notes/b89ba854-72fb-4ebc-a8a0-55960b89e9dc.html#lookup)
+## [Lookup](https://handbook.dendron.so/notes/b89ba854-72fb-4ebc-a8a0-55960b89e9dc.html#lookup)
 
-- this page is inspired and comprised of contents from the following sources: [Gitlab](https://about.gitlab.com/handbook/) ([license](https://gitlab.com/gitlab-org/dco/blob/master/README.md))
+This section is both inspired by and borrows heavily from the following projects:
+
+- [Gitlab](https://about.gitlab.com/handbook/) ([license](https://gitlab.com/gitlab-org/dco/blob/master/README.md))
