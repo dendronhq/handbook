@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1622867666994
+updated: 1622949222765
 created: 1617987789017
 ---
 
@@ -22,7 +22,13 @@ Dendron wouldn't exist without our strong community. Our north star is meaningfu
 
 ## Lookup
 
-Instead of _not invented here_, we believe in _building on what already exists_. We actively seek to find order in the universe and add our node on top of what already exists.
+Instead of _not invented here_, we believe in _building on what already exists_. We actively seek to find order in the universe and add our node on top of what already exists. This means keeping our own knowledge organized so its easier for others to re-use as well as considering existing solutions before implementing our own thing. 
+
+### Key Principles
+
+#### Documentation First.
+
+In order to build on what exists, we need to first bring it forth into existence with writing.
 
 ### In Practice
 
@@ -69,7 +75,8 @@ Iteration means that we will hit the deadline but are flexible about the scope. 
 
 ## Sustainability
 
-We look for virtuous cycles and long term growth in all that we do. This means we think about both the long term **benefits and costs** of the actions we take and invest in areas that will take many years to bear fruit
+We look for virtuous cycles and long term growth in all that we do. This means we think about both the long term **benefits and costs** of the actions we take and invest in areas that will take many years to bear fruit. It also means we don't do things as a one off and try to find ways to re-use existing work. 
+
 
 ### In Practice
 - We pay down technical debt by dedicating cycles to it every sprint
