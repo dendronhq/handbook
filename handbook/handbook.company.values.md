@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1622949222765
+updated: 1622997769257
 created: 1617987789017
 ---
 
@@ -12,7 +12,18 @@ This page describes our values as a company. We are at our best when we operate 
 
 ## Community Focused
 
-Dendron wouldn't exist without our strong community. Our north star is meaningfully improving the lives of everyone who uses Dendron. The way we think about what to work on is guided by what would be best for our entire community.
+Dendron wouldn't exist without our strong community. Our north star is meaningfully improving the lives of everyone who uses Dendron. The way we think about what to work on is guided by what would be best for our entire community. 
+
+When we say community, we mean **everyone** who participates in Dendron: both our users and our team. 
+
+<!--  This still needs more clarification
+### Key Principles
+
+#### Do What is Best for the User
+
+#### Focus on the Team 
+When doing work 
+-->
 
 ### In Practice
 
@@ -26,7 +37,7 @@ Instead of _not invented here_, we believe in _building on what already exists_.
 
 ### Key Principles
 
-#### Documentation First.
+#### Documentation First
 
 In order to build on what exists, we need to first bring it forth into existence with writing.
 
