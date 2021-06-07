@@ -2,7 +2,7 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Checklist
 desc: ""
-updated: 1622543954782
+updated: 1623083065350
 created: 1620248731246
 ---
 ## Welcome to Dendron!
@@ -162,6 +162,11 @@ hoursMonth: 48
 1. [ ] Make sure you have access to the #dendron-team channel and post an intro.
    1. We love to hear more, such as where you were before, family/pets, and hobbies.
    1. We also enjoy pictures if you're willing to share. Consider giving your new team members a glimpse into your world (scroll through previous messages in the channel for inspiration).
+
+#### Workspace Setup
+
+Go to [[Job-specific tasks|handbook.people.onboarding.checklist#job-specific-tasks]] and complete setting up your workspace. 
+
 
 </details>
 
