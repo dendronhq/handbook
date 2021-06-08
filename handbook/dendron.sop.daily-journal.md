@@ -2,7 +2,7 @@
 id: f143773d-3f97-4dbd-8518-603fbb3b0288
 title: Daily Journal
 desc: ''
-updated: 1623169205113
+updated: 1623169920368
 created: 1623165719449
 ---
 ## Summary
@@ -20,6 +20,8 @@ A daily journal has the following sections
 - discussion
 - do
 - routine
+
+Note that your daily journal can have additional sections and customizations but the above is the minimum that we recommend. 
 
 ### Discussion
 
