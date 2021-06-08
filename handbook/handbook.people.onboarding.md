@@ -43,7 +43,7 @@ We need your github handle and discord handle to add you to our workspace and co
      name: handbook
      sync: noCommit
    ```
-   - NOTE: we need to do this because we want meaningful commit messages for these repositories. Setting them to private will prevent [workspace sync](https://wiki.dendron.so/notes/c4cf5519-f7c2-4a23-b93b-1c9a02880f6b.html#workspace-sync) from auto syncing them until you commit your changes.
+   - NOTE: we need to do this because we want meaningful commit messages for these repositories. Setting them to `noCommit` will prevent [workspace sync](https://wiki.dendron.so/notes/c4cf5519-f7c2-4a23-b93b-1c9a02880f6b.html#workspace-sync) from auto syncing them until you commit your changes.
 
 ## Company Values
 
