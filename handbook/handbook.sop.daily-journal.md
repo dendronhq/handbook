@@ -2,7 +2,7 @@
 id: f143773d-3f97-4dbd-8518-603fbb3b0288
 title: Daily Journal
 desc: ''
-updated: 1623248129124
+updated: 1623260718986
 created: 1623165719449
 ---
 ## Summary
@@ -10,6 +10,8 @@ created: 1623165719449
 The daily journal is how we do standup. Instead of a synchronous daily meeting, we do asynchronous journal notes. 
 
 We use the following [[template|templates.standup]] for people's daily journals. 
+
+A daily journal is located at `user.{username}.journal.{date}`.
 
 Daily journals for the current day should be filled out by 5PM local time. A daily journal for the next day should also be created at the same time.
 
