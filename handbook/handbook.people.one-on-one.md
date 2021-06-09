@@ -2,7 +2,7 @@
 id: 3a09792b-3cad-4dbd-8d7f-900bd4d57a2d
 title: One on One
 desc: ''
-updated: 1622419902325
+updated: 1623257224367
 created: 1619479326157
 ---
 
@@ -21,3 +21,5 @@ This is a starting template for what a one on one typically looks like.
 ## Process
 
 Before the one on one, team members are encouraged to fill out as much of the one-on-one template a day prior to help prepare both parties for the meeting.
+
+If you feel comfortable sharing these notes with the company, you can add them in the `private` vault. Otherwise, you can email them to the respective parties or message them over Discord.
