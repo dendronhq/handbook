@@ -2,7 +2,7 @@
 id: f143773d-3f97-4dbd-8518-603fbb3b0288
 title: Daily Journal
 desc: ''
-updated: 1623169920368
+updated: 1623248129124
 created: 1623165719449
 ---
 ## Summary
@@ -11,7 +11,7 @@ The daily journal is how we do standup. Instead of a synchronous daily meeting, 
 
 We use the following [[template|templates.standup]] for people's daily journals. 
 
-Daily journals for the current day should be filled out by 5PM local time or before 8AM Pacific time (whichever comes first). A daily journal for the next day should also be created at the same time.
+Daily journals for the current day should be filled out by 5PM local time. A daily journal for the next day should also be created at the same time.
 
 ## Details
 
