@@ -2,7 +2,7 @@
 id: f143773d-3f97-4dbd-8518-603fbb3b0288
 title: Daily Journal
 desc: ''
-updated: 1623260718986
+updated: 1623594139157
 created: 1623165719449
 ---
 ## Summary
@@ -13,7 +13,7 @@ We use the following [[template|templates.standup]] for people's daily journals.
 
 A daily journal is located at `user.{username}.journal.{date}`.
 
-Daily journals for the current day should be filled out by 5PM local time. A daily journal for the next day should also be created at the same time.
+Daily journals for the current day should be filled out by 5PM local time. A daily journal for the next day should also be created at the same time. For the weekend, make sure that the journal for Monday is ready EoD Friday. 
 
 ## Details
 
