@@ -2,7 +2,7 @@
 id: f143773d-3f97-4dbd-8518-603fbb3b0288
 title: Daily Journal
 desc: ''
-updated: 1623594139157
+updated: 1623669603545
 created: 1623165719449
 ---
 ## Summary
@@ -57,7 +57,11 @@ This is for things you want to do for the day. The format of this section is des
 
 ### Routine
 
-This is for tasks you should do at the end of everyday. 
+This is for tasks you should do by the end of everyday. 
+
+A common task here is to: 
+- Check on the [[weekly journal|handbook.sop.weekly-journal]] for tasks. This also has the nice side-effect of backlinking all weekly journals to the relevant daily journals.
 
 This is for you to customize. Depending on your role, this is different for everyone. We encourage you to create your own template at `templates.standup.{user}` and use that for your daily journals.
+
 
