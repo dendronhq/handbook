@@ -8,16 +8,13 @@ created: 1619479458479
 
 ## Agenda
 - chit chat
-<!-- talk about whats going on -->
+
+- feedback
 
 - current things
-<!-- go over blockers and current tasks -->
 
 - future things
-<!-- go over upcoming initiatives and long term goals -->
 
 - open 
-<!-- anything else -->
 
 ## Next
-<!-- action items from the meeting -->

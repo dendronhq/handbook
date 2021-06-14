@@ -18,6 +18,30 @@ This is a starting template for what a one on one typically looks like.
 
 ![[dendron://handbook/templates.one-on-one]]
 
+## Sections
+
+### chit chat
+Placeholder for casual conversation ahead of the meeting
+
+### feedback
+
+Any feedback people have for the other party. This works both ways. Can also be used to ask for feedback
+
+### current things
+
+Go over blockers and current tasks 
+
+### future things
+
+Go over upcoming initiatives and long term goals 
+
+### open 
+
+Anything else 
+
+### next
+Action items from the meeting 
+
 ## Process
 
 Before the one on one, team members are encouraged to fill out as much of the one-on-one template a day prior to help prepare both parties for the meeting.
