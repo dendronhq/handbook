@@ -88,12 +88,38 @@ Iteration means that we will hit the deadline but are flexible about the scope. 
 
 We look for virtuous cycles and long term growth in all that we do. This means we think about both the long term **benefits and costs** of the actions we take and invest in areas that will take many years to bear fruit. It also means we don't do things as a one off and try to find ways to re-use existing work. 
 
+### Key Principles
 
-### In Practice
-- We pay down technical debt by dedicating cycles to it every sprint
+#### Systems First
+
+While we generally trust that people will try to do the right thing, humans make mistakes. Its part of being human. Therefore, we aim to build automated processes and systems for common and complicated issues. 
+
+In Practice:
+- Continues Integration tests on all features
+- Checklists and SOPs for all processes
+
+#### Flywheels
+
+We are looking to create systems that make make things easier
+
+In Practice:
 - [[Lookup|handbook.company.values#lookup]] -> [[Iterate|handbook.company.values#iteration]] -> [[Learn|handbook.company.values#lifelong-learning]]
 
-## Passing It Forward
+#### Bias for Simplicity
+
+Things should be as complicated as they need to be and no more. 
+
+In Practice:
+- When creating new features, opt for sensible defaults vs need for extra configuration
+
+#### Pruning
+
+Complexity happens when growth happens in absence of feedback. Pruning is about inventing and simplifying.  Whether its working on Dendron, internal processes or external documentation, the goal is not to simply add more features and functions but also consider how things are like as a whole
+
+In Practice:
+- Dedicated [pruning](https://wiki.dendron.so/notes/3be48b69-76e1-495e-9314-cae2fe22813d.html#pruning-️) section in changelog
+- Monthly review of internal processes and external docs for pruning opportunities
+
 
 We leave things better than we found it. Code, knowledge, the world - we like to leave things so that the next person coming back do it will have a better way of starting.
 
