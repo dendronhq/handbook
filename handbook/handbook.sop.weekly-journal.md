@@ -2,7 +2,7 @@
 id: CNP6_cMc1K8EtOEFi-e0P
 title: Weekly Journal
 desc: ''
-updated: 1623774208703
+updated: 1623774308142
 created: 1623631213317
 ---
 
@@ -13,6 +13,8 @@ The weekly journal is how we track tasks and priorities for individuals. It is a
 We use the following template for weekly journals:
 
 ![[dendron://handbook/templates.weekly-journal]]
+
+Weekly journals should be under `user.{name}.weekly.*`
 
 ## Details
 
