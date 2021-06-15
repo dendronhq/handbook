@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1622997769257
+updated: 1623743483926
 created: 1617987789017
 ---
 
@@ -35,16 +35,16 @@ When doing work
 
 Instead of _not invented here_, we believe in _building on what already exists_. We actively seek to find order in the universe and add our node on top of what already exists. This means keeping our own knowledge organized so its easier for others to re-use as well as considering existing solutions before implementing our own thing. 
 
+### In Practice
+
+- we use standard markdown where possible and expand where needed, with a focus on interoperability and portability
+- we based our values off our experience in past companies as well as places we admire
 ### Key Principles
 
 #### Documentation First
 
 In order to build on what exists, we need to first bring it forth into existence with writing.
 
-### In Practice
-
-- we use standard markdown where possible and expand where needed, with a focus on interoperability and portability
-- we based our values off our experience in past companies as well as places we admire
 
 ## Pragmatism
 
@@ -88,6 +88,13 @@ Iteration means that we will hit the deadline but are flexible about the scope. 
 
 We look for virtuous cycles and long term growth in all that we do. This means we think about both the long term **benefits and costs** of the actions we take and invest in areas that will take many years to bear fruit. It also means we don't do things as a one off and try to find ways to re-use existing work. 
 
+We leave things better than we found it. Code, knowledge, the world - we like to leave things so that the next person coming back do it will have a better way of starting.
+
+### In Practice
+- all important decisions and learnings are written down in the company handbook so everyone can benefit
+- We are collecting and indexing the worlds data in publically available vaults on [Personal Knowledge Management](https://pkm.dendron.so/), [AWS](https://aws.dendron.so/) and of course [XKCD](https://xkcd.dendron.so/)
+- we are not shy about prioritizing and will opt to scope down or postpone feature work that would otherwise force us to work unsustainably (long hours, taking on tech debt, buggy). 
+
 ### Key Principles
 
 #### Systems First
@@ -95,7 +102,7 @@ We look for virtuous cycles and long term growth in all that we do. This means w
 While we generally trust that people will try to do the right thing, humans make mistakes. Its part of being human. Therefore, we aim to build automated processes and systems for common and complicated issues. 
 
 In Practice:
-- Continues Integration tests on all features
+- Continuous Integration tests on all features
 - Checklists and SOPs for all processes
 
 #### Flywheels
@@ -120,10 +127,4 @@ In Practice:
 - Dedicated [pruning](https://wiki.dendron.so/notes/3be48b69-76e1-495e-9314-cae2fe22813d.html#pruning-️) section in changelog
 - Monthly review of internal processes and external docs for pruning opportunities
 
-
-We leave things better than we found it. Code, knowledge, the world - we like to leave things so that the next person coming back do it will have a better way of starting.
-
-### In Practice
-- all important decisions and learnings are written down in the company handbook so everyone can benefit
-- We are collecting and indexing the worlds data in publically available vaults on [Personal Knowledge Management](https://pkm.dendron.so/), [AWS](https://aws.dendron.so/) and of course [XKCD](https://xkcd.dendron.so/)
 
