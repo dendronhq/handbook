@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1622997769257
+updated: 1623770669652
 created: 1617987789017
 ---
 
@@ -35,16 +35,16 @@ When doing work
 
 Instead of _not invented here_, we believe in _building on what already exists_. We actively seek to find order in the universe and add our node on top of what already exists. This means keeping our own knowledge organized so its easier for others to re-use as well as considering existing solutions before implementing our own thing. 
 
+### In Practice
+
+- we use standard markdown where possible and expand where needed, with a focus on interoperability and portability
+- we based our values off our experience in past companies as well as places we admire
 ### Key Principles
 
 #### Documentation First
 
 In order to build on what exists, we need to first bring it forth into existence with writing.
 
-### In Practice
-
-- we use standard markdown where possible and expand where needed, with a focus on interoperability and portability
-- we based our values off our experience in past companies as well as places we admire
 
 ## Pragmatism
 
@@ -60,7 +60,7 @@ We care about putting high quality, well thought through products out to custome
 
 ### In Practice
 
-- We prioritize entire customer scenarios over component areas.
+- We prioritize entire customer scenarios over component areas
 
 ## Transparency
 
@@ -82,22 +82,57 @@ Iteration means that we will hit the deadline but are flexible about the scope. 
 
 - We publish our work (eg. code, handbook, roadmap) in the process of working on it
 - We push out updates on a [weekly release cycle](https://wiki.dendron.so/notes/932534e7-e788-4fdb-bc8c-eaf761992a8d.html)
-- We dedicate a `learnings` section to the end of every project to figure out how to improve the process for next time
+<!-- - We dedicate a `learnings` section to the end of every project to figure out how to improve the process for next time -->
 
 ## Sustainability
 
 We look for virtuous cycles and long term growth in all that we do. This means we think about both the long term **benefits and costs** of the actions we take and invest in areas that will take many years to bear fruit. It also means we don't do things as a one off and try to find ways to re-use existing work. 
 
+We leave things better than we found it. Code, knowledge, the world - we like to leave things so that the next person coming back do it will have a better way of starting.
 
 ### In Practice
-- We pay down technical debt by dedicating cycles to it every sprint
+- All important decisions and learnings are written down in the company handbook so everyone can benefit
+- We are collecting and indexing the worlds data in publically available vaults on [Personal Knowledge Management](https://pkm.dendron.so/), [AWS](https://aws.dendron.so/) and of course [XKCD](https://xkcd.dendron.so/)
+- We would rather scope down or postpone work than do work that is unsustainable (eg. extended long hours, significant tech debt or operational cost, etc)
+
+### Key Principles
+
+#### Systems First
+
+While we generally trust that people will try to do the right thing, humans make mistakes. Its part of being human. Therefore, we aim to build automated processes and systems for common and complicated issues. 
+
+In Practice:
+- Continuous Integration tests on all features
+- Checklists and SOPs for all processes
+
+#### Flywheels
+
+We are looking to create systems that make make things easier
+
+In Practice:
 - [[Lookup|handbook.company.values#lookup]] -> [[Iterate|handbook.company.values#iteration]] -> [[Learn|handbook.company.values#lifelong-learning]]
 
-## Passing It Forward
+#### Bias for Simplicity
+
+Things should be as complicated as they need to be and no more. 
+
+In Practice:
+- When creating new features, opt for sensible defaults vs need for extra configuration
+
+#### Pruning
+
+Complexity happens when growth happens in absence of feedback. Pruning is about inventing and simplifying.  Whether its working on Dendron, internal processes or external documentation, the goal is not to simply add more features and functions but also consider how things are like as a whole
+
+In Practice:
+- Dedicated [pruning](https://wiki.dendron.so/notes/3be48b69-76e1-495e-9314-cae2fe22813d.html#pruning-️) section in changelog
+- Monthly review of internal processes and external docs for pruning opportunities
+
+
+<!-- ## Passing It Forward
 
 We leave things better than we found it. Code, knowledge, the world - we like to leave things so that the next person coming back do it will have a better way of starting.
 
 ### In Practice
 - all important decisions and learnings are written down in the company handbook so everyone can benefit
-- We are collecting and indexing the worlds data in publically available vaults on [Personal Knowledge Management](https://pkm.dendron.so/), [AWS](https://aws.dendron.so/) and of course [XKCD](https://xkcd.dendron.so/)
-
+- we are collecting and indexing the worlds data in publically available vaults on [Personal Knowledge Management](https://pkm.dendron.so/), [AWS](https://aws.dendron.so/) and of course [XKCD](https://xkcd.dendron.so/)
+ -->
