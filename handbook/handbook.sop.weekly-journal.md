@@ -2,7 +2,7 @@
 id: CNP6_cMc1K8EtOEFi-e0P
 title: Weekly Journal
 desc: ''
-updated: 1623669626891
+updated: 1623774208703
 created: 1623631213317
 ---
 
@@ -30,3 +30,6 @@ These are items that you are currently blocked on. If an item from a daily journ
 
 ## Weekly recurring
 Recurring tasks you *must do* on a certain day go here. Consider replacing with a recurring invite calendar if that's more your style, though it's a nice feeling to be able to check things off during the week. 
+
+## Next
+Things to bring up for weekly planning session. This can be new ideas or the second phase of current tasks.
