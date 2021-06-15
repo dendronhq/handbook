@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1623743483926
+updated: 1623770669652
 created: 1617987789017
 ---
 
@@ -60,7 +60,7 @@ We care about putting high quality, well thought through products out to custome
 
 ### In Practice
 
-- We prioritize entire customer scenarios over component areas.
+- We prioritize entire customer scenarios over component areas
 
 ## Transparency
 
@@ -82,7 +82,7 @@ Iteration means that we will hit the deadline but are flexible about the scope. 
 
 - We publish our work (eg. code, handbook, roadmap) in the process of working on it
 - We push out updates on a [weekly release cycle](https://wiki.dendron.so/notes/932534e7-e788-4fdb-bc8c-eaf761992a8d.html)
-- We dedicate a `learnings` section to the end of every project to figure out how to improve the process for next time
+<!-- - We dedicate a `learnings` section to the end of every project to figure out how to improve the process for next time -->
 
 ## Sustainability
 
@@ -91,9 +91,9 @@ We look for virtuous cycles and long term growth in all that we do. This means w
 We leave things better than we found it. Code, knowledge, the world - we like to leave things so that the next person coming back do it will have a better way of starting.
 
 ### In Practice
-- all important decisions and learnings are written down in the company handbook so everyone can benefit
+- All important decisions and learnings are written down in the company handbook so everyone can benefit
 - We are collecting and indexing the worlds data in publically available vaults on [Personal Knowledge Management](https://pkm.dendron.so/), [AWS](https://aws.dendron.so/) and of course [XKCD](https://xkcd.dendron.so/)
-- we are not shy about prioritizing and will opt to scope down or postpone feature work that would otherwise force us to work unsustainably (long hours, taking on tech debt, buggy). 
+- We would rather scope down or postpone work than do work that is unsustainable (eg. extended long hours, significant tech debt or operational cost, etc)
 
 ### Key Principles
 
@@ -128,3 +128,11 @@ In Practice:
 - Monthly review of internal processes and external docs for pruning opportunities
 
 
+<!-- ## Passing It Forward
+
+We leave things better than we found it. Code, knowledge, the world - we like to leave things so that the next person coming back do it will have a better way of starting.
+
+### In Practice
+- all important decisions and learnings are written down in the company handbook so everyone can benefit
+- we are collecting and indexing the worlds data in publically available vaults on [Personal Knowledge Management](https://pkm.dendron.so/), [AWS](https://aws.dendron.so/) and of course [XKCD](https://xkcd.dendron.so/)
+ -->

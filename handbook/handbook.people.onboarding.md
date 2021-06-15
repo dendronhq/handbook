@@ -2,7 +2,7 @@
 id: 09a34445-345d-42c9-b82b-6f6691aed668
 title: Onboarding
 desc: ""
-updated: 1623123840979
+updated: 1623770024493
 created: 1618789330639
 ---
 
@@ -93,5 +93,5 @@ dendron workspace sync
 
 ## Next Steps
 
-- Make sure you have access to the code: [[Code|dendron://private/pro]]
+- Make sure you have access to the code: [[Code|dendron://private/pkg]]
 - Now that you have access to the company vaults, copy the [[Checklist |handbook.people.onboarding.checklist]] over to your own user.<alias> hierarchy and get started on that.
