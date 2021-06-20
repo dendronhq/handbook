@@ -2,7 +2,7 @@
 id: klS6q6LxytW3N-OjLTMOz
 title: Weekly Journal
 desc: ''
-updated: 1623774180747
+updated: 1623866173494
 created: 1623631296835
 ---
 
@@ -12,6 +12,8 @@ created: 1623631296835
 ## Ongoing Projects 
 
 ## Completed Projects
+
+## Assigned
 
 ## Blocked
 

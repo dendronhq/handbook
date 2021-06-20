@@ -2,7 +2,7 @@
 id: CNP6_cMc1K8EtOEFi-e0P
 title: Weekly Journal
 desc: ''
-updated: 1623774308142
+updated: 1624212468194
 created: 1623631213317
 ---
 
@@ -26,6 +26,9 @@ Every team member is responsible for one or more projects that will span multipl
 
 ### Completed Projects
 Once a project is completed (🥳) move it down here to archive it. 
+
+### Assigned
+Things you want to get to during the week. Items that you aren't ready to work on can be put here
 
 ### Blocked
 These are items that you are currently blocked on. If an item from a daily journal is pending external action and not resolved at the end of the day, it is good to move here. 
