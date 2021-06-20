@@ -2,7 +2,7 @@
 id: 09a34445-345d-42c9-b82b-6f6691aed668
 title: Onboarding
 desc: ""
-updated: 1623770024493
+updated: 1624151417579
 created: 1618789330639
 ---
 
@@ -31,20 +31,7 @@ We need your github handle and discord handle to add you to our workspace and co
      - org-dev: dev specific things (eg. deployment, qa, operations, etc)
    - you can see what we've been working on under `user.{name}.journal.*` hierarchies
 
-1. Use the `Vault Add` command to add the following remote vaults
-   - endpoint: https://github.com/dendronhq/handbook
-   - endpoint: https://github.com/dendronhq/dendron-site
-   - NOTE: we currently have to do this because these are [workspace vaults](https://wiki.dendron.so/notes/c6fd6bc4-7f75-4cbb-8f34-f7b99bfe2d50.html#workspace-vault). Dendron doesn't add them automatically from the workspace file
-   - NOTE2: this also means that you shouldn't commit anything to the `org-workspace`until this is resolved
-1. After adding the remote vaults, use `Configure(yaml)` and change the sync option of `dendron-site` and `handbook` to `noCommit` (see example below)
-   ```yml
-   - 
-     fsPath: repos/handbook/handbook
-     name: handbook
-     sync: noCommit
-   ```
-   - NOTE: we need to do this because we want meaningful commit messages for these repositories. Setting them to `noCommit` will prevent [workspace sync](https://wiki.dendron.so/notes/c4cf5519-f7c2-4a23-b93b-1c9a02880f6b.html#workspace-sync) from auto syncing them until you commit your changes.
-
+-
 ## Company Values
 
 Take a moment to read the `handbook.company*` notes. Especially the following sections:
