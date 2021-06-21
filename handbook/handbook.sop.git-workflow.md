@@ -54,9 +54,9 @@ refactor!: drop support for Node 6
 
 ### Creating a pull request
 
-Because we do weekly releases, we like to do a weekly cadence for pull requests as well. Pull requests for next week's release should be in 5pm local time on Thursday at the latest. 
+Because we do weekly releases, we like to do a weekly cadence for pull requests as well. Pull requests for next week's release should be in 5pm local time (your timezone) on Thursday at the latest. 
 
-If your feature is not yet ready, you are encouraged to submit a pull request but mark it as a draft. This lets others comment on the design. If your part of the core team, this is the standard practice for weekly deliverables.
+If your feature is not yet ready, you are encouraged to submit a pull request but mark it as a draft. This lets others comment on the design. If you're part of the core team, this is the standard practice for weekly deliverables.
 
 If its your first pull request to Dendron, watch out for the [CLA](https://en.wikipedia.org/wiki/Contributor_License_Agreement) bot that will ask you to agree to Dendron's CLA
 
@@ -69,7 +69,7 @@ Optionally, ping `@Dendron Team` in the `#dev` channel of our [discord](https://
 
 ### Merging Changes
 
-Once your feature request has been approved, it will most likely be merged by the person that is reviewing your code. 
+Once your feature request has been approved, it will most likely be merged by the person that is reviewing your code. We do a release every Monday which is also when you should expect your feature to be shipped. We also do an early seed release Thursdays/Fridays. If your changes are in before then, they can also be shipped along side the early seed
 
 ## Checklist
 
