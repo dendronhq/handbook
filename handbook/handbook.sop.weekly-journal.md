@@ -2,7 +2,7 @@
 id: CNP6_cMc1K8EtOEFi-e0P
 title: Weekly Journal
 desc: ''
-updated: 1624292408975
+updated: 1624357333746
 created: 1623631213317
 ---
 
@@ -46,7 +46,9 @@ Things to bring up for weekly planning session. This can be new ideas or the sec
 ```
 
 ### Features
-New features
+
+- **Fuzzier Lookup** - if we can make `Ctrl+L` have the same fuzziness as `Ctrl+P`.
+  Example: `user.jonjournal` still produces matches in `Ctrl+P`, but not `Ctrl+L`.
 
 ### Fixes
 Bug fixes
