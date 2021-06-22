@@ -2,7 +2,7 @@
 id: c9UtqSWj7tBL18hgOkjG5
 title: Sop
 desc: ''
-updated: 1624217315854
+updated: 1624323594444
 created: 1624213241116
 ---
 
@@ -20,6 +20,10 @@ Do not just blindly accept the SOP. When you approve the SOP, it means that you 
 ### Updating an existing SOP
 
 Same instructions as [[Creating a new SOP|handbook.sop.sop#creating-a-new-sop]]
+
+### Executing a SOP
+
+When executing a SOP, if that SOP has a `## Checklist`, be sure to copy that checklist into the task tracking the execution of said SOP
 
 ## Checklist
 - [ ] create/update sop
@@ -41,7 +45,7 @@ High level overview of the SOP
 
 Series of steps to do to complete the SOP
 
-#### Tempalte
+#### Template
 
 Template for the sop
 
