@@ -2,7 +2,7 @@
 id: tIFX0R6iEvZUGkOJluYo1
 title: Git Workflow
 desc: ''
-updated: 1624216920883
+updated: 1624323887653
 created: 1624215795020
 ---
 
@@ -54,7 +54,13 @@ refactor!: drop support for Node 6
 
 ### Creating a pull request
 
-Because we do weekly releases, we like to do a weekly cadence for pull requests as well. Pull requests for next week's release should be in 5pm local time (your timezone) on Thursday at the latest. 
+Because we do weekly releases, we like to do a weekly cadence for pull requests as well. Pull requests for next week's release should be in EOD Thursday ([your timezone](https://www.timeanddate.com/worldclock/converter.html?iso=20210625T115900&p1=tz_aoe&p2=234&p3=64&p4=805&p5=102)).
+
+The naming convention for a pull request is similar to that of a commit and takes the format `{category}: {description}`
+
+```
+feat: Dendron can now pass the Turing test
+```
 
 If your feature is not yet ready, you are encouraged to submit a pull request but mark it as a draft. This lets others comment on the design. If you're part of the core team, this is the standard practice for weekly deliverables.
 
