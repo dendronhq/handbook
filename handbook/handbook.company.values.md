@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1623770669652
+updated: 1624213075314
 created: 1617987789017
 ---
 
@@ -39,12 +39,16 @@ Instead of _not invented here_, we believe in _building on what already exists_.
 
 - we use standard markdown where possible and expand where needed, with a focus on interoperability and portability
 - we based our values off our experience in past companies as well as places we admire
+
 ### Key Principles
 
 #### Documentation First
 
 In order to build on what exists, we need to first bring it forth into existence with writing.
 
+#### No One Offs
+
+There are very few things that we will do exactly once. For everything else, we will make sure to document things so that others can build off our work.
 
 ## Pragmatism
 
@@ -61,6 +65,12 @@ We care about putting high quality, well thought through products out to custome
 ### In Practice
 
 - We prioritize entire customer scenarios over component areas
+
+### Key Principles
+
+#### Closing the Loop
+
+Whether we are working on features or improving processes, the job isn't done until value has been delivered. That means shipping the feature isn't enough - our users need to be able to adopt and get value from said feature in the daily workflow. SOPs aren't considered done until the team and the community are able to successfully adopt them. 
 
 ## Transparency
 
