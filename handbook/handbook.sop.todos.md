@@ -19,22 +19,20 @@ This goes over how we format todo notes at Dendron.
 
 This is added to the end of a todo. 
 
-
-- p: postponed (move to next day)
-- `>`: move to next day (usually combined with `make progress` status)
+- n: move to next day (usually combined with `make progress` status)
 - x: done
-- ~: no longer applicable (dropped)
+- d: dropped 
 - .: made progress
-- y: pending deployment
-- v: pending verification
+- y: pending deployment or verification
 - b: blocked
 - m: moved 
 
-Examples
+
+## Examples
+
 ```
 - [x] foo task <!-- finished task -->
-- [p] foo task <!-- did not get to task, moving to tomorrow -->
 - [~] foo task <!-- not doing task, no longer relevant -->
-- [.>] foo task <!-- got to task but not done, moving to tomorrow -->
+- [.n] foo task <!-- got to task but not done, moving to tomorrow. note that statuses can be stacked -->
 - [m] foo task <!-- did not get to task, moving to backlog -->
 ```
