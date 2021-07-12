@@ -32,7 +32,7 @@ This is added to the end of a todo.
 
 ```
 - [x] foo task <!-- finished task -->
-- [~] foo task <!-- not doing task, no longer relevant -->
+- [d] foo task <!-- not doing task, no longer relevant -->
 - [.n] foo task <!-- got to task but not done, moving to tomorrow. note that statuses can be stacked -->
 - [m] foo task <!-- did not get to task, moving to backlog -->
 ```
