@@ -2,13 +2,13 @@
 id: McHGENxbFZQ5B335
 title: Backlog Journal
 desc: ''
-updated: 1626746418407
+updated: 1626800463825
 created: 1626710849040
 ---
 
 ## Summary
 
-The backlog journal is where we track items that fall outsidie of scope for the day or the week
+The backlog journal is where we track items that fall outside of scope for the day or the week
 
 ## Process
 
@@ -31,7 +31,7 @@ This is for items that should be done in the next week
 
 #### Later
 
-This is for items that should be done further out then a week from now. Later in turn is sorted by tasks that are due 1, 2, or 3 months from now. There shouldn't be any project that is further out then 3 months. That belongs in the team backlog.
+This is for items that should be done further out then a week from now. Later in turn is sorted by tasks that are due 1, 2, or 3 months from now. There shouldn't be any project that is further out than 3 months. That belongs in the team backlog.
 
 ```markdown
 ## Later
