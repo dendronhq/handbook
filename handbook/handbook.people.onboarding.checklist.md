@@ -2,7 +2,7 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Checklist
 desc: ""
-updated: 1623083065350
+updated: 1626867552117
 created: 1620248731246
 ---
 ## Welcome to Dendron!
@@ -298,6 +298,7 @@ For those new to Github and Dendron, it's important to get familiar with the bel
 ### Day 30
 
 - [ ] Have clarity/weekly breakdown for the remaining weeks of the internship. Review this with your mentor to make sure you're on the same page.
+- [ ] (If needed) Get added to the [[dendron.sop.oncall.rotation]]. 
 
 ### Day 90
 
