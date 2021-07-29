@@ -2,7 +2,7 @@
 id: 0292b34e-47eb-4499-8f49-d9891accdb3d
 title: Todos
 desc: ''
-updated: 1623348727378
+updated: 1627272127755
 created: 1622146649559
 ---
 
@@ -26,6 +26,7 @@ This is added to the end of a todo.
 - y: pending deployment or verification
 - b: blocked
 - m: moved 
+- l: delegated to someone else
 
 
 ## Examples
