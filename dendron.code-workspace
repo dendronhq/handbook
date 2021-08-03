@@ -1,7 +1,8 @@
 {
     "folders": [
         {
-            "path": "handbook"
+            "path": "handbook",
+            "name": "dendron.handbook"
         },
         {
             "path": "."

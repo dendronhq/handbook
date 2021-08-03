@@ -1,6 +1,8 @@
 version: 1
 vaults:
-    - fsPath: handbook
+    -
+        fsPath: handbook
+        name: dendron.handbook
 useFMTitle: true
 useNoteTitleForLink: true
 usePrettyRefs: false
@@ -11,7 +13,7 @@ site:
     siteRootDir: docs
     logo: handbook/assets/images/logo.png
     usePrettyRefs: true
-    siteUrl: https://handbook.dendron.so
+    siteUrl: 'https://handbook.dendron.so'
     title: Dendron Handbook
     gh_edit_repository: 'https://github.com/dendronhq/handbook'
     gh_edit_branch: main
@@ -21,3 +23,16 @@ site:
             - handbook
 initializeRemoteVaults: true
 useKatex: false
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1
+dev:
+    previewV2Enabled: false
+scratch:
+    name: scratch
+    dateFormat: y.MM.dd.HHmmss
+    addBehavior: asOwnDomain
+dendronVersion: 0.53.0

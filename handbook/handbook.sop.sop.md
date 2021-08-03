@@ -33,7 +33,7 @@ When executing a SOP, if that SOP has a `## Checklist`, be sure to copy that che
 - [ ] merge SOP
 
 ## Template
-![[dendron://handbook/templates.sop]]
+![[dendron://dendron.handbook/templates.sop]]
 
 ### Sections
 

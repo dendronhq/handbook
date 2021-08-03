@@ -16,7 +16,7 @@ The cadence for one on one's will depend on the individual and circumstance - in
 
 This is a starting template for what a one on one typically looks like. 
 
-![[dendron://handbook/templates.one-on-one]]
+![[dendron://dendron.handbook/templates.one-on-one]]
 
 ## Sections
 

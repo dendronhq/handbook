@@ -12,7 +12,7 @@ The weekly journal is how we track tasks and priorities for individuals. It is a
 
 We use the following template for weekly journals:
 
-![[dendron://handbook/templates.weekly-journal]]
+![[dendron://dendron.handbook/templates.weekly-journal]]
 
 Weekly journals should be under `user.{name}.weekly.*`
 

@@ -21,7 +21,7 @@ This is also a good place to queue up upcoming projects that you'll be working o
 ## Checklist
 
 ## Template
-![[dendron://handbook/templates.backlog]]
+![[dendron://dendron.handbook/templates.backlog]]
 
 ### Sections
 
