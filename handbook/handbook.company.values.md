@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1624838040674
+updated: 1628102747670
 created: 1617987789017
 ---
 
@@ -71,9 +71,9 @@ We care about putting high quality, well thought through products out to custome
 
 Whether we are working on features or improving processes, the job isn't done until value has been delivered. That means shipping the feature isn't enough - our users need to be able to adopt and get value from said feature in the daily workflow. SOPs aren't considered done until the team and the community are able to successfully adopt them. 
 
-## Transparency
+## Working in the Open
 
-We work in the open. This means that we will be transaparent about what, how, and why we do things.
+This means that we will be transaparent about what, how, and why we do things.
 
 ### In Practice
 
