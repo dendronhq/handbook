@@ -1,47 +1,41 @@
 ---
 id: 5d435a43-ca9c-4c26-a156-d9ccc56ab698
-title: Investor Updates
+title: Investor Updates Template
 desc: ''
-updated: 1628009857581
+updated: 1628123348961
 created: 1618029533953
 ---
 
 
 Hey,
 
-You're getting this email as part of Dendron's investor update. These updates will be sent out once a month and will be going over what we've been up to.
+You're getting this email as part of Dendron's investor update. These updates will be sent out once a month and will be going over what Dendron has been up to. Thanks for helping us build a better way for humans to manage information!
+
+## How you can help
+<!-- Hiring, introductions, etc-->
 
 ## KPIs
 <!-- Our KPIS -->
-
-## Updates
-<!-- Highlights of the given month -->
-### community
-### strategic
-### features
-- NOTE: for more details on our features, you can subscribe to our monthly [user newsletter](https://buttondown.email/dendron/archive/the-monthly-crop/)
 
 ## Financials
 <!-- Burn rate and other figures-->
 
 For projections and a detailed breakdown of projected expenses extending through the rest of the year, please see our [finmark dashboard](https://app.finmark.com/dashboard).
 
-## Priorities
+## Lowlights
+<!-- What didn't go well -->
 
-### Past 
-<!-- Recap of what we were working on  -->
+## Highlights
+<!-- What went well -->
 
-### Current
-<!-- What we're working on this month -->
+## Current Month Goals
+<!-- Recap on how well we did on this months goals-->
 
-## Goals
+## Next Month Goals
+<!-- What we want to do for next month -->
 
-### Past
 
-### Current
-
-## What we need help on 
-<!-- eg. hiring-->
+And that's a wrap. Feel free to reply to this email if you have any questions or follow-ups. 
 
 Bests,
 Kevin
