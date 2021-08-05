@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ""
-updated: 1628102747670
+updated: 1628127276100
 created: 1617987789017
 ---
 
@@ -49,13 +49,37 @@ In order to build on what exists, we need to first bring it forth into existence
 
 There are very few things that we will do exactly once. For everything else, we will make sure to document things so that others can build off our work.
 
-## Pragmatism
+#### Dive Deep
 
-We have high level goals but we are flexible in the details. At the end of the day we will do whatever it takes to help people make sense of the things that matter.
+> Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
+
+> Amazon Leadership Principle
+
+## Iteration
+
+The perfect is the enemy of the shipped. We strive to do great work but we will do it incrementally instead of waiting for something to be _perfect_. We prioritize ruthlessly, delivering the right things with the right quality in a timely fashion.
+
+Iteration means that we will hit the deadline but are flexible about the scope. It's okay and also encouraged to have multiple phases for any individual feature.
 
 ### In Practice
-- We build Dendron on top of VSCode because it has widespread adoption and allows us to iterate quickly
-- We look to integrate with existing tools instead of replacing them using pods and interoperable standards
+
+- We publish our work (eg. code, handbook, roadmap) in the process of working on it
+- We push out updates on a [weekly release cycle](https://wiki.dendron.so/notes/932534e7-e788-4fdb-bc8c-eaf761992a8d.html)
+<!-- - We dedicate a `learnings` section to the end of every project to figure out how to improve the process for next time -->
+
+### Key Principles
+
+#### Deliver Results
+
+> Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
+
+> Amazon Leadership Principle 
+
+It's not about good intentions but what you can deliver at the end of the day. 
+
+#### Pragmatism
+
+We have high level goals but we are flexible in the details. At the end of the day we will do whatever it takes to help people make sense of the things that matter.  We look to integrate with existing tools instead of replacing them using pods and interoperable standards
 
 ## Ownership
 
@@ -71,28 +95,22 @@ We care about putting high quality, well thought through products out to custome
 
 Whether we are working on features or improving processes, the job isn't done until value has been delivered. That means shipping the feature isn't enough - our users need to be able to adopt and get value from said feature in the daily workflow. SOPs aren't considered done until the team and the community are able to successfully adopt them. 
 
+## Bias for Action
+
+> Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking. 
+
+> Amazon Leadership Principle
+
+
 ## Working in the Open
 
-This means that we will be transaparent about what, how, and why we do things.
+This means that we will be transaparent about what, how, and why we do things. 
 
 ### In Practice
 
 - We released Dendron as an open source product
 - We published our handbook for everyone to see
 - We publish our [roadmap](https://wiki.dendron.so/notes/6e4c4f61-80a3-46fa-9ad3-04b99d9e9695.html) on github
-
-## Iteration
-
-The perfect is the enemy of the shipped. We strive to do great work but we will do it incrementally instead of waiting for something to be _perfect_. We prioritize ruthlessly, delivering the right things with the right quality in a timely fashion.
-
-Iteration means that we will hit the deadline but are flexible about the scope. It's okay and also encouraged to have multiple phases for any individual feature.
-
-### In Practice
-
-- We publish our work (eg. code, handbook, roadmap) in the process of working on it
-- We push out updates on a [weekly release cycle](https://wiki.dendron.so/notes/932534e7-e788-4fdb-bc8c-eaf761992a8d.html)
-<!-- - We dedicate a `learnings` section to the end of every project to figure out how to improve the process for next time -->
-
 
 ## Sustainability
 
