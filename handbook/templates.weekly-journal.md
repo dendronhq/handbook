@@ -2,7 +2,7 @@
 id: klS6q6LxytW3N-OjLTMOz
 title: Weekly Journal
 desc: ''
-updated: 1623866173494
+updated: 1628527087443
 created: 1623631296835
 ---
 
@@ -20,3 +20,4 @@ created: 1623631296835
 ## Weekly recurring
 
 ## Next
+
