@@ -2,19 +2,25 @@
 id: a8950463-f484-4de3-a132-cf29f5f6c9a8
 title: One on One
 desc: ''
-updated: 1621954485722
+updated: 1629325247695
 created: 1619479458479
 ---
 
 ## Agenda
-- chit chat
+### chit chat
+<!-- Placeholder for casual conversation ahead of the meeting -->
 
-- feedback
+### feedback
+<!-- Any feedback people have for the other party. This works both ways. Can also be used to ask for feedback -->
 
-- current things
+### current things
+<!-- Go over blockers and current tasks  -->
 
-- future things
+### future things
+<!-- Go over upcoming initiatives and long term career goals  -->
 
-- open 
+### open 
+<!-- Anything else  -->
 
 ## Next
+<!-- Action items from the meeting  -->

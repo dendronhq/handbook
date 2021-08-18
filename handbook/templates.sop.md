@@ -12,6 +12,4 @@ created: 1624213396739
 
 ## Checklist
 
-## Template
-
-### Sections
+## Templates
