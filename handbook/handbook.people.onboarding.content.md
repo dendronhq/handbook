@@ -2,17 +2,17 @@
 id: JptsHGSePtugxy5BJV8qu
 title: Content
 desc: ''
-updated: 1629417993798
+updated: 1629475250076
 created: 1629415598380
 ---
 
 ## Summary
 
-This goes over onboarding for content writers
+This goes over onboarding for content writers. Below is what your first two weeks at Dendron might look like
 
 ## Your first week
 - [ ] publish two pieces of content
-  - see [[blog incubator|dendron.incubator.blog]] for list of existing topics (you are also free to come up with your own)
+  - see [[blog incubator|dendron.incubator.writing]] for list of existing topics (you are also free to come up with your own)
 - [ ] finish the release notes for the current iteration
 - [ ] make 3x suggestions of how you would improve the dendron documentation 
 - [ ] improve the [[dendron wiki|handbook.people.onboarding.content#^yGplQflRq3oY]] as needed based on community questions 
