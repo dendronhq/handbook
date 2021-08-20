@@ -33,7 +33,7 @@ If troubleshooting yourself was not sufficient, you can seek help from other peo
     - An added bonus to preferring discussions in the `#dev` channel over private channels or DM is that other people (especially community members) can see this and use it as a reference if they decided to contribute in the future.
 
 1. If the issue isn't resolved yet, consider scheduling a pairing session with Kevin or anyone who has had prior experience working on the subject matter.
-    - Team members will have set up their calendars according to [[this guideline|handbook.people.onboarding.checklist#calendar]] 
+    - Team members will have set up their calendars according to [[this guideline|templates.people.onboarding#calendar]] 
     - They will usually have available schedules listed in their user hierarchy (`user.{name}`). Otherwise, ping them or DM to find the best time.
         - Kevin's calendar can be found [[here|dendron://private/user.kevin.ref.cal]], for example.
 

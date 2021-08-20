@@ -11,6 +11,7 @@ site:
     siteHierarchies:
         - handbook
         - templates
+        - schemas
     siteRootDir: docs
     logo: handbook/assets/images/logo.png
     usePrettyRefs: true

@@ -2,7 +2,7 @@
 id: fc057be8-80e7-4a08-bca6-5bd6bc398eea
 title: Map
 desc: ''
-updated: 1619909925833
+updated: 1629412456431
 created: 1619479695413
 ---
 
@@ -12,34 +12,30 @@ The following describes how the Dendron org specific workspace is structured. No
 
 ## Vaults
 
-### org-private
+This describes [vaults](https://wiki.dendron.so/notes/6682fca0-65ed-402c-8634-94cd51463cc4.html) used by the Dendron Team
 
-This is for company internal notes
+- dendron.blog: powers https://blog.dendron.so/
+- dendron.templates: templates to help get started
+- dendron.dendron-site: https://wiki.dendron.so/
+- dendron.handbook: http://handbook.dendron.so/
+- private: standup and company docs
+- dev: developer specific documentation
 
-### org-dev
+## Schemas
 
-This is for developer documentation
-
-## Hierarchies
+This describes [schemas](https://wiki.dendron.so/notes/c5e5adde-5459-409b-b34d-a0d75cbb1052.html) used by the Dendron Team
 
 ### user
 - vault: org-private
 
-Everyone in Dendron has their own user hiearchy. We use it primarily for standups. You can see everyone's updates at `user.{username}.journal.{date}`
-Fanciful ideas about new features or fixes for Dendron can also be put in `user.{username}.ideas` if they don't immediately fit the current roadmap.
+![[schemas.user#summary,1:#*]]
 
 ### weekly
+- vault: org-private
 
-This tracks weekly sprint items for the company.
+![[schemas.weekly#summary,1]]
 
-### yearly
+### proj
+- vault: org-private
 
-This tracks high level items we want to do for the year
-
-### books
-
-Notes on books that we've found useful
-
-### investors
-
-Our monthly investors report
+![[schemas.proj#summary,1]]
