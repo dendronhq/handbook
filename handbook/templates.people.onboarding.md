@@ -2,7 +2,7 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Onboarding 
 desc: ''
-updated: 1629417139226
+updated: 1629479140655
 created: 1620248731246
 ---
 ## Welcome to Dendron!
@@ -117,6 +117,9 @@ hoursMonth: 48
    1. This can be the [[About me|templates.user-readme#about-me]] that you used for your README
    1. We love to hear more, such as where you were before, family/pets, and hobbies.
    1. We also enjoy pictures if you're willing to share. Consider giving your new team members a glimpse into your world (scroll through previous messages in the channel for inspiration).
+
+#### Other
+- [ ] Accept calendar invite to the Dendron Company Calendar
 
 #### Workspace Setup
 
