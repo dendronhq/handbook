@@ -2,7 +2,7 @@
 id: 3c35f9da-ef77-448e-a56a-c8fc3040a59c
 title: User Readme
 desc: ''
-updated: 1620663036751
+updated: 1629466459321
 created: 1620318176003
 ---
 
@@ -11,6 +11,11 @@ created: 1620318176003
 ## [Your First Name] README
 
 **[Add your name and time zone.]** 
+
+## Handles:
+- Discord:
+- Github:
+- Email:
 
 ## Related pages
 
