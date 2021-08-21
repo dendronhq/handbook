@@ -2,7 +2,7 @@
 id: 0292b34e-47eb-4499-8f49-d9891accdb3d
 title: Todos
 desc: ''
-updated: 1627272127755
+updated: 1629514083695
 created: 1622146649559
 ---
 
@@ -19,6 +19,8 @@ This goes over how we format todo notes at Dendron.
 
 This is added to the end of a todo. 
 
+- a: assigned
+- w: work in rpgoress
 - n: move to next day (usually combined with `make progress` status)
 - x: done
 - d: dropped 

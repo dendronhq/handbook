@@ -2,7 +2,7 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Onboarding 
 desc: ''
-updated: 1629479140655
+updated: 1629489032871
 created: 1620248731246
 ---
 ## Welcome to Dendron!
@@ -62,7 +62,7 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 
 #### Daily Journal Note
 
-1. [ ] Start the daily journal note for today.
+1. [ ] Start the daily journal note for today. You can read more about it [[here|schemas.user#dailyjournal]]
 
 <!-- Hourly -->
 
