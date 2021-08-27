@@ -23,7 +23,7 @@ This is added to the end of a todo.
 - w: work in rpgoress
 - n: move to next day (usually combined with `make progress` status)
 - x: done
-- d: dropped 
+- d: dropped  ^X9HHfevYSrue
 - .: made progress
 - y: pending deployment or verification
 - b: blocked

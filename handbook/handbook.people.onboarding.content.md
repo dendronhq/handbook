@@ -2,7 +2,7 @@
 id: JptsHGSePtugxy5BJV8qu
 title: Content
 desc: ''
-updated: 1629475250076
+updated: 1629927512463
 created: 1629415598380
 ---
 
@@ -34,6 +34,7 @@ This goes over onboarding for content writers. Below is what your first two week
 - Opinions: [Example](https://www.dreamsongs.com/WIB.html)
 - Tutorials:  [Example](https://aws.amazon.com/blogs/aws/extract-insights-from-customer-conversations-with-amazon-transcribe-call-analytics/)
 - Workflows: [Example](https://www.kevinslin.com/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64.html)
+- Reviews: [Example](https://github.blog/2020-10-19-git-2-29-released/) ^Y3eXpTXYrkM5
 - Reference Guides: [Example](https://pkm.dendron.so/)
 
 ### Content Destination
