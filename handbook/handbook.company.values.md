@@ -1,99 +1,65 @@
 ---
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
-desc: ""
-updated: 1628127276100
+desc: ''
+updated: 1630625997509
 created: 1617987789017
 ---
 
 ## Summary
 
-This page describes our values as a company. We are at our best when we operate with these values in mind.
+This page describes our values as a company.
 
-## Community 
+## Learn and Adapt
 
-Dendron wouldn't exist without our strong community. Our north star is meaningfully improving the lives of everyone who uses Dendron. The way we think about what to work on is guided by what would be best for our entire community. 
+Dendron [[helps humans build upon the knowledge of the ages|handbook.company.mission]]. This means learning from past mistakes and building on top of what has come before. 
 
-When we say community, we mean **everyone** who participates in Dendron: both our users and our team. 
+We take best practices from the places we admire and adapt them for current realtiies. When implementing new functionality, instead of *not invented here*, we look to  *build on what already exists*.
 
-### Key Principles
+This is not a one off process but something that we work at each and every day. 
 
-#### Earning Trust
+## Close the Loop
 
-We act and follow through on things that demonstrates trust. This includes little things like showing up for meetings ahead of time to big things like honoring the commitments we make - whether that be from a chat dialogue or an official announcement.
+Whether we are working on features or improving processes, the job isn't done until value has been delivered. 
 
+That means shipping the feature isn't enough - our users need to be able to adopt and get value from said feature in the daily workflow. 
 
-### In Practice
-
-- We provide personal onboardings for new users
-- We addressing questions and feedback in [discord](https://discord.gg/AE3NRw9) in near realtime
-- We adjusting and prioritize user feedback when planning our [roadmap](https://wiki.dendron.so/notes/6e4c4f61-80a3-46fa-9ad3-04b99d9e9695.html)
-- We err on the side of over communicating when we're not sure if our message is understood
-
-## Lookup
-
-Instead of _not invented here_, we believe in _building on what already exists_. We actively seek to find order in the universe and add our node on top of what already exists. This means keeping our own knowledge organized so its easier for others to re-use as well as considering existing solutions before implementing our own thing. 
-
-### In Practice
-
-- we use standard markdown where possible and expand where needed, with a focus on interoperability and portability
-- we based our values off our experience in past companies as well as places we admire
-
-### Key Principles
-
-#### Documentation First
-
-In order to build on what exists, we need to first bring it forth into existence with writing.
-
-#### No One Offs
-
-There are very few things that we will do exactly once. For everything else, we will make sure to document things so that others can build off our work.
-
-#### Dive Deep
-
-> Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
-
-> Amazon Leadership Principle
-
-## Iteration
+## Iterate
 
 The perfect is the enemy of the shipped. We strive to do great work but we will do it incrementally instead of waiting for something to be _perfect_. We prioritize ruthlessly, delivering the right things with the right quality in a timely fashion.
 
 Iteration means that we will hit the deadline but are flexible about the scope. It's okay and also encouraged to have multiple phases for any individual feature.
 
-### In Practice
+<!-- ### In Practice
 
 - We publish our work (eg. code, handbook, roadmap) in the process of working on it
-- We push out updates on a [weekly release cycle](https://wiki.dendron.so/notes/932534e7-e788-4fdb-bc8c-eaf761992a8d.html)
+- We push out updates on a [weekly release cycle](https://wiki.dendron.so/notes/932534e7-e788-4fdb-bc8c-eaf761992a8d.html) -->
+
+## Community 
+
+Dendron wouldn't exist without our strong community. Our north star is meaningfully improving the lives of everyone who uses Dendron. 
+
+<!-- ### In Practice
+
+- We provide personal onboardings for new users
+- We addressing questions and feedback in [discord](https://discord.gg/AE3NRw9) in near realtime
+- We adjusting and prioritize user feedback when planning our [roadmap](https://wiki.dendron.so/notes/6e4c4f61-80a3-46fa-9ad3-04b99d9e9695.html)
+- We err on the side of over communicating when we're not sure if our message is understood -->
+
 <!-- - We dedicate a `learnings` section to the end of every project to figure out how to improve the process for next time -->
 
-### Key Principles
+## Sustainability
 
-#### Deliver Results
+We look for virtuous cycles and long term growth in what we do. This means we think about the long term **costs and benefits** of what we do, features we ship, and promises that we make.
 
-> Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
+Whether its code, tooling our community - our goal is to leave things in a better state than how we found it. 
 
-> Amazon Leadership Principle 
 
-It's not about good intentions but what you can deliver at the end of the day. 
+<!-- ### Key Principles
 
 #### Pragmatism
 
 We have high level goals but we are flexible in the details. At the end of the day we will do whatever it takes to help people make sense of the things that matter.  We look to integrate with existing tools instead of replacing them using pods and interoperable standards
-
-## Ownership
-
-We care about putting high quality, well thought through products out to customers. True artisans view products end-to-end and never sacrifice long-term reputational value for short-term results. We act on behalf of the entire team and community, beyond just our own focus area. We are not satisfied by the phrase “that’s not my job.”
-
-### In Practice
-
-- We prioritize entire customer scenarios over component areas
-
-### Key Principles
-
-#### Closing the Loop
-
-Whether we are working on features or improving processes, the job isn't done until value has been delivered. That means shipping the feature isn't enough - our users need to be able to adopt and get value from said feature in the daily workflow. SOPs aren't considered done until the team and the community are able to successfully adopt them. 
 
 ## Bias for Action
 
@@ -112,11 +78,6 @@ This means that we will be transaparent about what, how, and why we do things.
 - We published our handbook for everyone to see
 - We publish our [roadmap](https://wiki.dendron.so/notes/6e4c4f61-80a3-46fa-9ad3-04b99d9e9695.html) on github
 
-## Sustainability
-
-We look for virtuous cycles and long term growth in all that we do. This means we think about both the long term **benefits and costs** of the actions we take and invest in areas that will take many years to bear fruit. It also means we don't do things as a one off and try to find ways to re-use existing work. 
-
-We leave things better than we found it. Code, knowledge, the world - we like to leave things so that the next person coming back do it will have a better way of starting.
 
 ### In Practice
 - All important decisions and learnings are written down in the company handbook so everyone can benefit
@@ -138,7 +99,7 @@ In Practice:
 We are looking to create systems that make make things easier
 
 In Practice:
-- [[Lookup|handbook.company.values#lookup]] -> [[Iterate|handbook.company.values#iteration]] -> [[Learn|handbook.company.values#lifelong-learning]]
+- [[Learn and Adapt|handbook.company.values#learn-and-adapt]] -> [[Iterate|handbook.company.values#iteration]] -> [[Learn|handbook.company.values#lifelong-learning]]
 
 #### Bias for Simplicity
 
@@ -163,4 +124,4 @@ We leave things better than we found it. Code, knowledge, the world - we like to
 ### In Practice
 - all important decisions and learnings are written down in the company handbook so everyone can benefit
 - we are collecting and indexing the worlds data in publically available vaults on [Personal Knowledge Management](https://pkm.dendron.so/), [AWS](https://aws.dendron.so/) and of course [XKCD](https://xkcd.dendron.so/)
- -->
+ --> 

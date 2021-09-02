@@ -46,5 +46,5 @@ See [[Getting help for development|handbook.sop.dev-help]]
 - we do code review using pull request
 - the expectation is that you have a pull request ready by the end of every week
   - pull requests need to be fully complete and can be submitted in `draft` form if notcomplete
-  - having pull requests available helps with [[Iteration|handbook.company.values#iteration]] and having others weigh in while a feature is still being worked on
+  - having pull requests available helps with [[Iterate|handbook.company.values#iterate]] and having others weigh in while a feature is still being worked on
 
