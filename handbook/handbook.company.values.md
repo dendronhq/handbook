@@ -18,12 +18,6 @@ We take best practices from the places we admire and adapt them for current real
 
 This is not a one off process but something that we work at each and every day. 
 
-## Close the Loop
-
-Whether we are working on features or improving processes, the job isn't done until value has been delivered. 
-
-That means shipping the feature isn't enough - our users need to be able to adopt and get value from said feature in the daily workflow. 
-
 ## Iterate
 
 The perfect is the enemy of the shipped. We strive to do great work but we will do it incrementally instead of waiting for something to be _perfect_. We prioritize ruthlessly, delivering the right things with the right quality in a timely fashion.
@@ -34,6 +28,13 @@ Iteration means that we will hit the deadline but are flexible about the scope. 
 
 - We publish our work (eg. code, handbook, roadmap) in the process of working on it
 - We push out updates on a [weekly release cycle](https://wiki.dendron.so/notes/932534e7-e788-4fdb-bc8c-eaf761992a8d.html) -->
+
+## Close the Loop
+
+Whether we are working on features or improving processes, the job isn't done until value has been delivered. 
+
+That means shipping the feature isn't enough - our users need to be able to adopt and get value from said feature in the daily workflow. 
+
 
 ## Community 
 
