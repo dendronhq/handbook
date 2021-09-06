@@ -2,7 +2,7 @@
 id: a8950463-f484-4de3-a132-cf29f5f6c9a8
 title: One on One
 desc: ''
-updated: 1629325247695
+updated: 1630965752622
 created: 1619479458479
 ---
 
@@ -11,7 +11,7 @@ created: 1619479458479
 <!-- Placeholder for casual conversation ahead of the meeting -->
 
 ### feedback
-<!-- Any feedback people have for the other party. This works both ways. Can also be used to ask for feedback -->
+<!-- Any feedback on current performance -->
 
 ### current things
 <!-- Go over blockers and current tasks  -->

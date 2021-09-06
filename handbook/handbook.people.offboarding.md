@@ -22,6 +22,3 @@ created: 1627472295773
 ![](/assets/images/2021-07-23-17-28-34.png)
 
 - [ ] Offboard employee in Rippling and check that employee has been removed from gsuite unless there's a business reason to keep the email active (and forwarded to active inbox)
-
-
-
