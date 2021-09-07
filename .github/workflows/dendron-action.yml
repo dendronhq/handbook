@@ -17,6 +17,9 @@ jobs:
     - name: Install npm dependencies
       run: npm install
 
+    - name: Check version
+      run: npm run dendron-cli -- --version
+
     - name: Build pod
       run: npm run dendron-cli -- buildSiteV2 --wsRoot .  --stage prod
 
