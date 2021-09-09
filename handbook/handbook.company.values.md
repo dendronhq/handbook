@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ''
-updated: 1630965888790
+updated: 1631219410427
 created: 1617987789017
 ---
 
@@ -14,9 +14,15 @@ This page describes our values as a company.
 
 Dendron [[helps humans build upon the knowledge of the ages|handbook.company.mission]]. This means learning from past mistakes and building on top of what has come before. 
 
-We take best practices from the places we admire and adapt them for current realtiies. When implementing new functionality, instead of *not invented here*, we look to  *build on what already exists*.
+We take best practices from the places we admire and adapt them for current realities. When implementing new functionality, instead of *not invented here*, we look to  *build on what already exists*.
 
-This is not a one off process but something that we work at each and every day. 
+This is not a one-off process but something that we work at each and every day. 
+
+## 80/20
+
+In many situations, 20% of the work accounts for 80% of the output.  This is also known as the [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle). 
+
+This could be finding a *good enough solution* for an intractable problem or refining a document down to just the key points - we focus on doing work that has the highest impact.
 
 ## Iterate
 
@@ -33,12 +39,30 @@ Iteration means that we will hit the deadline but are flexible about the scope. 
 
 Whether we are working on features or improving processes, the job isn't done until value has been delivered. 
 
-That means shipping the feature isn't enough - our users need to be able to adopt and get value from said feature in the daily workflow. 
+That means shipping the feature isn't enough - our users need to be able to adapt and get value from the said feature in the daily workflow. 
 
 
-## Community 
+## Community Focus
 
 Dendron wouldn't exist without our strong community. Our north star is meaningfully improving the lives of everyone who uses Dendron. 
+
+This means listening closely to what our users have to say, making sure eveyrone can have a voice, and making decisions based on whether it will be beneficial for our users.
+
+## Pass it Forward
+
+We aim to leave things in a better state than when we found it. Whether that's code, documentation, best practices, or personal development, we strive to continuously improve the things that we see.
+
+This means creating [[standard operating procedures|handbook.sop]] to spread best practices, documenting things so that others can find them, and continuously drive change to make existing things better. 
+
+This also means working in the open so that everyone can benefit from our learnings - Dendron is built on the work that has come before us and we like to make it possible for others to build upon the work that we do. 
+
+## Keep no False Idols
+
+The only constant in the universe is change. As we establish best practices and ways of doing it, we need to remember that at the end of the day, things change and what might have worked yesterday might no longer be relevant today.
+
+This means that while we  ways of doing things, those ways can change and *because we've always done it this way* is never a good justification for not considering changing. 
+
+
 
 <!-- ### In Practice
 
@@ -49,11 +73,11 @@ Dendron wouldn't exist without our strong community. Our north star is meaningfu
 
 <!-- - We dedicate a `learnings` section to the end of every project to figure out how to improve the process for next time -->
 
-## Sustainability
+<!-- ## Sustainability
 
 We look for virtuous cycles and long term growth in what we do. This means we think about the long term **costs and benefits** of what we do, features we ship, and promises that we make.
 
-Whether its code, tooling our community - our goal is to leave things in a better state than how we found it. 
+Whether its code, tooling our community - our goal is to leave things in a better state than how we found it.  -->
 
 
 <!-- ### Key Principles
