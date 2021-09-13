@@ -2,12 +2,12 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Onboarding
 desc: ''
-updated: 1629489032871
+updated: 1631558832129
 created: 1620248731246
 ---
 ## Welcome to Dendron!
 
-We are so excited you’re here and look forward to setting you up for remote-first success as your journey begins. Copy this onboarding checklist to user.{alias}.onboarding in the private vault and work through the tasks over the course of your first 30 days. If any task doesn't make sense, please reach out to the team on discord. 
+We are so excited you’re here and look forward to setting you up for remote-first success as your journey begins. You can work through the tasks over the course of your first 30 days. If any task doesn't make sense, please reach out to the team on discord. 
 
 - **Note:** We're really appreciative of Gitlab pioneering the space of remote work and have included a lot of links to the Gitlab handbook. The wealth of information in this note can be overwhelming at times. It's okay to skim through resources, bookmark them and come back at a later time.
 
@@ -17,7 +17,7 @@ We are so excited you’re here and look forward to setting you up for remote-fi
 - Day 2: [Morning: Remote Working and our Values](#day-2-remote-working-and-our-values)
 - Day 3: [Morning: Social](#day-3-social)
 - Day 4: [Morning: Git](#day-4-git)
-- [Job Specific Tasks](#job-specific-tasks)
+- Etc: [Job Specific Tasks](#job-specific-tasks)
 
 ## Introduction
 
@@ -62,61 +62,46 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 
 #### Daily Journal Note
 
-1. [ ] Start the daily journal note for today. You can read more about it [[here|schemas.user#dailyjournal]]
+- [ ] Create your daily journal note for today. It should be in the format of `user.{{ALIAS}}.{{date}}`. You can read more about the format [[here|schemas.user#dailyjournal]]
+- [ ] Add `- [ ] Do Day 1 onboarding` as your very first task
 
-<!-- Hourly -->
+#### 2FA 
 
-1. [ ] Please include two additional frontmatter fields that track the hours you've worked. It should look something like this:
+Dendron requires you to enable 2FA[^2fa]
 
-```
----
-id: c6b422a5-204a-41dd-8e47-f0b736160790
-title: Daily note
-desc: ""
-updated: 1622543447981
-created: 1620248731246
-hoursToday: 8
-hoursMonth: 48
----
-```
+ :red_circle: This absolutely must be done within a week or you will be locked out and need to wait for an admin to get around to helping you get reconnected.
 
-#### User Intro
-- [ ] Create and add your own [[user readme|templates.user-readme]]. This may take some time to create so please feel free to iterate on it once you get some details in to your user.<name> hierarchy in Dendron.
-
-#### Rpass
-
-1. [ ] :red_circle: Install rpass. Dendron provides all team members with an account to rpass to help manage work credentials.
-
-#### 2FA (Two-Factor Authentication)
-
-2. [ ] Dendron requires you to enable 2FA (2-Step Verification, also known as two-factor authentication), because it adds an extra layer of security to your account. You sign in with something you know (your password) and something you have (a code you can copy from your Virtual Multi-Factor authentication Device, like [Authy](https://authy.com), FreeOTP, or Google Authenticator). Please make sure that time is set automatically on your device (ie. on Android: "Settings" > "Date & Time" > "Set automatically"). If you have problems with 2FA just let the team know! We can disable it for you to then set it up again. Reach out proactively if you're struggling - it's better than getting locked out and needing to wait for IT Ops to help you get back online.
-
-3. [ ] :red_circle: Do the next 3 steps Today. Actually -- why not RIGHT NOW. This absolutely must be done within a week or you will be locked out and need to wait for an admin to get around to helping you get reconnected.
-   1. [ ] :red_circle: Enable 2FA on your Dendron email account (Gmail/GSuite) (this should have been an option to do when you first received the invitation to the account).
-   2. [ ] :red_circle: Enable [two-factor authentication](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication) on your Github account.
+1. [ ]  Enable 2FA on your Dendron email account (Gmail/GSuite) (this should have been an option to do when you first received the invitation to the account).
+2. [ ]  Enable [two-factor authentication](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication) on your Github account.
 
 #### Rippling
 
-**_This section is super important to ensure payroll + operations support. Please complete these items on your first day if possible._**
+:red_circle: This section is super important to ensure payroll + operations support
 
-1. [ ] Rippling is our HRIS (Human Resource Information System) for all team members. We have self-service enabled so that at any time you can access your account to see your employment information and documentation. As part of onboarding, please make sure to update everything that is applicable to you.
+1. [ ] Rippling is our HRIS (Human Resource Information System) for all team members.    
    1. [ ] Access the Rippling [Dashboard](https://app.rippling.com) and make sure you complete any outstanding tasks assigned to you.
    2. [ ] For contractors being paid by the hour, it may be useful to save an invoice template for future use. An invoice template can be found in Google Docs by searching `Invoice Template` or [here](https://docs.google.com/spreadsheets/d/1faslC4H_NSLsk8jd8xUuwgAjqhkdSlaI0D1WINA1y9Y/edit#gid=0).
 2. [ ] Don't forget to comply with the contract you signed, and make sure you understand [Intellectual Property](https://about.gitlab.com/handbook/people-group/code-of-conduct/#intellectual-property-and-protecting-ip).
 
+#### User Intro
+- [ ] Create and add your own [[user readme|templates.user-readme]]. This goes in `user.{{ALIAS}}` 
+   - NOTE: this may take some time to create so please feel free to iterate on it over the course of the week
+
+
 #### Discord
 
-1. [ ] Register on Discord by following this [invitation link](https://discord.gg/xrKTUStHNZ). Read the next suggestions on how to choose a username first.
-2. [ ] You can use your personal discord OR choose to create a new username using your Dendron email. It's generally helpful to choose a username to be the same as your Github handle, for consistency and ease of use.
-   1. [ ] At Dendron [Transparency](https://handbook.dendron.so/notes/b89ba854-72fb-4ebc-a8a0-55960b89e9dc.html#transparencyy) is a value and we prefer to use Public channels in Discord. Continue to use public channels wherever possible (`#dev`), especially if it is a work related discussion (you may be surprised by the feedback you get from the community).
-   1. Make sure your Discord profile has a **photo** - it makes it easier for other team members to remember you!
-1. [ ] If you're new to Discord, a short primer can be found at [a Beginner's guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
-1. [ ] We also encourage you to message with community members in #questions and #feedback.
-   - There are lots of other more informal channels (like #note-taking) where interesting stuff happens so check those out as well.
-1. [ ] Make sure you have access to the #dendron-team channel and post an intro.
+- [ ] Register on Discord by following this [invitation link](https://discord.gg/xrKTUStHNZ). Read the next suggestions on how to choose a username first.
+   - [ ] You can use your personal discord OR choose to create a new username using your Dendron email. It's generally helpful to choose a username to be the same as your Github handle, for consistency and ease of use.
+- [ ] Make sure your Discord profile has a **photo** - it makes it easier for other team members to remember you!
+- [ ] If you're new to Discord, a short primer can be found at [a Beginner's guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
+- [ ] Make sure you have access to the #dendron-team channel and post an intro.
    1. This can be the [[About me|templates.user-readme#about-me]] that you used for your README
    1. We love to hear more, such as where you were before, family/pets, and hobbies.
    1. We also enjoy pictures if you're willing to share. Consider giving your new team members a glimpse into your world (scroll through previous messages in the channel for inspiration).
+
+#### Rpass
+1. [ ] :red_circle: Install rpass. Dendron provides all team members with an account to rpass to help manage work credentials.
+
 
 #### Other
 - [ ] Accept calendar invite to the Dendron Company Calendar
@@ -209,9 +194,17 @@ For those new to Github and Dendron, it's important to get familiar with the bel
 * [[Engineering|handbook.people.onboarding.engineering]]
 * [[Content|handbook.people.onboarding.content]]
 
+## Concepts
+
+### 2FA
+
+You sign in with something you know (your password) and something you have (a code you can copy from your Virtual Multi-Factor authentication Device, like [Authy](https://authy.com), FreeOTP, or Google Authenticator). Please make sure that time is set automatically on your device (ie. on Android: "Settings" > "Date & Time" > "Set automatically")
+
 
 ## [Lookup](https://handbook.dendron.so/notes/b89ba854-72fb-4ebc-a8a0-55960b89e9dc.html#lookup)
 
 This section is both inspired by and borrows heavily from the following projects:
 
 - [Gitlab](https://about.gitlab.com/handbook/) ([license](https://gitlab.com/gitlab-org/dco/blob/master/README.md))
+
+- [^2fa]: [[2FA|templates.people.onboarding#2fa]]

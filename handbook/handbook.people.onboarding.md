@@ -2,7 +2,7 @@
 id: 09a34445-345d-42c9-b82b-6f6691aed668
 title: Onboarding
 desc: ''
-updated: 1631557257043
+updated: 1631558900941
 created: 1618789330639
 nav_order: 3
 ---
@@ -22,7 +22,7 @@ The following describes the onboarding process at Dendron
 
 #### Setting Up Your Workspace 
 1. Clone the Dendron private workspace (this will be sent to you by email)
-1. After your workspace is finished initializing, you should have a workspace with the following vaults
+1. After your workspace is finished initializing, you should have a workspace with the following vaults (your workspace might look different depending if you are full time or still in the trial period)
 ![[handbook.map#vaults,1:#*]]
 
 #### Go Over Company Values
