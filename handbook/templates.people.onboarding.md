@@ -2,7 +2,7 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Onboarding
 desc: ''
-updated: 1631558987418
+updated: 1631562893072
 created: 1620248731246
 ---
 ## Welcome to Dendron!
@@ -48,21 +48,11 @@ In the interests of paying it forward and contributing to our core value of [Ite
 
 Along with this you will complete onboarding on Day Thirty by being asked to fill out the [Onboarding Satisfaction Survey](https://airtable.com/shrcILcL6cm6lpCZt), which is an opportunity to share feedback on your general Onboarding Experience.
 
-* * *
-
-> Note: You'll see certain comments throughout this checklist to clarify what is applicable to you. The comment is valid till the next section/heading. They are:
->
-> - `<!-- Full time -->` applies only to team members that are working on Dendron full time (includes full-time contractors + interns)
-> - `<!-- Trial -->` applies to team members that are working on limited duration projects (2-4 weeks)
-> - `<!-- Hourly -->` applies to team members paid by the hour.
-> - If not specified, sections should be applicable to everyone.
-
-
 ## Day 1 - Getting Started: Accounts and Paperwork
 
 #### Daily Journal Note
 
-- [ ] Create your daily journal note for today. It should be in the format of `user.{{ALIAS}}.{{date}}`. You can read more about the format [[here|schemas.user#dailyjournal]]
+- [ ] Create your [[handbook.sop.daily-journal]] note for today. It should be in the format of `user.{{ALIAS}}.{{date}}`. You can read more about the format [[here|schemas.user#dailyjournal]]
 - [ ] Add `- [ ] Do Day 1 onboarding` as your very first task
 
 ![[Hourly|templates.people.onboarding.hourly]]
@@ -71,24 +61,23 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 
 Dendron requires you to enable 2FA[^2fa]
 
- :red_circle: This absolutely must be done within a week or you will be locked out and need to wait for an admin to get around to helping you get reconnected.
+This absolutely must be done within a week or you will be locked out and need to wait for an admin to get around to helping you get reconnected.
 
-1. [ ]  Enable 2FA on your Dendron email account (Gmail/GSuite) (this should have been an option to do when you first received the invitation to the account).
-2. [ ]  Enable [two-factor authentication](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication) on your Github account.
+- [ ]  Enable 2FA on your Dendron email account (Gmail/GSuite) (this should have been an option to do when you first received the invitation to the account).
+- [ ]  Enable [two-factor authentication](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication) on your Github account.
 
 #### Rippling
 
-:red_circle: This section is super important to ensure payroll + operations support
+This section is super important to ensure payroll + operations support
 
-1. [ ] Rippling is our HRIS (Human Resource Information System) for all team members.    
-   1. [ ] Access the Rippling [Dashboard](https://app.rippling.com) and make sure you complete any outstanding tasks assigned to you.
-   2. [ ] For contractors being paid by the hour, it may be useful to save an invoice template for future use. An invoice template can be found in Google Docs by searching `Invoice Template` or [here](https://docs.google.com/spreadsheets/d/1faslC4H_NSLsk8jd8xUuwgAjqhkdSlaI0D1WINA1y9Y/edit#gid=0).
-2. [ ] Don't forget to comply with the contract you signed, and make sure you understand [Intellectual Property](https://about.gitlab.com/handbook/people-group/code-of-conduct/#intellectual-property-and-protecting-ip).
+- [ ] Rippling is our HRIS (Human Resource Information System) for all team members.    
+   - [ ] Access the Rippling [Dashboard](https://app.rippling.com) and make sure you complete any outstanding tasks assigned to you.
+   - [ ] For contractors being paid by the hour, it may be useful to save an invoice template for future use. An invoice template can be found in Google Docs by searching `Invoice Template` or [here](https://docs.google.com/spreadsheets/d/1faslC4H_NSLsk8jd8xUuwgAjqhkdSlaI0D1WINA1y9Y/edit#gid=0).
+- [ ] Don't forget to comply with the contract you signed, and make sure you understand [Intellectual Property](https://about.gitlab.com/handbook/people-group/code-of-conduct/#intellectual-property-and-protecting-ip).
 
 #### User Intro
 - [ ] Create and add your own [[user readme|templates.user-readme]]. This goes in `user.{{ALIAS}}` 
    - NOTE: this may take some time to create so please feel free to iterate on it over the course of the week
-
 
 #### Discord
 
@@ -102,15 +91,15 @@ Dendron requires you to enable 2FA[^2fa]
    1. We also enjoy pictures if you're willing to share. Consider giving your new team members a glimpse into your world (scroll through previous messages in the channel for inspiration).
 
 #### Rpass
-1. [ ] :red_circle: Install rpass. Dendron provides all team members with an account to rpass to help manage work credentials.
-
+- [ ] Install rpass. Dendron provides all team members with an account to rpass to help manage work credentials.
 
 #### Other
 - [ ] Accept calendar invite to the Dendron Company Calendar
 
-#### Workspace Setup
+#### Initial Tasks
 
-Go to [[Job-specific tasks|templates.people.onboarding#job-specific-tasks]] and complete setting up your workspace. 
+- [ ] Go to [[Job-specific tasks|templates.people.onboarding#job-specific-tasks]] for role specific tasks
+- [ ] Go to your [[weekly journal|handbook.sop.weekly-journal]] at `user.{username}.weekly.{date}` to see your specific tasks
 * * *
 
 ## Day 2 - Remote Working and our Values
@@ -209,4 +198,4 @@ This section is both inspired by and borrows heavily from the following projects
 
 - [Gitlab](https://about.gitlab.com/handbook/) ([license](https://gitlab.com/gitlab-org/dco/blob/master/README.md))
 
-- [^2fa]: [[2FA|templates.people.onboarding#2fa]]
+[^2fa]: [[2FA|templates.people.onboarding#2fa]]
