@@ -2,11 +2,11 @@
 id: oHDMLnWc0MAjz6vVVZ5cX
 title: Hourly
 desc: ''
-updated: 1631558127274
+updated: 1631559002534
 created: 1631558117450
 ---
 
-- [ ] Please include two additional frontmatter fields that track the hours you've worked. It should look something like this:
+If you are working hourly, please include two additional frontmatter fields that track the hours you've worked. It should look something like this:
 
 ```
 ---

@@ -2,7 +2,7 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Onboarding
 desc: ''
-updated: 1631558832129
+updated: 1631558987418
 created: 1620248731246
 ---
 ## Welcome to Dendron!
@@ -64,6 +64,8 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 
 - [ ] Create your daily journal note for today. It should be in the format of `user.{{ALIAS}}.{{date}}`. You can read more about the format [[here|schemas.user#dailyjournal]]
 - [ ] Add `- [ ] Do Day 1 onboarding` as your very first task
+
+![[Hourly|templates.people.onboarding.hourly]]
 
 #### 2FA 
 
