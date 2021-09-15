@@ -2,7 +2,7 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Onboarding
 desc: ''
-updated: 1631562893072
+updated: 1631729273774
 created: 1620248731246
 ---
 ## Welcome to Dendron!
@@ -21,9 +21,7 @@ We are so excited you’re here and look forward to setting you up for remote-fi
 
 ## Introduction
 
-This is your core onboarding issue and it is housed in Dendron in the interests of what is known as [dogfooding](https://about.gitlab.com/handbook/values/#dogfooding). It has been crafted with the [three dimensions of remote onboarding](https://about.gitlab.com/company/culture/all-remote/onboarding/) in mind, namely: Organizational Onboarding, Technical Onboarding and Social Onboarding.
-
-All three of these are underpinned by the sentiments of [lifelong learning](https://handbook.dendron.so/notes/b89ba854-72fb-4ebc-a8a0-55960b89e9dc.html#lifelong-learning), while encouraging [asynchronous communication and workflows](https://about.gitlab.com/company/culture/all-remote/asynchronous/).
+This is your core onboarding to work at Dendron. It has been crafted with the [three dimensions of remote onboarding](https://about.gitlab.com/company/culture/all-remote/onboarding/) in mind, namely: Organizational Onboarding, Technical Onboarding and Social Onboarding.
 
 ## Support and our Single Source of Truth
 
@@ -50,9 +48,15 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 
 ## Day 1 - Getting Started: Accounts and Paperwork
 
+- NOTE1: the best way to follow along in this onboarding is by using the preview. You can run `Dendron: Show Preview` by selecting it from the [command prompt](https://wiki.dendron.so/notes/rLlUBUvNmv5gu9YmZfUJE.html).
+- NOTE2: relative links currently don't work in the preview (this is currently being addressed). To navigate links, hover over a link in the editor and use `CTRL+Enter` to navigate
+
 #### Daily Journal Note
 
-- [ ] Create your [[handbook.sop.daily-journal]] note for today. It should be in the format of `user.{{ALIAS}}.{{date}}`. You can read more about the format [[here|schemas.user#dailyjournal]]
+This is how we do standups at Dendron
+
+- [ ] Read over the sop[^sop] on [[handbook.sop.daily-journal]]
+- [ ] Create your daily journal note for today. It should be in the format of `user.{{ALIAS}}.{{date}}`. You can read more about the format [[here|schemas.user#dailyjournal]]
 - [ ] Add `- [ ] Do Day 1 onboarding` as your very first task
 
 ![[Hourly|templates.people.onboarding.hourly]]
@@ -191,6 +195,9 @@ For those new to Github and Dendron, it's important to get familiar with the bel
 
 You sign in with something you know (your password) and something you have (a code you can copy from your Virtual Multi-Factor authentication Device, like [Authy](https://authy.com), FreeOTP, or Google Authenticator). Please make sure that time is set automatically on your device (ie. on Android: "Settings" > "Date & Time" > "Set automatically")
 
+### SOP
+This defines our playbooks for various processes
+
 
 ## [Lookup](https://handbook.dendron.so/notes/b89ba854-72fb-4ebc-a8a0-55960b89e9dc.html#lookup)
 
@@ -199,3 +206,4 @@ This section is both inspired by and borrows heavily from the following projects
 - [Gitlab](https://about.gitlab.com/handbook/) ([license](https://gitlab.com/gitlab-org/dco/blob/master/README.md))
 
 [^2fa]: [[2FA|templates.people.onboarding#2fa]]
+[^sop]: [[SOP|templates.people.onboarding#sop]]
