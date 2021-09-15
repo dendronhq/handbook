@@ -2,7 +2,7 @@
 id: zBlxjKJ0bFMcLJXhch2U0
 title: Remote Work
 desc: ''
-updated: 1631221637016
+updated: 1631727671093
 created: 1631220480957
 ---
 
@@ -17,10 +17,10 @@ Remote work comes with lots of flexibility but also introduces challenges in com
 
 When sending messages to team members, the expectations for all messages is that they are async[^async], meaning that the other person has at least **12h** or more to respond. 
 
-If you need to send a synchronous[^sync] message, be considerate of people's hours of availability [^hours] and add a `!sync` after the message. 
+If you need to send a synchronous[^sync] message, be considerate of people's hours of availability [^hours] and add a `#sync` after the message. 
 
 ```
-@kevin the latest release needs to be rolled back because of a bug in lookup !sync
+@kevin the latest release needs to be rolled back because of a bug in lookup #sync
 ```
 
 Synchronous messages should be reserved for when you need immediate feedback. Some examples of good use cases:

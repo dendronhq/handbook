@@ -2,11 +2,20 @@
 id: 3c35f9da-ef77-448e-a56a-c8fc3040a59c
 title: User Readme
 desc: ''
-updated: 1631220896297
+updated: 1631728664221
 created: 1620318176003
 ---
 
-<!-- This template will help you build out your very own README, a great tool for transparently letting others know what it's like to work with you, and how you prefer to be communicated with. Each section is optional. You can remove those you aren't comfortable filling out, and add sections that are germane to you. -->
+<!-- 
+This template will help you build out your very own README, a great tool for transparently letting others know what it's like to work with you, and how you prefer to be communicated with. 
+
+Everyone should fill out the following sections:
+- summary
+- handles
+- about me
+
+Everything else is optional.  You can remove those you aren't comfortable filling out, and add sections that are germane to you. 
+-->
 
 ## Summary
 
@@ -19,13 +28,13 @@ created: 1620318176003
 - Github:
 - Email:
 
-## Related pages
-
-[**Add links to relevant pages that add context to who you are. Examples include blog posts, social media profiles, portfolios, reels, personal homepages, etc.**]
-
 ## About me
 
 [**Consider linking a video of you working or being interviewed, along with 3-5 bullet points outlining interesting tidbits about you and your interests. Focus these on non-work attributes. Also, add detail on what Dendron values and sub-values resonate most with you. This enables ice-breakers to occur ahead of meetings.**]
+
+## Related pages
+
+[**Add links to relevant pages that add context to who you are. Examples include blog posts, social media profiles, portfolios, reels, personal homepages, etc.**]
 
 ## How you can help me
 
