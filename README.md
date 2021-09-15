@@ -1,4 +1,3 @@
-
 The Dendron handbook is the central repository for how we run the Dendron organization.
 
 This handbook is heavily inspired by the [gitlab handbook](https://about.gitlab.com/handbook). 
