@@ -19,7 +19,7 @@ This describes Dendron's weekly planning process. Think of it as sprint retrospe
 ### During
 - during the meeting, we recommend that those following along have two windows of the google doc open
   - one window to follow along the current section
-  - another window to add any [[Next items|templates.weekly-planning.gdoc#next]] or [[[Discussion|templates.weekly-planning.gdoc#discussion]] you want to bring up based on whats currently being discussed
+  - another window to add any [[Next items|templates.weekly-planning.gdoc#next]] or [[Discussion|templates.weekly-planning.gdoc#discussion]] you want to bring up based on whats currently being discussed
 
 ### After
 - @weeklyPlanner: go through [[After Meeting Checklist|templates.weekly-planning.lead#after-meeting]]
