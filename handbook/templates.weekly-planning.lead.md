@@ -2,7 +2,7 @@
 id: xgIjSQJcQyGArCDKKH9an
 title: Weekly Planning Lead Checklist
 desc: ''
-updated: 1630972403056
+updated: 1632255749107
 created: 1625575868274
 ---
 
@@ -33,8 +33,6 @@ created: 1625575868274
 - [ ] Ensure current [milestone](https://github.com/dendronhq/dendron/milestones) tasks are in the weekly journal.
   - Tasks should be obtained from people's current goals
 - [ ] Update [[dendron.rfc]] so it's current.
-- [ ] Move notes from gdoc to `meet.planning.{year}.{MM}.{{dd}`
-  - Set up next week's gdoc [^meet-gdoc] with a clean template to allow people time to fill it out.
 - [ ] Close out last week's weekly journal [^1]
 - [ ] Remind people to update issue in Github [^2] 
 

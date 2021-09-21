@@ -2,7 +2,7 @@
 id: clMDTci3e_UFbIevRk7nU
 title: Weekly Planning
 desc: ''
-updated: 1632187319079
+updated: 1632194701013
 created: 1624019624458
 ---
 
@@ -37,6 +37,7 @@ This describes Dendron's weekly planning process. Think of it as sprint retrospe
 1. For all issues from oncall that are on triage, add it to the [[Triage|templates.weekly-planning.gdoc#triage]] section of weekly planning
 
 ### Update CROP
+- See [[Crop Community Issue|dendron://private/dendron.sop.crop-community-issue]]
 1. Announce in the `#feedback` channel the CROP of this week. Tag the original submitter in the response if possible
 1. Update [[Crop Tasks|dendron.tasks.crop]] 
   - add voted on CROP to active

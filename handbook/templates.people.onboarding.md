@@ -2,7 +2,7 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Onboarding
 desc: ''
-updated: 1631729273774
+updated: 1632256723518
 created: 1620248731246
 ---
 ## Welcome to Dendron!
@@ -25,7 +25,7 @@ This is your core onboarding to work at Dendron. It has been crafted with the [t
 
 ## Support and our Single Source of Truth
 
-Since Dendron aspires to be a [handbook first](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) organization, the answer to question you may have particularly throughout your first thirty days should be documented and readily available in the [handbook](http://handbook.dendron.so). If you are unable to find the information you are looking for, please reach out on the #dendron-team channel in Discord and update the handbook once you find the answer.
+Since Dendron aspires to be a [handbook first](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) organization, the answer to question you may have particularly throughout your first thirty days should be documented and readily available in the [handbook](http://handbook.dendron.so). If you are unable to find the information you are looking for, please reach out on the `#dendron-team` channel in Discord and update the handbook once you find the answer.
 
 ## The First Thirty Days
 
@@ -42,7 +42,7 @@ Though you may be eager to jump right into your role we encourage you to set asi
 
 ## Continuous Improvement
 
-In the interests of paying it forward and contributing to our core value of [Iteration](https://handbook.dendron.so/notes/b89ba854-72fb-4ebc-a8a0-55960b89e9dc.html#iteration) - we encourage you to suggest changes and updates to this note and the handbook, both of which can be done via Pull Request (PR).
+In the interests of [[passing it forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]], we encourage you to suggest changes and updates to this note and the handbook, both of which can be done via Pull Request (PR).
 
 Along with this you will complete onboarding on Day Thirty by being asked to fill out the [Onboarding Satisfaction Survey](https://airtable.com/shrcILcL6cm6lpCZt), which is an opportunity to share feedback on your general Onboarding Experience.
 
@@ -67,16 +67,17 @@ Dendron requires you to enable 2FA[^2fa]
 
 This absolutely must be done within a week or you will be locked out and need to wait for an admin to get around to helping you get reconnected.
 
-- [ ]  Enable 2FA on your Dendron email account (Gmail/GSuite) (this should have been an option to do when you first received the invitation to the account).
 - [ ]  Enable [two-factor authentication](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication) on your Github account.
+
+<!-- full timers only --->
+- [ ]  Enable 2FA on your Dendron email account (Gmail/GSuite) (this should have been an option to do when you first received the invitation to the account).
 
 #### Rippling
 
-This section is super important to ensure payroll + operations support
+Rippling is our HRIS (Human Resource Information System) for all team members. This section is super important to ensure payroll + operations support
 
-- [ ] Rippling is our HRIS (Human Resource Information System) for all team members.    
-   - [ ] Access the Rippling [Dashboard](https://app.rippling.com) and make sure you complete any outstanding tasks assigned to you.
-   - [ ] For contractors being paid by the hour, it may be useful to save an invoice template for future use. An invoice template can be found in Google Docs by searching `Invoice Template` or [here](https://docs.google.com/spreadsheets/d/1faslC4H_NSLsk8jd8xUuwgAjqhkdSlaI0D1WINA1y9Y/edit#gid=0).
+- [ ] Access the Rippling [Dashboard](https://app.rippling.com) and make sure you complete any outstanding tasks assigned to you.
+- [ ] For contractors being paid by the hour, it may be useful to save an invoice template for future use. An invoice template can be found in Google Docs by searching `Invoice Template` or [here](https://docs.google.com/spreadsheets/d/1faslC4H_NSLsk8jd8xUuwgAjqhkdSlaI0D1WINA1y9Y/edit#gid=0).
 - [ ] Don't forget to comply with the contract you signed, and make sure you understand [Intellectual Property](https://about.gitlab.com/handbook/people-group/code-of-conduct/#intellectual-property-and-protecting-ip).
 
 #### User Intro
@@ -89,12 +90,13 @@ This section is super important to ensure payroll + operations support
    - [ ] You can use your personal discord OR choose to create a new username using your Dendron email. It's generally helpful to choose a username to be the same as your Github handle, for consistency and ease of use.
 - [ ] Make sure your Discord profile has a **photo** - it makes it easier for other team members to remember you!
 - [ ] If you're new to Discord, a short primer can be found at [a Beginner's guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
-- [ ] Make sure you have access to the #dendron-team channel and post an intro.
+- [ ] Make sure you have access to the `#dendron-team` channel and post an intro.
    1. This can be the [[About me|templates.user-readme#about-me]] that you used for your README
    1. We love to hear more, such as where you were before, family/pets, and hobbies.
    1. We also enjoy pictures if you're willing to share. Consider giving your new team members a glimpse into your world (scroll through previous messages in the channel for inspiration).
 
 #### Rpass
+<!-- Full time only -->
 - [ ] Install rpass. Dendron provides all team members with an account to rpass to help manage work credentials.
 
 #### Other
@@ -104,6 +106,8 @@ This section is super important to ensure payroll + operations support
 
 - [ ] Go to [[Job-specific tasks|templates.people.onboarding#job-specific-tasks]] for role specific tasks
 - [ ] Go to your [[weekly journal|handbook.sop.weekly-journal]] at `user.{username}.weekly.{date}` to see your specific tasks
+
+If at any point you find yourself stuck, don't hesitate to leave a question in the `#dendron-team` channel.
 * * *
 
 ## Day 2 - Remote Working and our Values
@@ -133,6 +137,7 @@ The first month at a remote company can be hard. **There is as much to unlearn a
 2. [ ] We are driven by our mission -  to help **people** organize and make sense of any amount of information.  Read our [[mission statement|handbook.company.mission]]
 
 ### Calendar
+<!--Trial/Part-time optional-->
 
 #### Set Up
 
