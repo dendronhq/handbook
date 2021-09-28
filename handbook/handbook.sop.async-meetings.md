@@ -2,13 +2,13 @@
 id: 9bacfb70-5777-4fc4-b069-f902f42762b9
 title: Async Meetings
 desc: ''
-updated: 1632791546550
+updated: 1632791839608
 created: 1622383410206
 ---
 
 
 ## Summary
-- stage: [[Seed|dendron://dendron.dendron-site/tags.stage.seed]]
+- stage: Seed
 
 At Dendron, we try to be async first. Async meetings let us collaborate across different timezones. This involves setting a date, inviting relevant parties, and having a shared gdoc that participants can comment on.
 
