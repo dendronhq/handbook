@@ -2,7 +2,7 @@
 id: 9bacfb70-5777-4fc4-b069-f902f42762b9
 title: Async Meetings
 desc: ''
-updated: 1632791839608
+updated: 1633017463994
 created: 1622383410206
 ---
 
@@ -18,6 +18,8 @@ Examples of good use cases - going over a design doc, discussing product strateg
 
 
 ## Process
+
+### Planner
 1. create a google doc
   - if you have a `@dendron.so` email address, create a gdoc by going to https://docs.google.com 
     - make sure to give the following people: team@dendron.so, trial@dendron.so
@@ -28,8 +30,12 @@ Examples of good use cases - going over a design doc, discussing product strateg
   - Title: [async] "What you need done"
   - Guests: anyone who needs to get things done with you (but working separately)
   - Location: At your desk.
+1. create a discord thread in `#team-announcements` sharing the details of the event
 1. 24h after the meeting, copy the meeting notes back into the workspace under `meet.journal.{date}.{topic}`
 1. ping relevant parties when the meeting is done
+
+### Attedant
+1. If you attended the meeting, please leave a 👍 in the original announcement to notify that you have reviewed the doc
 
 ## Checklist
 

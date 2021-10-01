@@ -1,0 +1,37 @@
+---
+id: Vsq2MH3oisleK9ceK2iGt
+title: Communication
+desc: ''
+updated: 1632795765784
+created: 1632795411720
+---
+
+## Summary
+<!-- What is this SOP about -->
+How we communicate in an all remote, async first fashion
+
+## Best Practice
+
+### In General
+- If you are sending a message, unless sending during work hours, give people at least **12h** to respond
+- If you are receiving a message during the work week, respond within **24h** 
+
+### Messaging
+When sending messages to team members, the expectations for all messages is that they are async[^async]
+
+If you need to send a synchronous[^sync] message, be considerate of people's hours of availability [^hours] and add a `#sync` after the message. 
+
+```
+@kevin the latest release needs to be rolled back because of a bug in lookup #sync
+```
+
+Synchronous messages should be reserved for when you need immediate feedback. Some examples of good use cases:
+
+- there's an issue with a feature that is blocking deployment
+- there's a critical bug that is actively degrading the Dendron experience
+- there's an issue that the current oncall needs to look at during their working hours
+
+
+[^hours]: [[Hours of Availability|handbook.people.remote-work#hours-of-availability]]
+[^sync]: [[Sync|handbook.people.remote-work#sync]]
+[^async]: [[Async|handbook.people.remote-work#async]]
