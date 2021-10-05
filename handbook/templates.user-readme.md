@@ -2,7 +2,7 @@
 id: 3c35f9da-ef77-448e-a56a-c8fc3040a59c
 title: User Readme
 desc: ''
-updated: 1631728664221
+updated: 1633404464631
 created: 1620318176003
 ---
 
@@ -19,9 +19,12 @@ Everything else is optional.  You can remove those you aren't comfortable fillin
 
 ## Summary
 
+<!--  You can reference this section to let the team members know about your availability. -->
+
 - Name:
 - Time Zone:
 - Regular work hours:
+- Local national holidays:
 
 ### Handles:
 - Discord:
