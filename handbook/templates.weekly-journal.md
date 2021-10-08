@@ -2,7 +2,7 @@
 id: klS6q6LxytW3N-OjLTMOz
 title: Weekly Journal
 desc: ''
-updated: 1629906876728
+updated: 1633386677474
 created: 1623631296835
 source: >
   [[Weekly Journal|handbook.sop.weekly-journal]]
@@ -32,4 +32,5 @@ source: >
 ## Next
 <!-- Things to bring up for weekly planning session. This can be new ideas or the second phase of current tasks. You can read about it [[here|dendron.sop.triage]] (currently private to dendron team) -->
 <!-- Insert the following template into your weekly -->
+<!-- Remember to add `@{YOUR_ALIAS}` at the end of items that you are suggesting for triage -->
 ![[templates.task.triage]]
