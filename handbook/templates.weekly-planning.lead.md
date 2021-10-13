@@ -2,7 +2,7 @@
 id: xgIjSQJcQyGArCDKKH9an
 title: Weekly Planning Lead Checklist
 desc: ''
-updated: 1632255749107
+updated: 1634080519379
 created: 1625575868274
 ---
 
@@ -21,12 +21,6 @@ created: 1625575868274
   - [ ] Assign this week's [[dendron.sop.crop-community-issue]]
   - [ ] Remind stragglers to update the gdoc (EOD Monday)
 
-### During Meeting
-- [ ] Go over wins and learnings
-- [ ] Go over previous and current goals
-- [ ] Community issue of the week assigned out.
-- [ ] Review tasks in current weekly journal
-- [ ] Review tasks in next week's journal 
 
 ### After Release
   <!-- We'll automate this process, right now, not worth doing-->
@@ -35,6 +29,7 @@ created: 1625575868274
 - [ ] Update [[dendron.rfc]] so it's current.
 - [ ] Close out last week's weekly journal [^1]
 - [ ] Remind people to update issue in Github [^2] 
+- [ ] Go over previous and current goals
 
 ### One Day After Meeting
 - [ ] Move notes from gdoc to `meet.planning.{year}.{MM}.{{dd}`

@@ -39,11 +39,10 @@ This describes Dendron's weekly planning process. Think of it as sprint retrospe
 ### Update CROP
 - See [[Crop Community Issue|dendron://private/dendron.sop.crop-community-issue]]
 1. Announce in the `#feedback` channel the CROP of this week. Tag the original submitter in the response if possible
-1. Update [[Crop Tasks|dendron.tasks.crop]] 
+1. Update [[Crop Tasks|dendron.tasks.crop]]
   - add voted on CROP to active
   - move other crops to the bottom of [[Previous|dendron.tasks.crop#previous]]
 1. Make sure there 3 CROP items for [[Next|dendron.tasks.crop#next]]
-
 
 ##
 

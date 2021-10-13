@@ -66,7 +66,7 @@ If your feature is not yet ready, you are encouraged to submit a pull request bu
 
 If its your first pull request to Dendron, watch out for the [CLA](https://en.wikipedia.org/wiki/Contributor_License_Agreement) bot that will ask you to agree to Dendron's CLA
 
-If its your first pull request and you're on our Discord, make sure that Kevin gives you the [[horticulturalist|dendron.community.roles#horticulturalist]] role  👨‍🌾👩‍🌾
+If its your first pull request and you're on our Discord, make sure that Kevin gives you the [[horticulturalist|community.roles#horticulturalist]] role  👨‍🌾👩‍🌾
 
 After you submit your pull request, check the output of our [integration test](https://github.com/dendronhq/dendron/actions) and make sure all tests pass
 
