@@ -36,7 +36,7 @@ There are some things that we will do exactly once. For everything else, we will
 
 We act and follow through on things that demonstrates trust. This includes little things like showing up for meetings ahead of time to big things like honoring the commitments we make - whether that be from a chat dialogue or an official announcement. -->
 
-### Deliver Results
+<!-- ### Deliver Results
 - Source: [Amazon Leadership Principle](https://www.amazon.jobs/en/principles)
 - Related Values:
     * [[80/20|dendron://dendron.handbook/handbook.company.values#8020]]
@@ -44,7 +44,7 @@ We act and follow through on things that demonstrates trust. This includes littl
     * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.  
-> [Amazon Leadership Principle](https://www.amazon.jobs/en/principles)
+> [Amazon Leadership Principle](https://www.amazon.jobs/en/principles) -->
 
 ### Bias for Action
 - Source: [Amazon Leadership Principle](https://www.amazon.jobs/en/principles)
