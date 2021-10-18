@@ -2,7 +2,7 @@
 id: f6d9bc09-04b7-4a02-a6aa-a2c8454ce1e5
 title: Faq
 desc: ''
-updated: 1634594974050
+updated: 1634601407057
 created: 1617905326784
 ---
 
@@ -28,6 +28,12 @@ Dendron is all remote but we host many events to foster in-person connections, a
 - the [Greenhouse Series](https://wiki.dendron.so/notes/PqtlCsRPWBjKp3RR.html): a public learning series where team members are encouraged to share something they know with the rest of the Dendron community.
 - [teatime](https://wiki.dendron.so/notes/zOw3EfQ4czmTYG4mc3wnS.html): a voice channel for team members to jump and have ad hoc conversations with other team mates and the wider Dendron community
 
+### What is the size of the team?
+
+We are a team of eight, globally distributed. Our plan is to stay within the bounds of the [two pizza team](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/two-pizza-teams.html) for as long as we can. 
+
+See the team [here](https://www.dendron.so/about).
+
 ## Product
 
 See [product FAQ](https://wiki.dendron.so/notes/683740e3-70ce-4a47-a1f4-1f140e80b558.html)
@@ -43,3 +49,9 @@ Our users start using Dendron for personal notes and quickly end up also adoptin
 We get lots of requests from teams that love using Dendron for daily work but want more sophistication in terms of access control and synchronization.
 They also want to be able to share notes with less technical team mates and make it possible for them to edit and comment.
 Towards this end, we will be launching a managed service to help teams do all this and more in early Q1 of 2022 and it is here where we plan on monetizing. 
+
+## Technology
+
+### What technologies do you use?
+
+See [what we run on](https://wiki.dendron.so/notes/zhXmCnOFUWeKBSTNTy9Dq.html)
