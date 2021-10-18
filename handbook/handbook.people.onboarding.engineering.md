@@ -17,7 +17,7 @@ This goes over engineering onboarding. For onboarding, review the follow procedu
 ## Your first task
 
 - you should have already been assigned an initial first task when you joined the company 
-- setup the dendron monorepo by following instructions [[here|dendron.dev.setup]]
+- setup the dendron monorepo by following instructions [[here|pkg.plugin-core.quickstart]]
   - if you are working on server side features (you'll be told if that's the case), you should also setup `dendron-backend` by following instructions [[here|pkg.dendron-backend.quickstart]]
 - go over our git workflow [[here|eng.ref.git]]
 - get a sense of how all the subcomponents work by reading the overal [[design|dendron.dev.design]]
