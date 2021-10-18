@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1634528262244
+updated: 1634532684463
 created: 1630621137161
 ---
 
@@ -14,13 +14,15 @@ A key principle is a building block to one or more values.
 
 ## Principles
 
-<!-- #### Documentation First
-
+### Document First
+- Inspired by: [Gitlab Principles](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/)
 - Values
-    - Learn and Adapt [^learn]
-    - Pass it Forward [^forward]
+    * [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
+    * [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
+    * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
 
-In order to build on what exists, we need to first bring it forth into existence with writing. -->
+Write it or lose it. Having a single source of truth for everything we do helps us effectively communicate and build up institutional knowledge. This is the foundation that makes an async first, remote workplace culture possible and gives everyone a way to participate in the decision making process.
+
 
 <!-- #### No One Offs
 
@@ -41,7 +43,8 @@ We act and follow through on things that demonstrates trust. This includes littl
     - [[Iterate|dendron://dendron.handbook/handbook.company.values#iterate]]
     * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
 
-> Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle. 
+> Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.  
+> [Amazon Leadership Principle](https://www.amazon.jobs/en/principles)
 
 ### Bias for Action
 - Source: [Amazon Leadership Principle](https://www.amazon.jobs/en/principles)
@@ -51,13 +54,16 @@ We act and follow through on things that demonstrates trust. This includes littl
     * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
 
 > Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking. 
+> [Amazon Leadership Principle](https://www.amazon.jobs/en/principles)
 
 
 
-<!-- * [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
+<!-- 
+* [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
 * [[80/20|dendron://dendron.handbook/handbook.company.values#8020]]
 * [[Iterate|dendron://dendron.handbook/handbook.company.values#iterate]]
 * [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
 * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
 * [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
-* [[Keep no False Idols|dendron://dendron.handbook/handbook.company.values#keep-no-false-idols]] -->
+* [[Keep no False Idols|dendron://dendron.handbook/handbook.company.values#keep-no-false-idols]] 
+-->
