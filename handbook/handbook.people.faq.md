@@ -2,7 +2,7 @@
 id: f6d9bc09-04b7-4a02-a6aa-a2c8454ce1e5
 title: Faq
 desc: ''
-updated: 1634601407057
+updated: 1634603879619
 created: 1617905326784
 ---
 
@@ -33,6 +33,15 @@ Dendron is all remote but we host many events to foster in-person connections, a
 We are a team of eight, globally distributed. Our plan is to stay within the bounds of the [two pizza team](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/two-pizza-teams.html) for as long as we can. 
 
 See the team [here](https://www.dendron.so/about).
+
+### What is the PTO policy?
+
+2 weeks vacation + national holidays, 1 week sick leave
+
+
+### What is the policy on equiment?
+
+Bring your own equipment
 
 ## Product
 
