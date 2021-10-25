@@ -2,7 +2,7 @@
 id: 09a34445-345d-42c9-b82b-6f6691aed668
 title: Onboarding
 desc: ''
-updated: 1631728479689
+updated: 1635181463079
 created: 1618789330639
 nav_order: 3
 ---
@@ -23,14 +23,22 @@ The following describes the onboarding process at Dendron
 
 #### Setting Up Your Workspace 
 1. Clone the Dendron private workspace (this will be sent to you by email)
+
     ```sh
     git clone {workspace-url}
     ```
+
+    - NOTE: If you are in a trial period, please use the following command
+
+    ```sh
+    git clone ssh://github.com/dendronhq/org-workspace-incubator
+    ```
+
 1. Open up your Dendron workspace
     - NOTE: we're using `code-insider` CLI in this example but this will vary depending on what VSCode client you use
     ```sh
     cd {workspace}
-    code-insdier .
+    code-insider .
     ```
 1. You will see a prompt to `Open workspace file` on the bottom right corner. Click on the prompt
 1. Wait ~30s for your workspace to initialize. Dendron is initializing your workspace and downloading company documents at this point
