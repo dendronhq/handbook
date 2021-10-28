@@ -2,7 +2,7 @@
 id: 9bacfb70-5777-4fc4-b069-f902f42762b9
 title: Async Meetings
 desc: ''
-updated: 1635395238341
+updated: 1635395381077
 created: 1622383410206
 ---
 
@@ -23,8 +23,9 @@ Examples of good use cases - going over a design doc, discussing product strateg
 
 Use this when you made a small update to the handbook/site/etc and want to do a lightweight async. See [example](https://github.com/dendronhq/handbook/commit/58aa4d75c1d5275c01e628dd77e24a99a216748f#)
 
-1. Create a new thread in the `#async-meet` channel and set expiration for 3 days
+1. Create a new thread in the `#async-meet` channel and set expiration for 24h.
 1. Link to the commit/scratch note in question and mention the `@DendronTeam`
+1. Team members have 24h to respond to the thread, either with comments or a 👍 to acknowledge reading
 
 ### Planner
 1. create a google doc
