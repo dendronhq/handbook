@@ -2,7 +2,7 @@
 id: xgIjSQJcQyGArCDKKH9an
 title: Weekly Planning Lead Checklist
 desc: ''
-updated: 1634080519379
+updated: 1635208180308
 created: 1625575868274
 ---
 
@@ -10,7 +10,8 @@ created: 1625575868274
 
 ### Before Meeting
 - By Friday
-  - [ ] Create next weekly journal [^1]
+  - [ ] Create next weekly journal using `weekly.journal.{date}` 
+    - [ ] replace `dd` with the month and date of the current week `eg: s/dd/11.02/g`
   - [ ] Close previous week's milestones in Github
   - [ ] [[Update Next Week Milestones|handbook.sop.weekly-planning#update-next-week-milestones]]
   - [ ] Update items in triage doc
@@ -35,10 +36,14 @@ created: 1625575868274
 - [ ] Move notes from gdoc to `meet.planning.{year}.{MM}.{{dd}`
 - [ ] Set up next week's gdoc [^meet-gdoc] with a clean template to allow people time to fill it out.
 - [ ] go through issues in [[Triage|templates.weekly-planning.gdoc#triage]] where items will end in one of the following places:
-    - [[dendron.tasks.backlog]]
-    - [[crop issue|dendron.sop.crop-community-issue#crop-triage]]
-    - a new project
+    - [[backlog issue|dendron.tasks.backlog]]
+    - [[crop issue|dendron://private/dendron.tasks.crop#next]]
+    - assign it to a team member for this current sprint
+    - assign it as an upcoming [[project|dendron://private/proj#next]]
 
-[^meet-gdoc]: [meet gdoc](https://docs.google.com/document/d/1GEZfMMHLmz5AIvGoZrjM24TL7r_XjlmuerjEa2L9Pmo/edit#)
-[^1]: [[Weekly Journal|templates.weekly-journal.team]] 
+
+##
+
+[^1]: [[Weekly Journal|weekly.temp.team-journal]] 
 [^2]: [[After|templates.weekly-planning.team#after]]
+[^meet-gdoc]: [meet gdoc](https://docs.google.com/document/d/1GEZfMMHLmz5AIvGoZrjM24TL7r_XjlmuerjEa2L9Pmo/edit#)
