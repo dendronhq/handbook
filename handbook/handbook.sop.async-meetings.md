@@ -2,7 +2,7 @@
 id: 9bacfb70-5777-4fc4-b069-f902f42762b9
 title: Async Meetings
 desc: ''
-updated: 1635395381077
+updated: 1635450979241
 created: 1622383410206
 ---
 
@@ -38,7 +38,7 @@ Use this when you made a small update to the handbook/site/etc and want to do a 
   - Title: [async] "What you need done"
   - Guests: anyone who needs to get things done with you (but working separately)
   - Location: At your desk.
-1. create a discord thread in `#team-announcements` sharing the details of the event
+1. create a discord post in `#async-meet` sharing the details of the event. Use the discord template [^discord]
 1. 24h after the meeting, copy the meeting notes back into the workspace under `meet.journal.{date}.{topic}`
 1. ping relevant parties when the meeting is done
 
@@ -67,3 +67,6 @@ Recommended and optional async meetings for yourself. Any subset of the followin
 - [Daily] Morning planning
 - [Daily] Evening review/next day journal creation.
 - [Weekly] Review tasks assigned to you in Github so they're up to date.
+
+
+[^discord]: [[Discord|dendron://dendron.handbook/handbook.sop.async-meetings.temp.discord]]
