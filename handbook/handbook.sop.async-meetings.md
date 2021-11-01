@@ -2,7 +2,7 @@
 id: 9bacfb70-5777-4fc4-b069-f902f42762b9
 title: Async Meetings
 desc: ''
-updated: 1635516076964
+updated: 1635731351646
 created: 1622383410206
 ---
 
@@ -25,6 +25,7 @@ Use this when you made a small update to the handbook/site/etc and want to do a 
 
 1. Create a new thread in the `#async-meet` channel and set expiration for 24h (this should be the default)
   - NOTE: if you are creating on Friday, set expiration to 3D
+  - the title of the channel should be `mini: {TITLE}`
 1. Link to the commit/scratch note in question and mention the `@DendronTeam`
 1. Team members have 1 business day to respond to the thread, either with comments or a 👍 to acknowledge reading
 
