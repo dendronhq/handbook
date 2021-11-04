@@ -2,7 +2,7 @@
 id: xgIjSQJcQyGArCDKKH9an
 title: Weekly Planning Lead Checklist
 desc: ''
-updated: 1635721046856
+updated: 1635950421546
 created: 1625575868274
 ---
 
@@ -18,6 +18,7 @@ created: 1625575868274
   - [ ] Finish [[individual weekly planning|templates.weekly-planning.user]]
   - [ ] Announcement weekly planning (create a new thread in `#dendron-team` titled `weekly-planning {date}`) using the following [[template|templates.weekly-planning.team]]
       - NOTE: date should be the for the following tuesday (eg. on 2021-10-31, date should be 2021-11-09)
+      - NOTE: thread should be set as 3 days to auto archive
   - [ ] [[Update CROP|handbook.sop.weekly-planning#update-crop]]
 - On Monday
   - [ ] Assign this week's [[dendron.sop.crop-community-issue]]
