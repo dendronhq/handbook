@@ -2,7 +2,7 @@
 id: c7a2aeaa-f531-4352-a1bc-56504b25a38f
 title: Engineering
 desc: ''
-updated: 1629416686109
+updated: 1636392636232
 created: 1622499448820
 ---
 ## Summary
@@ -12,7 +12,6 @@ This goes over engineering onboarding. For onboarding, review the follow procedu
 ## Pre-requisities
 
 - make sure you've been added to the `Dendron Engineering` Githubb Team
-- make sure you've completed [[Setting up your workspace|handbook.people.onboarding#setting-up-your-workspace]]
 
 ## Your first task
 

@@ -2,12 +2,12 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Onboarding
 desc: ''
-updated: 1632256723518
+updated: 1636392939385
 created: 1620248731246
 ---
 ## Welcome to Dendron!
 
-We are so excited you’re here and look forward to setting you up for remote-first success as your journey begins. You can work through the tasks over the course of your first 30 days. If any task doesn't make sense, please reach out to the team on discord. 
+We are so excited you’re here and look forward to setting you up for remote-first success as your journey begins. You can work through the tasks over the course of your first 30 days. If any task doesn't make sense, please reach out to the team on discord in `#dendron-team`. 
 
 - **Note:** We're really appreciative of Gitlab pioneering the space of remote work and have included a lot of links to the Gitlab handbook. The wealth of information in this note can be overwhelming at times. It's okay to skim through resources, bookmark them and come back at a later time.
 
@@ -33,10 +33,11 @@ This note consists of a series of tasks which should be completed sequentially o
 
 | Day        | Area of Focus                                |
 | ---------- | -------------------------------------------- |
-| **Day 01** | Intro, Accounts and Paperwork                |
+| **Day 01** | Intro, Accounts, Paperwork, First Task       |
 | **Day 02** | Remote Work: Communication and Values        |
 | **Day 03** | Organizational Structure and Social Elements |
 | **Day 04** | Introduction to Dendron and using Github     |
+
 
 Though you may be eager to jump right into your role we encourage you to set aside dedicated time every day for your first week to focus on these tasks as they are geared toward ensuring you are enabled to [thrive in an all-remote environment](https://about.gitlab.com/company/culture/all-remote/onboarding/#the-importance-of-onboarding).
 
@@ -56,8 +57,8 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 This is how we do standups at Dendron
 
 - [ ] Read over the sop[^sop] on [[handbook.sop.daily-journal]]
-- [ ] Create your daily journal note for today. It should be in the format of `user.{{ALIAS}}.{{date}}`. You can read more about the format [[here|schemas.user#dailyjournal]]
-- [ ] Add `- [ ] Do Day 1 onboarding` as your very first task
+- [ ] Open your daily journal note for today. It should be in the format of `user.{{ALIAS}}.{{date}}`. Your manager should have created this one for you. You're responsible for maintaining your own journals for future dates. You can read more about the format [[here|schemas.user#dailyjournal]] 
+   - NOTE: to create a daily journal, we recommend [[pinning|dendron://dendron.dendron-site/dendron.guides.tips#pinning-tabs]] your current daily journal and then using lookup to update the day component at the end of the day to create the daily journal for the next day
 
 ![[Hourly|templates.people.onboarding.hourly]]
 
@@ -112,12 +113,11 @@ If at any point you find yourself stuck, don't hesitate to leave a question in t
 
 ## Day 2 - Remote Working and our Values
 
-
 ### Remote Work
 
 <!--Trial/Part-time optional-->
 
-The first month at a remote company can be hard. **There is as much to unlearn as there is to learn**. Gitlab's a pioneer in this regard and have put together a great set of tips and tricks that will help. You can view their entire course listed below.
+The first month at a remote company can be hard. **There is as much to unlearn as there is to learn**. Check out the resources below to help get you situated.
 
 - [ ]  If you're new to working in a 100% remote environment, read over the [Guide for starting a new remote role](https://about.gitlab.com/company/culture/all-remote/getting-started/). You'll find other tips for operating (and thriving!) in an all-remote setting within the [All-Remote section of the Gitlab handbook](https://about.gitlab.com/company/culture/all-remote/). Take some inspiration from the folks at Gitlab on how they structure their remote working day, read this helpful blog post [A day in the life of remote worker](https://about.gitlab.com/blog/2019/06/18/day-in-the-life-remote-worker/)
 - [ ]  Learn more about the `#allremote` onboarding process and additional [best practices](https://about.gitlab.com/company/culture/all-remote/learning-and-development/#how-do-you-onboard-new-team-members).
@@ -135,6 +135,7 @@ The first month at a remote company can be hard. **There is as much to unlearn a
 
 1. [ ] Dendron values are a living document. Familiarize yourself with our [[values|handbook.company.values]]
 2. [ ] We are driven by our mission -  to help **people** organize and make sense of any amount of information.  Read our [[mission statement|handbook.company.mission]]
+3. [ ] Read over our [[handbook.company.key-principles]] which represent our operating system for making decisions and doing tasks.
 
 ### Calendar
 <!--Trial/Part-time optional-->
