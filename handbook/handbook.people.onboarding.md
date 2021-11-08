@@ -2,7 +2,7 @@
 id: 09a34445-345d-42c9-b82b-6f6691aed668
 title: Onboarding
 desc: ''
-updated: 1635181463079
+updated: 1636391484173
 created: 1618789330639
 nav_order: 3
 ---
@@ -22,13 +22,12 @@ The following describes the onboarding process at Dendron
 ### Steps
 
 #### Setting Up Your Workspace 
-1. Clone the Dendron private workspace (this will be sent to you by email)
-
+1. Clone the Dendron private workspace 
     ```sh
-    git clone {workspace-url}
+    git clone git@github.com:dendronhq/org-workspace.git
     ```
 
-    - NOTE: If you are in a trial period, please use the following command
+    - NOTE: If you are onboarding via our trial, please use the following command 
 
     ```sh
     git clone ssh://github.com/dendronhq/org-workspace-incubator
@@ -45,17 +44,18 @@ The following describes the onboarding process at Dendron
 1. After your workspace is finished initializing, you should have a workspace with the following vaults (your workspace might look different depending if you are full time or still in the trial period)
 ![[handbook.map#vaults,1:#*]]
 
-#### Go Over Company Values
+#### Start individual onboarding
+1. Your manager should already have setup a hierarchy for you. You can find it by going to `user.{YOUR_ALIAS}`
+1. Go to `user.{YOUR_ALIAS}.onboarding` where you should have a copy of our [[Onboarding checklist|templates.people.onboarding]] to walk you through the rest of the process
+
+<!-- #### Go Over Company Values
 1.  Take a moment to read the `handbook.company*` notes. Especially the following sections:
   - [[Mission|handbook.company.mission]]
   - [[Values|handbook.company.values]]
+  - [[handbook.company.key-principles]]
 
 #### Get Context on whats been happening
 1. Read up on company [[schemas|handbook.map#schemas]] to understand how to navigate the workspace
 1. Look at [[Projects|schemas.proj]] to see what the current month's initiatives are as well as whats coming up
 1. Review the [[Weekly|schemas.weekly]] notes to see progress we've made over the past few weeks (you can go all the way back to week 1)
-1. Review [[daily journals|schemas.user#dailyjournal]] to see what a typical day at Dendron is like
-
-#### Get ready to build the future of knowledge management
-1. Your manager should already have setup a hierarchy for you. You can find it by going to `user.{YOUR_ALIAS}`
-1. Go to `user.{YOUR_ALIAS}.onboarding` where you should have a copy of our [[Onboarding checklist|templates.people.onboarding]] to walk you through the rest of the process
+1. Review [[daily journals|schemas.user#dailyjournal]] to see what a typical day at Dendron is like -->

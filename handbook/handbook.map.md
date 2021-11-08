@@ -15,7 +15,6 @@ The following describes how the Dendron org specific workspace is structured. No
 This describes [vaults](https://wiki.dendron.so/notes/6682fca0-65ed-402c-8634-94cd51463cc4.html) used by the Dendron Team
 
 - dendron.blog: powers https://blog.dendron.so/
-- dendron.templates: templates to help get started
 - dendron.dendron-site: https://wiki.dendron.so/
 - dendron.handbook: http://handbook.dendron.so/
 - private: standup and company docs
