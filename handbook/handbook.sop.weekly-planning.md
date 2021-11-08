@@ -2,7 +2,7 @@
 id: clMDTci3e_UFbIevRk7nU
 title: Weekly Planning
 desc: ''
-updated: 1632194701013
+updated: 1636340500001
 created: 1624019624458
 ---
 
@@ -13,7 +13,9 @@ This describes Dendron's weekly planning process. Think of it as sprint retrospe
 ## Process
 
 ### Before
-- @weeklyPlanner: copy the weekly planning lead [^lead] template and go through checklist
+- @weeklyPlanner 
+  - create `weekly.journal.{date}`
+  - create `weekly.journal.2021.11.16.plan` (this will create a note with the planning checklist [^lead])
 - @everyone: copy the weekly planning user [^user] template and go through checklist ^QVIJ3imkWAEo
 
 ### During
