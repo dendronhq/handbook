@@ -2,11 +2,11 @@
 id: 8989a93d-8dde-4a51-bb8d-2aad761c93a1
 title: Mission
 desc: ""
-updated: 1635393747942
+updated: 1636512073961
 created: 1618412194244
 ---
 
-Dendron helps **humans** organize and reference any amount of knowledge.
+Dendron helps **humans** organize, reference, and work with any amount of knowledge.
 
 We are doing this by building the [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) for general knowledge.
 

@@ -2,7 +2,7 @@
 id: 9bacfb70-5777-4fc4-b069-f902f42762b9
 title: Async Meetings
 desc: ''
-updated: 1635731351646
+updated: 1636727719391
 created: 1622383410206
 ---
 
@@ -30,12 +30,8 @@ Use this when you made a small update to the handbook/site/etc and want to do a 
 1. Team members have 1 business day to respond to the thread, either with comments or a 👍 to acknowledge reading
 
 ### Planner
-1. create a google doc
-  - if you have a `@dendron.so` email address, create a gdoc by going to https://docs.google.com 
-    - make sure to give the following people: team@dendron.so, trial@dendron.so
-  - if you do not have a `dendron.so` email address, ping @kevin or @jonathan to create one for you
-    - make sure to give the following people: team@dendron.so, trial@dendron.so
-  - google doc should be created in the team async gdrive [^async]
+1. Open the team google drive [^async]
+  - click the **+ New** button on the top left, select google doc, and select **Create and Share**
   - use the [[meeting template|dendron://dendron.handbook/templates.meet]] as the general outline for the meeting
 1. create a calendar invite with the following:
   - Title: [async] "What you need done"
