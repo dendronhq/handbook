@@ -2,7 +2,7 @@
 id: HXMc8qTz9fjSrZmF
 title: Offboarding Checklist
 desc: ''
-updated: 1632718569360
+updated: 1637113252702
 created: 1627472295773
 ---
 
@@ -15,6 +15,7 @@ created: 1627472295773
   - Next steps on any outstanding tasks 
 
 ## For managers
+- [ ] Run payroll for outstanding pay
 - [ ] Remove access from Github. Check that employee handle is no longer in [Dendron Engineering](https://github.com/orgs/dendronhq/teams/engineering/members)
 - [ ] Remove access from Discord. Check that employee is no longer in Dendron Team 
 - [ ] Schedule an exit interview
