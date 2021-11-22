@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1634532684463
+updated: 1637261803637
 created: 1630621137161
 ---
 
@@ -56,6 +56,22 @@ We act and follow through on things that demonstrates trust. This includes littl
 > Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking. 
 > [Amazon Leadership Principle](https://www.amazon.jobs/en/principles)
 
+### Zero Cost Features
+- Inspired by: [Zero Cost Abstractions](https://doc.rust-lang.org/beta/embedded-book/static-guarantees/zero-cost-abstractions.html)
+- Values
+    * [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
+    * [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
+    * [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
+
+A zero cost feature is [platonic ideal](https://en.wikipedia.org/wiki/Platonic_idealism) of a feature that has zero cost after launch. Zero bugs, zero issues, zero questions on how to best use or integrate, zero maintenance. 
+The best way to approach this principle is as one would a rainbow - as a direction to go vs an end to accomplish.
+
+### Examples
+- make sure user docs are up to date according to [[dendron hierarchy|dendron://dendron.dendron-site/dendron.map]]
+- make sure developer docs is up to date according to [[pkg hierarchy|dendron://dendron.docs/pkg.map]]
+- add a [[product stage tag|dendron://dendron.dendron-site/dendron.ref.stages]] to features to set expectations
+- have tests
+- look over common [[Customer Support|dendron://private/area.community.sop.customer-support]] issues for the feature and find code fixes for persistent issues
 
 
 <!-- 
