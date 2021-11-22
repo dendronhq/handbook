@@ -13,6 +13,9 @@ created: 1619479458479
 ### feedback
 <!-- Any feedback on current performance -->
 
+### past things
+<!-- Go over items from last time  -->
+
 ### current things
 <!-- Go over blockers and current tasks  -->
 
