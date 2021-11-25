@@ -68,7 +68,7 @@ The best way to approach this principle is as one would a rainbow - as a directi
 
 ### Examples
 - make sure user docs are up to date according to [[dendron hierarchy|dendron://dendron.dendron-site/dendron.map]]
-- make sure developer docs is up to date according to [[pkg hierarchy|dendron://dendron.docs/pkg.map]]
+- make sure developer docs is up to date according to [[pkg hierarchy|dendron://dendron.docs/pkg.schema]]
 - add a [[product stage tag|dendron://dendron.dendron-site/dendron.ref.stages]] to features to set expectations
 - have tests
 - look over common [[Customer Support|dendron://private/area.community.sop.customer-support]] issues for the feature and find code fixes for persistent issues

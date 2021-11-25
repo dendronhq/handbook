@@ -26,12 +26,12 @@ This goes over engineering onboarding. For onboarding, review the follow procedu
 
 ## Development Process
 
-- you can find our style guide [[here|dev.style]]
+- you can find our style guide [[here|dev.process.code]]
 - if your working on a feature, rebase from master after every monday release to minimize chances of merge conflicts
 - when testing code, we have a convention of adding "bond" to output values we want to debug - its easy to find in logs but please don't commit as it makes it harder to grep
 
 ## Pull Request
-- see [[Pull Request|dev.pull-request]]
+- see [[Review|dev.process.review]]
 
 ## Getting Help
 
