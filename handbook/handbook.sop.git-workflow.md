@@ -46,9 +46,9 @@ refactor!: drop support for Node 6
 
 ### Pre-Requisites
 
-1. Make sure there's a [[test|dendron.dev.qa#writing-tests]] for the new feature
-1. Make sure all the existing [[tests|dendron.dev.qa#running-all-tests]] pass 
-1. Do a spot check by running your feature with our [[test Workspace|dendron.dev.qa#test-workspace]]
+1. Make sure there's a [[test|dev.qa#writing-tests]] for the new feature
+1. Make sure all the existing [[tests|dev.qa#running-all-tests]] pass 
+1. Do a spot check by running your feature with our [[test Workspace|dev.qa#test-workspace]]
 1. If your change reflects documentation changes, also submit a PR to [dendron-site](https://github.com/dendronhq/dendron-site) and mention the doc PR link in your current PR
 
 

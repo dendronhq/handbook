@@ -19,19 +19,19 @@ This goes over engineering onboarding. For onboarding, review the follow procedu
 - setup the dendron monorepo by following instructions [[here|pkg.plugin-core.quickstart]]
   - if you are working on server side features (you'll be told if that's the case), you should also setup `dendron-backend` by following instructions [[here|pkg.dendron-backend.quickstart]]
 - go over our git workflow [[here|eng.ref.git]]
-- get a sense of how all the subcomponents work by reading the overal [[design|dendron.dev.design]]
+- get a sense of how all the subcomponents work by reading the overal [[design|dev.design]]
 - get started on your task 
   - schedule a [[pairing session|user.kevin.ref.cal]] with [[Kevin|user.kevin]] sometime in your first week
     - the pairing session can be used to go over any blockers or to simply work on your first task with an extra set of eyes to help
 
 ## Development Process
 
-- you can find our style guide [[here|dendron.dev.style]]
+- you can find our style guide [[here|dev.style]]
 - if your working on a feature, rebase from master after every monday release to minimize chances of merge conflicts
 - when testing code, we have a convention of adding "bond" to output values we want to debug - its easy to find in logs but please don't commit as it makes it harder to grep
 
 ## Pull Request
-- see [[Pull Request|dendron.dev.pull-request]]
+- see [[Pull Request|dev.pull-request]]
 
 ## Getting Help
 

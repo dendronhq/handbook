@@ -29,7 +29,7 @@ created: 1625575868274
   <!-- We'll automate this process, right now, not worth doing-->
 - [ ] Ensure current [milestone](https://github.com/dendronhq/dendron/milestones) tasks are in the weekly journal.
   - Tasks should be obtained from people's current goals
-- [ ] Update [[dendron.rfc]] so it's current.
+- [ ] Update [[rfc]] so it's current.
 - [ ] Close out last week's weekly journal [^1]
 - [ ] Remind people to update issue in Github [^2] 
 - [ ] Go over previous and current goals

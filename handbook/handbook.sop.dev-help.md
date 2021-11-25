@@ -21,7 +21,7 @@ Because of this, it is most likely that an existing feature would have it's own 
     - Specific features of Dendron will usually be described in `dendron.topic.*`
     - Project related notes will be under `pro.*`
 1. Adding breakpoints and running the extension to just look into what is going on under the hood is also a good way to get a rough idea of what should be done.
-    - See [[Debugging Tests|dendron.dev.qa.debug]] for more information on how to do this.
+    - See [[Debugging Tests|dev.qa.debug]] for more information on how to do this.
 1. If this is not enough, consider asking for help (see below).
 
 ## Asking for help
