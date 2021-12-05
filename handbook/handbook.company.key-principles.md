@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1637261803637
+updated: 1638383377558
 created: 1630621137161
 ---
 
@@ -22,6 +22,21 @@ A key principle is a building block to one or more values.
     * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
 
 Write it or lose it. Having a single source of truth for everything we do helps us effectively communicate and build up institutional knowledge. This is the foundation that makes an async first, remote workplace culture possible and gives everyone a way to participate in the decision making process.
+
+### Over Communicate
+- Values
+    * [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
+    * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
+    * [[Iterate|dendron://dendron.handbook/handbook.company.values#iterate]]
+
+Things get lost in translation. Especially across timezones and across messaging apps. When in doubt, followup.
+
+### Examples
+- when you send out a PR and haven't received a response within 24h, ping the PR owner in case they've missed it
+- when you are writing documentation for some new process, make sure the rest of the team knows about it by scheduling an async
+- when you get a message, acknowledge reading the message via a response or a 👍
+- when you merge a github branch and have some outstanding comments, also ping the submitter
+
 
 
 <!-- #### No One Offs
