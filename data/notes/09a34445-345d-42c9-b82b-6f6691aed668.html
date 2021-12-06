@@ -1,0 +1,92 @@
+<h1 id="onboarding"><a aria-hidden="true" class="anchor-heading" href="#onboarding"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Onboarding</h1>
+<h2 id="summary"><a aria-hidden="true" class="anchor-heading" href="#summary"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Summary</h2>
+<p>The following describes the onboarding process at Dendron</p>
+<h2 id="process"><a aria-hidden="true" class="anchor-heading" href="#process"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Process</h2>
+<h3 id="prerequisites"><a aria-hidden="true" class="anchor-heading" href="#prerequisites"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Prerequisites</h3>
+<ol>
+<li>Send Kevin your github information</li>
+<li><a href="https://wiki.dendron.so/notes/678c77d9-ef2c-4537-97b5-64556d6337f1.html">Setup Dendron</a> 
+<ul>
+<li>NOTE: we recommend using <a href="https://code.visualstudio.com/insiders/">VSCode Insider</a> as your Dendron Client and regular <a href="https://code.visualstudio.com/">VSCode</a> for development work</li>
+</ul>
+</li>
+<li>Get permission to join the github workspace (you should get a notification on Github when this is ready)</li>
+<li>Go throught the Dendron Tutorial. When you install Dendron for the first time, you will be taken through a tutorial that walks you over the basics. If you missed it, you can bring it up again by bringing up the <a title="Private" style="color: brown" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank">Command Prompt (Private)</a> and typing <code>Dendron: Launch Tutorial</code>
+<ul>
+<li>IMPORTANT: do this before proceeding. </li>
+</ul>
+</li>
+</ol>
+<h3 id="steps"><a aria-hidden="true" class="anchor-heading" href="#steps"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Steps</h3>
+<h4 id="setting-up-your-workspace"><a aria-hidden="true" class="anchor-heading" href="#setting-up-your-workspace"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Setting Up Your Workspace</h4>
+<ol>
+<li>
+<p>Clone the Dendron private workspace </p>
+<pre class="language-sh"><code class="language-sh">git clone git@github.com:dendronhq/org-workspace.git
+</code></pre>
+<ul>
+<li>NOTE: If you are onboarding via our trial, please use the following command </li>
+</ul>
+<pre class="language-sh"><code class="language-sh">git clone ssh://github.com/dendronhq/org-workspace-incubator
+</code></pre>
+</li>
+<li>
+<p>Open up your Dendron workspace</p>
+<ul>
+<li>NOTE: we're using <code>code-insider</code> CLI in this example but this will vary depending on what VSCode client you use</li>
+</ul>
+<pre class="language-sh"><code class="language-sh">cd {workspace}
+code-insider .
+</code></pre>
+</li>
+<li>
+<p>You will see a prompt to <code>Open workspace file</code> on the bottom right corner. Click on the prompt</p>
+</li>
+<li>
+<p>Wait ~30s for your workspace to initialize. Dendron is initializing your workspace and downloading company documents at this point</p>
+</li>
+<li>
+<p>After your workspace is finished initializing, you should have a workspace with the following vaults (your workspace might look different depending if you are full time or still in the trial period)
+</p><p></p><div class="portal-container">
+<div class="portal-head">
+<div class="portal-backlink">
+<div class="portal-title">From <span class="portal-text-title">Map</span></div>
+<a href="/notes/fc057be8-80e7-4a08-bca6-5bd6bc398eea" class="portal-arrow">Go to text <span class="right-arrow">→</span></a>
+</div>
+</div>
+<div id="portal-parent-anchor" class="portal-parent" markdown="1">
+<div class="portal-parent-fader-top"></div>
+<div class="portal-parent-fader-bottom"></div><p>This describes <a href="https://wiki.dendron.so/notes/6682fca0-65ed-402c-8634-94cd51463cc4.html">vaults</a> used by the Dendron Team</p>
+<ul>
+<li>dendron.blog: powers <a href="https://blog.dendron.so/">https://blog.dendron.so/</a></li>
+<li>dendron.dendron-site: <a href="https://wiki.dendron.so/">https://wiki.dendron.so/</a></li>
+<li>dendron.handbook: <a href="http://handbook.dendron.so/">http://handbook.dendron.so/</a></li>
+<li>private: standup and company docs</li>
+<li>dev: developer specific documentation</li>
+</ul>
+</div></div><p></p><p></p>
+</li>
+</ol>
+<h4 id="start-individual-onboarding"><a aria-hidden="true" class="anchor-heading" href="#start-individual-onboarding"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Start individual onboarding</h4>
+<ol>
+<li>Your manager should already have setup a hierarchy for you. You can find it by going to <code>user.{YOUR_ALIAS}</code></li>
+<li>Go to <code>user.{YOUR_ALIAS}.onboarding</code> where you should have a copy of our <a href="/notes/c6b422a5-204a-41dd-8e47-f0b736160790">Onboarding checklist</a> to walk you through the rest of the process</li>
+</ol>
+<!-- #### Go Over Company Values
+1.  Take a moment to read the `handbook.company*` notes. Especially the following sections:
+  - [[Mission|handbook.company.mission]]
+  - [[Values|handbook.company.values]]
+  - [[handbook.company.key-principles]]
+
+#### Get Context on whats been happening
+1. Read up on company [[schemas|handbook.map#schemas]] to understand how to navigate the workspace
+1. Look at [[Projects|schemas.proj]] to see what the current month's initiatives are as well as whats coming up
+1. Review the [[Weekly|schemas.weekly]] notes to see progress we've made over the past few weeks (you can go all the way back to week 1)
+1. Review [[daily journals|schemas.user#dailyjournal]] to see what a typical day at Dendron is like -->
+<hr>
+<h2 id="children"><a aria-hidden="true" class="anchor-heading" href="#children"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Children</h2>
+<ol>
+<li><a href="/notes/9kGlFEwdIcmHovbWvVXPE">Common</a></li>
+<li><a href="/notes/JptsHGSePtugxy5BJV8qu">Content</a></li>
+<li><a href="/notes/c7a2aeaa-f531-4352-a1bc-56504b25a38f">Engineering</a></li>
+</ol>

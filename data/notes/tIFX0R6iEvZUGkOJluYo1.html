@@ -1,0 +1,80 @@
+<h1 id="git-workflow"><a aria-hidden="true" class="anchor-heading" href="#git-workflow"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Git Workflow</h1>
+<h2 id="summary"><a aria-hidden="true" class="anchor-heading" href="#summary"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Summary</h2>
+<p>How we work with code and git</p>
+<h2 id="process"><a aria-hidden="true" class="anchor-heading" href="#process"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Process</h2>
+<p>We employ the <a href="https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow">feature branch workflow</a> when working with git. </p>
+<h3 id="working-on-a-new-feature"><a aria-hidden="true" class="anchor-heading" href="#working-on-a-new-feature"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Working on a new Feature</h3>
+<p>This means that every feature will go into a feature branch during local development and pushed to the origin with the same name. When changes are ready to be reviewed, submit a pull request against <code>master</code>. </p>
+<p>For feature branches, we use the following conventions:</p>
+<ul>
+<li>feat/{feature-name}</li>
+<li>fix/{fix-name}</li>
+</ul>
+<h3 id="commit-style"><a aria-hidden="true" class="anchor-heading" href="#commit-style"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Commit Style</h3>
+<ul>
+<li>we follow <a href="https://www.conventionalcommits.org/en/v1.0.0/">conventional commits</a> with the following tags</li>
+<li>categories:
+<ul>
+<li>feat: feature - introduce new functionality</li>
+<li>enhance: enhancement - improve existing functionality</li>
+<li>fix: make something not broken</li>
+<li>chore: backend improvements</li>
+<li>spike: not complete commit</li>
+</ul>
+</li>
+</ul>
+<p>If you are introducing a breaking change, either add an <code>!</code> after the category or a footer at the end of your message</p>
+<pre><code>feat: allow provided config object to extend other configs
+
+BREAKING CHANGE: `extends` key in config file is now used for extending other config files
+</code></pre>
+<blockquote>
+<p>Example from <a href="https://www.conventionalcommits.org/en/v1.0.0/">Conventional Commits</a> licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></p>
+</blockquote>
+<pre><code>refactor!: drop support for Node 6
+</code></pre>
+<blockquote>
+<p>Example from <a href="https://www.conventionalcommits.org/en/v1.0.0/">Conventional Commits</a> licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></p>
+</blockquote>
+<h3 id="pre-requisites"><a aria-hidden="true" class="anchor-heading" href="#pre-requisites"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Pre-Requisites</h3>
+<ol>
+<li>Make sure there's a <a title="Private" style="color: brown" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank">test (Private)</a> for the new feature</li>
+<li>Make sure all the existing <a title="Private" style="color: brown" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank">tests (Private)</a> pass </li>
+<li>Do a spot check by running your feature with our <a title="Private" style="color: brown" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank">test Workspace (Private)</a></li>
+<li>If your change reflects documentation changes, also submit a PR to <a href="https://github.com/dendronhq/dendron-site">dendron-site</a> and mention the doc PR link in your current PR</li>
+</ol>
+<h3 id="creating-a-pull-request"><a aria-hidden="true" class="anchor-heading" href="#creating-a-pull-request"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Creating a pull request</h3>
+<p>Because we do weekly releases, we like to do a weekly cadence for pull requests as well. Pull requests for next week's release should be in EOD Thursday (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20210625T115900&#x26;p1=tz_aoe&#x26;p2=234&#x26;p3=64&#x26;p4=805&#x26;p5=102">your timezone</a>).</p>
+<p>The naming convention for a pull request is similar to that of a commit and takes the format <code>{category}: {description}</code></p>
+<pre><code>feat: Dendron can now pass the Turing test
+</code></pre>
+<p>If your feature is not yet ready, you are encouraged to submit a pull request but mark it as a draft. This lets others comment on the design. If you're part of the core team, this is the standard practice for weekly deliverables.</p>
+<p>If its your first pull request to Dendron, watch out for the <a href="https://en.wikipedia.org/wiki/Contributor_License_Agreement">CLA</a> bot that will ask you to agree to Dendron's CLA</p>
+<p>If its your first pull request and you're on our Discord, make sure that Kevin gives you the <a title="Private" style="color: brown" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank">horticulturalist (Private)</a> role  👨‍🌾👩‍🌾</p>
+<p>After you submit your pull request, check the output of our <a href="https://github.com/dendronhq/dendron/actions">integration test</a> and make sure all tests pass</p>
+<p>Optionally, ping <code>@Dendron Team</code> in the <code>#dev</code> channel of our <a href="https://discord.gg/AE3NRw9">discord</a> - we usually respond to PRs within 24h</p>
+<h3 id="merging-changes"><a aria-hidden="true" class="anchor-heading" href="#merging-changes"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Merging Changes</h3>
+<p>Once your feature request has been approved, it will most likely be merged by the person that is reviewing your code. We do a release every Monday which is also when you should expect your feature to be shipped. We also do an early seed release Thursdays/Fridays. If your changes are in before then, they can also be shipped along side the early seed</p>
+<h2 id="checklist"><a aria-hidden="true" class="anchor-heading" href="#checklist"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Checklist</h2>
+<ul>
+<li>Pre-Requisites
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> create a new branch according to our branching convention</li>
+<li class="task-list-item"><input type="checkbox" disabled> implement feature/fix</li>
+<li class="task-list-item"><input type="checkbox" disabled> write test</li>
+<li class="task-list-item"><input type="checkbox" disabled> check existing tests pass</li>
+<li class="task-list-item"><input type="checkbox" disabled> submit documentation pr if relevant</li>
+</ul>
+</li>
+<li>Creating a pull request (first time)
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> sign the CLA</li>
+<li class="task-list-item"><input type="checkbox" disabled> ping Kevin about the <code>horticulturalist</code> role</li>
+</ul>
+</li>
+<li>Creating a pull request 
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> make sure integration tests pass</li>
+</ul>
+</li>
+</ul>
