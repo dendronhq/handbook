@@ -2,16 +2,15 @@
 id: xgIjSQJcQyGArCDKKH9an
 title: Weekly Planning Lead Checklist
 desc: ''
-updated: 1635950421546
+updated: 1638889174303
 created: 1625575868274
 ---
 
 ## Checklist
 
 ### Before Meeting
-- By Sunday
+- Before Monday
   - [ ] Create next weekly journal using `weekly.journal.{date}` 
-    - [ ] replace `dd` with the month and date of the current week `eg: s/dd/11.02/g`
   - [ ] Close previous week's milestones in Github
   - [ ] [[Update Next Week Milestones|handbook.sop.weekly-planning#update-next-week-milestones]]
   - [ ] Announce results of last week triage
@@ -19,8 +18,8 @@ created: 1625575868274
   - [ ] Announcement weekly planning (create a new thread in `#dendron-team` titled `weekly-planning {date}`) using the following [[template|templates.weekly-planning.team]]
       - NOTE: date should be the for the following tuesday (eg. on 2021-10-31, date should be 2021-11-09)
       - NOTE: thread should be set as 3 days to auto archive
-  - [ ] look at [[tags.sprint.next]] and assign
-  - [ ] [[Update CROP|handbook.sop.weekly-planning#update-crop]]
+  - [ ] look at `tags.sprint.next` <!-- [[tags.sprint.next]] --> and assign
+  - [ ] [[Update CROP|handbook.sop.weekly-planning#update-crop]] (every other week)
 
 - By Monday
   - [ ] Assign this week's [[dendron.sop.crop-community-issue]]
@@ -35,6 +34,7 @@ created: 1625575868274
 - [ ] Close out last week's weekly journal [^1]
 - [ ] Remind people to update issue in Github [^2] 
 - [ ] Go over previous and current goals
+- [ ] Upload video via [[Weekly Planning Recording|dendron://private/area.team.sop.weekly-planning-recording]]
 
 ### One Day After Meeting
 - [ ] Move notes from gdoc to `meet.planning.{year}.{MM}.{{dd}`
