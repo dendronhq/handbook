@@ -2,7 +2,7 @@
 id: lyRSH3RMAp9OdSBF
 title: Weekly Planning User Checklist
 desc: ''
-updated: 1638923850457
+updated: 1639559176987
 created: 1626553474909
 ---
 
@@ -17,5 +17,5 @@ created: 1626553474909
 - [ ] if needed, update this weeks weekly journal based on any new action items assigned during the meeting
 - [ ] Close out any issues in the previous [[milestone|dendron://private/s.github.ref#^OePlLclEErPl]]
   - for any features with open issues, communicate that the feature is shipped
-    - `this should be fixed in v{VERSION_NUM} of Dendron. please post here if not, otherwise this issue will auto close in 4 days`
+    - `This should be fixed in v{VERSION_NUM} of Dendron. please post here if not, otherwise this issue will auto close in 4 days.`
     - add a `info-needed` tag to the issue which will auto-close the issue if there are no further comments
