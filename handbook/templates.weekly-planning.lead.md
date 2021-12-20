@@ -2,7 +2,7 @@
 id: xgIjSQJcQyGArCDKKH9an
 title: Weekly Planning Lead Checklist
 desc: ''
-updated: 1639506960341
+updated: 1639957732500
 created: 1625575868274
 ---
 
@@ -11,13 +11,16 @@ created: 1625575868274
 ### Before Meeting
 
 - On Sunday
+  - [ ] Create next weekly journal using `weekly.journal.{date}` 
+  - [ ] Prep announcements
+  - [ ] Prep discussion points
+  - [ ] Prep wins/lessons
   - [ ] Announce results of last week triage
     - [ ] go through issues in [[Triage|templates.weekly-planning.gdoc#triage]] where items will end in one of the following places:
         - [[backlog issue|dendron.tasks.backlog]]
         - [[crop issue|dendron://private/dendron.tasks.crop#next]]
         - assign it to a team member for this current sprint
         - assign it as an upcoming [[project|dendron://private/proj#next]]
-  - [ ] Create next weekly journal using `weekly.journal.{date}` 
   - [ ] Close previous week's milestones in Github
   - [ ] [[Update Next Week Milestones|handbook.sop.weekly-planning#update-next-week-milestones]]
   - [ ] Finish [[individual weekly planning|templates.weekly-planning.user]]
