@@ -2,9 +2,13 @@
 id: xgIjSQJcQyGArCDKKH9an
 title: Weekly Planning Lead Checklist
 desc: ''
-updated: 1639957732500
+updated: 1639963020269
 created: 1625575868274
 ---
+
+## Announcement
+
+![[Before|dendron://private/templates.weekly-planning.team#before]]
 
 ## Checklist
 
@@ -15,6 +19,9 @@ created: 1625575868274
   - [ ] Prep announcements
   - [ ] Prep discussion points
   - [ ] Prep wins/lessons
+  - [ ] Announcement weekly planning (create a new thread in `#dendron-team` titled `weekly-planning {date}`) using the following [[template|templates.weekly-planning.team]]
+      - NOTE: date should be the for the following tuesday (eg. on 2021-10-31, date should be 2021-11-09)
+
   - [ ] Announce results of last week triage
     - [ ] go through issues in [[Triage|templates.weekly-planning.gdoc#triage]] where items will end in one of the following places:
         - [[backlog issue|dendron.tasks.backlog]]
@@ -24,9 +31,6 @@ created: 1625575868274
   - [ ] Close previous week's milestones in Github
   - [ ] [[Update Next Week Milestones|handbook.sop.weekly-planning#update-next-week-milestones]]
   - [ ] Finish [[individual weekly planning|templates.weekly-planning.user]]
-  - [ ] Announcement weekly planning (create a new thread in `#dendron-team` titled `weekly-planning {date}`) using the following [[template|templates.weekly-planning.team]]
-      - NOTE: date should be the for the following tuesday (eg. on 2021-10-31, date should be 2021-11-09)
-      - NOTE: thread should be set as 3 days to auto archive
   - [ ] look at `tags.sprint.next` <!-- [[tags.sprint.next]] --> and assign
   - [ ] [[Update CROP|handbook.sop.weekly-planning#update-crop]] (every other week)
 
