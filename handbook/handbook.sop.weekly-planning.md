@@ -36,7 +36,7 @@ This describes Dendron's weekly planning process. Think of it as sprint retrospe
 1. Assign owners to these tasks
 
 ### Update This Week Triage
-1. For all issues from oncall that are on triage, add it to the [[Triage|templates.weekly-planning.gdoc#triage]] section of weekly planning
+1. For all issues from oncall that are on triage, add it to the [[Team Crop|templates.weekly-planning.gdoc#team-crop]] section of weekly planning
 
 ### Update CROP
 - See [[Crop Community Issue|dendron://private/dendron.sop.crop-community-issue]]

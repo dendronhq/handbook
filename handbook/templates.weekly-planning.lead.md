@@ -23,7 +23,7 @@ created: 1625575868274
       - NOTE: date should be the for the following tuesday (eg. on 2021-10-31, date should be 2021-11-09)
 
   - [ ] Announce results of last week triage
-    - [ ] go through issues in [[Triage|templates.weekly-planning.gdoc#triage]] where items will end in one of the following places:
+    - [ ] go through issues in [[Team Crop|templates.weekly-planning.gdoc#team-crop]] where items will end in one of the following places:
         - [[backlog issue|dendron.tasks.backlog]]
         - [[crop issue|dendron://private/dendron.tasks.crop#next]]
         - assign it to a team member for this current sprint
