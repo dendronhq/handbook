@@ -2,7 +2,7 @@
 id: lyRSH3RMAp9OdSBF
 title: Weekly Planning User Checklist
 desc: ''
-updated: 1640584357290
+updated: 1640584678842
 created: 1626553474909
 ---
 
@@ -12,6 +12,7 @@ created: 1626553474909
 - [ ] Close out your [[weekly Journal|handbook.sop.weekly-journal]] from last week
 - [ ] update [meet gdoc](https://docs.google.com/document/d/1GEZfMMHLmz5AIvGoZrjM24TL7r_XjlmuerjEa2L9Pmo/edit#) 
   - see details of update sections [[here|templates.weekly-planning.gdoc]]
+- [ ] make sure task in [[sprint active|dendron://private/s.airtable.ref.tasks#^u56XOun5P9xg]] have up to date status fields
 - [ ] update the [[Team Crop|templates.weekly-planning.gdoc#team-crop]] with items from your [[Next|dendron://dendron.handbook/templates.weekly-journal#next]]
 - [ ] leave comments on any existing `# Announcements` and `# Discussion` items
 
