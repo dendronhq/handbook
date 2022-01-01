@@ -2,7 +2,7 @@
 id: sc2PcYvs0Y5Pz7BpmHMmk
 title: Design Principles
 desc: ''
-updated: 1639962298275
+updated: 1640972562890
 created: 1639445515947
 ---
 
