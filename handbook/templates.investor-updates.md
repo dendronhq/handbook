@@ -2,7 +2,7 @@
 id: 5d435a43-ca9c-4c26-a156-d9ccc56ab698
 title: Investor Updates Template
 desc: ''
-updated: 1630445064138
+updated: 1641264897043
 created: 1618029533953
 ---
 
@@ -19,10 +19,9 @@ You're getting this email as part of Dendron's investor update. These updates wi
 
 ## Financials
 <!-- Burn rate and other figures-->
-Monthly Burn: 
-Average burn: 
+- Monthly Burn: 
+- Average burn: 
 
-For projections and a detailed breakdown of projected expenses extending through the rest of the year, please see our [finmark dashboard](https://app.finmark.com/dashboard).
 
 ## Lowlights
 <!-- What didn't go well -->
@@ -40,4 +39,5 @@ For projections and a detailed breakdown of projected expenses extending through
 And that's a wrap. Feel free to reply to this email if you have any questions or follow-ups. 
 
 Bests,
+
 Kevin
