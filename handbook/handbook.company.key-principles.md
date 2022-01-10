@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1638383377558
+updated: 1641838705862
 created: 1630621137161
 ---
 
@@ -36,6 +36,22 @@ Things get lost in translation. Especially across timezones and across messaging
 - when you are writing documentation for some new process, make sure the rest of the team knows about it by scheduling an async
 - when you get a message, acknowledge reading the message via a response or a 👍
 - when you merge a github branch and have some outstanding comments, also ping the submitter
+
+
+### Earn Trust
+
+- Values
+    * [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
+    * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
+    * [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
+
+> Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best.
+> 
+> [Amazon Leadership Principle](https://www.amazon.jobs/en/principles)
+
+Adding on to this, earning trust means showing up on time and following through on promises that we make
+
+
 
 
 
