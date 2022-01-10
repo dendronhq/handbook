@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ''
-updated: 1634527682390
+updated: 1641838566611
 created: 1617987789017
 ---
 
@@ -46,6 +46,8 @@ That means shipping the feature isn't enough - our users need to be able to adap
 Dendron wouldn't exist without our strong community. Our north star is meaningfully improving the lives of everyone who uses Dendron. 
 
 This means listening closely to what our users have to say, making sure eveyrone can have a voice, and making decisions based on whether it will be beneficial for our users.
+
+When defining community, this means **both** our direct users as well as people on the Dendron team. 
 
 ## Pass it Forward
 
