@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1641838705862
+updated: 1642038886940
 created: 1630621137161
 ---
 
@@ -104,13 +104,3 @@ The best way to approach this principle is as one would a rainbow - as a directi
 - have tests
 - look over common [[Customer Support|dendron://private/area.community.sop.customer-support]] issues for the feature and find code fixes for persistent issues
 
-
-<!-- 
-* [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
-* [[80/20|dendron://dendron.handbook/handbook.company.values#8020]]
-* [[Iterate|dendron://dendron.handbook/handbook.company.values#iterate]]
-* [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
-* [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
-* [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
-* [[Keep no False Idols|dendron://dendron.handbook/handbook.company.values#keep-no-false-idols]] 
--->
