@@ -2,7 +2,7 @@
 id: c7a2aeaa-f531-4352-a1bc-56504b25a38f
 title: Engineering
 desc: ''
-updated: 1636392636232
+updated: 1642133151870
 created: 1622499448820
 ---
 ## Summary
@@ -17,9 +17,8 @@ This goes over engineering onboarding. For onboarding, review the follow procedu
 
 - you should have already been assigned an initial first task when you joined the company 
 - setup the dendron monorepo by following instructions [[here|pkg.plugin-core.quickstart]]
-  - if you are working on server side features (you'll be told if that's the case), you should also setup `dendron-backend` by following instructions [[here|pkg.dendron-backend.quickstart]]
-- go over our git workflow [[here|eng.ref.git]]
-- get a sense of how all the subcomponents work by reading the overal [[design|dev.design]]
+- go over our git workflow in [[starting work|dendron://dendron.docs/dev.process.review#starting-work]]
+- get a sense of how all the subcomponents work by reading the overal [[architecture|dendron://dendron.docs/dev.arch]]
 - get started on your task 
   - schedule a [[pairing session|user.kevin.ref.cal]] with [[Kevin|user.kevin]] sometime in your first week
     - the pairing session can be used to go over any blockers or to simply work on your first task with an extra set of eyes to help

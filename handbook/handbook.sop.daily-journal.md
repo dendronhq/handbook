@@ -2,13 +2,12 @@
 id: f143773d-3f97-4dbd-8518-603fbb3b0288
 title: Daily Journal
 desc: ''
-updated: 1633714008782
+updated: 1642132194704
 created: 1623165719449
 ---
 
 
 ## Summary
-<!-- What is this SOP about -->
 
 Daily journals are how we do standup. Instead of doing a synchronous daily meeting, we communicate via asynchronous journal notes.
 
