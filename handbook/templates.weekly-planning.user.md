@@ -2,14 +2,13 @@
 id: lyRSH3RMAp9OdSBF
 title: Weekly Planning User Checklist
 desc: ''
-updated: 1640584678842
+updated: 1641789123928
 created: 1626553474909
 ---
 
 ## Before Meeting
 <!-- This should happen at least 12h before the meeting-->
 - [ ] Create your [[weekly Journal|handbook.sop.weekly-journal]] for this week
-- [ ] Close out your [[weekly Journal|handbook.sop.weekly-journal]] from last week
 - [ ] update [meet gdoc](https://docs.google.com/document/d/1GEZfMMHLmz5AIvGoZrjM24TL7r_XjlmuerjEa2L9Pmo/edit#) 
   - see details of update sections [[here|templates.weekly-planning.gdoc]]
 - [ ] make sure task in [[sprint active|dendron://private/s.airtable.ref.tasks.tasks#^u56XOun5P9xg]] have up to date status fields
@@ -25,6 +24,7 @@ created: 1626553474909
 ## After Release
 <!-- This should happen shortly after the weekly meeting -->
 
+- [ ] Close out your [[weekly Journal|handbook.sop.weekly-journal]] from last week
 - [ ] Close out any issues in the previous [[milestone|dendron://private/s.github.ref#^OePlLclEErPl]]
   - for any features with open issues, communicate that the feature is shipped
     - `This should be fixed in v{VERSION_NUM} of Dendron. please post here if not, otherwise this issue will auto close in 4 days.`
