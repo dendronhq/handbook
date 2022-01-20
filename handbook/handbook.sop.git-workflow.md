@@ -10,7 +10,7 @@ created: 1624215795020
 
 How we work with code and git
 
-## Process
+## Steps
 
 We employ the [feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) when working with git. 
 

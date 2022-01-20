@@ -13,7 +13,7 @@ How we deal with pull requests
 ## Prerequisites
 <!-- Optional, anything that needs to be done ahead of time-->
 
-## Process
+## Steps
 
 ### Submitting a pull request
 - See [pull request checklist](https://wiki.dendron.so/notes/1EoNIXzgmhgagqcAo9nDn.html)

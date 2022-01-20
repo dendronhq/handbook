@@ -11,7 +11,7 @@ nav_order: 3
 
 The following describes the onboarding process at Dendron
 
-## Process
+## Steps
 
 ### Prerequisites
 1. Send Kevin your github information

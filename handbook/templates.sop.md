@@ -12,7 +12,7 @@ created: 1624213396739
 ## Prerequisites
 <!-- Optional, anything that needs to be done ahead of time-->
 
-## Process
+## Steps
 <!-- Step by step process on how to carry out the SOP -->
 
 ## Examples

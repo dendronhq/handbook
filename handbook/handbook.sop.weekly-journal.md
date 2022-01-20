@@ -15,7 +15,7 @@ Weekly journals should be under `user.{name}.weekly.*`
 ## Prerequisites
 <!-- Optional, anything that needs to be done ahead of time-->
 
-## Process
+## Steps
 1. Every monday, create a new weekly journal entry `user.{name}.weekly.{date}`
     - for Dendron, we start the week on Tuesday so have your `date` be the tuesday of the following week
     - eg. for user `bob` starting the process on `2021-09-06`, the next week entry would be `user.bob.journal.2021.09.14`, 

@@ -10,7 +10,7 @@ created: 1624019624458
 
 This describes Dendron's weekly planning process. Think of it as sprint retrospectives, Dendron style.
 
-## Process
+## Steps
 
 ### Before
 - @weeklyPlanner 

@@ -11,7 +11,7 @@ created: 1623165719449
 
 Daily journals are how we do standup. Instead of doing a synchronous daily meeting, we communicate via asynchronous journal notes.
 
-## Process
+## Steps
 1. At the end of the workday, create a daily journal note for the next day `user.{username}.journal.{date}` using the standup [^standup] template
     - at this time, also close of and update all tasks that you have worked on for the current day
     - NOTE: for the weekend, make sure that the journal note for Monday is ready on Friday

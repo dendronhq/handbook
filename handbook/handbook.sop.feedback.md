@@ -13,7 +13,7 @@ How we give feedback at Dendron
 ## Prerequisites
 1. Have access to the `admin` vault 
 
-## Process
+## Steps
 1. For each direct report, create `[[user.{{name}}.{{feedback}}]]` note inside the `admin` vault 
   - use this space to make notes for direct reports, noting areas of strength and areas for focus
 1. When writing feedback
