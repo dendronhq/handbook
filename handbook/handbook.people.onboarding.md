@@ -2,7 +2,7 @@
 id: 09a34445-345d-42c9-b82b-6f6691aed668
 title: Onboarding
 desc: ''
-updated: 1642526371318
+updated: 1642647471070
 created: 1618789330639
 nav_order: 3
 ---
@@ -11,9 +11,7 @@ nav_order: 3
 
 The following describes the onboarding process at Dendron
 
-## Steps
-
-### Prerequisites
+## Prerequisites
 1. Send Kevin your github information
 1. [Setup Dendron](https://wiki.dendron.so/notes/678c77d9-ef2c-4537-97b5-64556d6337f1.html) 
     - NOTE: we recommend using [VSCode Insider](https://code.visualstudio.com/insiders/) as your Dendron Client and regular [VSCode](https://code.visualstudio.com/) for development work
@@ -21,7 +19,7 @@ The following describes the onboarding process at Dendron
 1. Go throught the Dendron Tutorial. When you install Dendron for the first time, you will be taken through a tutorial that walks you over the basics. If you missed it, you can bring it up again by bringing up the [[Command Prompt|dendron://dendron.dendron-site/dendron._ref.command-prompt]] and typing `Dendron: Launch Tutorial`
     - IMPORTANT: do this before proceeding. 
 
-### Steps
+## Steps
 
 #### Setting Up Your Workspace 
 1. Clone the Dendron private workspace 
