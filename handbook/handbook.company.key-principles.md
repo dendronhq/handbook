@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1642038886940
+updated: 1643045736418
 created: 1630621137161
 ---
 
@@ -31,7 +31,7 @@ Write it or lose it. Having a single source of truth for everything we do helps 
 
 Things get lost in translation. Especially across timezones and across messaging apps. When in doubt, followup.
 
-### Examples
+#### Examples
 - when you send out a PR and haven't received a response within 24h, ping the PR owner in case they've missed it
 - when you are writing documentation for some new process, make sure the rest of the team knows about it by scheduling an async
 - when you get a message, acknowledge reading the message via a response or a 👍
@@ -97,7 +97,7 @@ We act and follow through on things that demonstrates trust. This includes littl
 A zero cost feature is [platonic ideal](https://en.wikipedia.org/wiki/Platonic_idealism) of a feature that has zero cost after launch. Zero bugs, zero issues, zero questions on how to best use or integrate, zero maintenance. 
 The best way to approach this principle is as one would a rainbow - as a direction to go vs an end to accomplish.
 
-### Examples
+#### Examples
 - make sure user docs are up to date according to [[dendron hierarchy|dendron://dendron.dendron-site/dendron.schema]]
 - make sure developer docs is up to date according to [[pkg hierarchy|dendron://dendron.docs/pkg.schema]]
 - add a [[product stage tag|dendron://dendron.dendron-site/dendron.ref.stages]] to features to set expectations
