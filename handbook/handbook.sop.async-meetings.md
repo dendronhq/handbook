@@ -16,7 +16,6 @@ The purpose of these should be to encourage discussion, brainstorming, or decisi
 
 Examples of good use cases - going over a design doc, discussing product strategy, etc.
 
-
 ## Steps
 
 ### Mini Async
