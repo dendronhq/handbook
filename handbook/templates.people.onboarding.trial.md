@@ -2,7 +2,7 @@
 id: 7MoymynVpgmyPmIj0fHux
 title: Welcome to Dendron!
 desc: ''
-updated: 1642132831512
+updated: 1643584940016
 created: 1642131980408
 ---
 
@@ -22,5 +22,7 @@ The following are some concepts and processes that you'll want to know to be suc
 ![[dendron://dendron.handbook/templates.people.onboarding.common#values,1]]
 
 ## Initial Tasks
+- [ ] Create and add your own [[user readme|templates.user-readme]]. This goes in `user.{{ALIAS}}` 
+   - NOTE: this may take some time to create so please feel free to iterate on it over the course of the week
 
 ![[dendron://dendron.handbook/handbook.people.onboarding.engineering]]
