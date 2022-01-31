@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1643045736418
+updated: 1643646803289
 created: 1630621137161
 ---
 
@@ -22,6 +22,20 @@ A key principle is a building block to one or more values.
     * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
 
 Write it or lose it. Having a single source of truth for everything we do helps us effectively communicate and build up institutional knowledge. This is the foundation that makes an async first, remote workplace culture possible and gives everyone a way to participate in the decision making process.
+
+### Lookup
+- Values:
+    * [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
+    * [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
+    * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
+    * [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
+
+Information isn't useful if it can't be found when its needed. **Lookup** focuses on making sure that humans can find - both for the individual that authored the information as well as other people (usually the wider [[Dendron Community|dendron://dendron.handbook/handbook.concepts#dendron-community]]) that might make use of it. 
+
+#### Examples
+- all documentation todo with the [[Development Process|dendron://dendron.docs/dev.process]] is consolidated in one place
+- we have [RFC proposals](https://wiki.dendron.so/notes/ONVyX9yIBTHO5BjZwJ56I.html) that are codified with schemas and templates of how and where to document different details 
+- we use [[Async Meetings|dendron://dendron.handbook/handbook.sop.async-meetings]] to [[Over Communicate|dendron://dendron.handbook/handbook.company.key-principles#over-communicate]] about changes in our structure
 
 ### Over Communicate
 - Values

@@ -2,16 +2,20 @@
 id: BMRfppP5dBMBl9v7IOyf4
 title: Concepts
 desc: ''
-updated: 1635831886673
+updated: 1643646745124
 created: 1630624424196
 ---
 
-## Lookup
+### Dendron Community
+
+The Dendron community consists of both the humans that use Dendron and the team members working on it.
+
+### Lookup
 
 The process of building on knowledge that already exists.
 
 
-## Recovery Phase
+### Recovery Phase
 
 Recovery phase is a time for the Dendron team to catchup and prepare. 
 During the recovery phase, we will avoid working on new features but focus on improving existing features. 
