@@ -17,7 +17,7 @@ How we create new tasks
 1. Create a new task note in the form `task.{date}.{name}`
     - TIP: an easier way to create tasks is to write it as a bullet, highlight, and then create the task note. See [video](https://www.loom.com/share/75b87c1fd7e746b585ad9fb2e1445c4d?from_recorder=1&focus_title=1)
     - You can see all valid scopes here -> #scope
-1. Tasks notes will be created with the following template -> [[template|dendron://private/task.temp]]
+1. Tasks notes will be created with the following template -> [[template|dendron://dendron.handbook/task.temp]]
     - mandatory fields:
         - `scope`: values in #scope
         - `creator`: your username
