@@ -2,7 +2,7 @@
 id: xgIjSQJcQyGArCDKKH9an
 title: Weekly Planning Lead Checklist
 desc: ''
-updated: 1639963020269
+updated: 1643817838509
 created: 1625575868274
 ---
 
@@ -22,20 +22,9 @@ created: 1625575868274
   - [ ] Announcement weekly planning (create a new thread in `#dendron-team` titled `weekly-planning {date}`) using the following [[template|templates.weekly-planning.team]]
       - NOTE: date should be the for the following tuesday (eg. on 2021-10-31, date should be 2021-11-09)
 
-  - [ ] Announce results of last week triage
-    - [ ] go through issues in [[Team Crop|templates.weekly-planning.gdoc#team-crop]] where items will end in one of the following places:
-        - [[backlog issue|dendron.tasks.backlog]]
-        - [[crop issue|dendron://private/dendron.tasks.crop#next]]
-        - assign it to a team member for this current sprint
-        - assign it as an upcoming [[project|dendron://private/proj#next]]
-  - [ ] Close previous week's milestones in Github
-  - [ ] [[Update Next Week Milestones|handbook.sop.weekly-planning#update-next-week-milestones]]
   - [ ] Finish [[individual weekly planning|templates.weekly-planning.user]]
-  - [ ] look at `tags.sprint.next` <!-- [[tags.sprint.next]] --> and assign
-  - [ ] [[Update CROP|handbook.sop.weekly-planning#update-crop]] (every other week)
 
 - By Monday
-  - [ ] Announce CROP winner (every other week)
   - [ ] Assign this week's [[dendron.sop.crop-community-issue]] (every other week)
 
 ### During Meeting
@@ -44,16 +33,11 @@ created: 1625575868274
 
 
 ### After Meeting
-<!-- 
-Aspirational, we don't do this right now
-- [ ] Ensure current [milestone](https://github.com/dendronhq/dendron/milestones) tasks are in the weekly journal
-- [ ] Update [[rfc]] so it's current.
--->
+
 - [ ] Close out last week's weekly journal [^1]
 - [ ] Remind people to update issue in Github [^2] 
 - [ ] Go over previous and current goals 
 - [ ] Upload video via [[Weekly Planning Recording|dendron://private/area.team.sop.weekly-planning-recording]]
-
 ##
 
 [^1]: [[Weekly Journal|weekly.temp.team-journal]] 
