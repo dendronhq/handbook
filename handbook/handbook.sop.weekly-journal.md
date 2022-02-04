@@ -2,12 +2,11 @@
 id: CNP6_cMc1K8EtOEFi-e0P
 title: Weekly Journal
 desc: ''
-updated: 1643583892426
+updated: 1643995669429
 created: 1623631213317
 ---
 
 ## Summary
-<!-- What is this SOP about -->
 The weekly journal is how we track tasks and priorities for individuals. It is also a good place to store tasks that are currently blocked or in the future.
 
 Weekly journals are recorded in `user.{name}.weekly.*`
