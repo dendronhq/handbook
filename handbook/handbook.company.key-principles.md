@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1643646803289
+updated: 1644441766243
 created: 1630621137161
 ---
 
@@ -34,7 +34,7 @@ Information isn't useful if it can't be found when its needed. **Lookup** focuse
 
 #### Examples
 - all documentation todo with the [[Development Process|dendron://dendron.docs/dev.process]] is consolidated in one place
-- we have [RFC proposals](https://wiki.dendron.so/notes/ONVyX9yIBTHO5BjZwJ56I.html) that are codified with schemas and templates of how and where to document different details 
+- we have [RFC proposals](https://docs.dendron.so/notes/ONVyX9yIBTHO5BjZwJ56I.html) that are codified with schemas and templates of how and where to document different details 
 - we use [[Async Meetings|dendron://dendron.handbook/handbook.sop.async-meetings]] to [[Over Communicate|dendron://dendron.handbook/handbook.company.key-principles#over-communicate]] about changes in our structure
 
 ### Over Communicate
