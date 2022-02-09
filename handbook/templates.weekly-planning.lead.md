@@ -2,7 +2,7 @@
 id: xgIjSQJcQyGArCDKKH9an
 title: Weekly Planning Lead Checklist
 desc: ''
-updated: 1643817838509
+updated: 1644358039223
 created: 1625575868274
 ---
 
@@ -35,7 +35,6 @@ created: 1625575868274
 ### After Meeting
 
 - [ ] Close out last week's weekly journal [^1]
-- [ ] Remind people to update issue in Github [^2] 
 - [ ] Go over previous and current goals 
 - [ ] Upload video via [[Weekly Planning Recording|dendron://private/area.team.sop.weekly-planning-recording]]
 ##

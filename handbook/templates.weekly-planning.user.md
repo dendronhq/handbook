@@ -11,7 +11,7 @@ created: 1626553474909
 - [ ] Create your [[weekly Journal|handbook.sop.weekly-journal]] for this week
 - [ ] update [meet gdoc](https://docs.google.com/document/d/1GEZfMMHLmz5AIvGoZrjM24TL7r_XjlmuerjEa2L9Pmo/edit#) 
   - see details of update sections [[here|templates.weekly-planning.gdoc]]
-- [ ] make sure task in [[sprint active|dendron://private/s.airtable.ref.tasks.tasks#^u56XOun5P9xg]] have up to date status fields
+- [ ] make sure task in [[sprint active|dendron://private/s.airtable.ref.base.tasks.tasks.views#^u56XOun5P9xg]] have up to date status fields
 - [ ] leave comments on any existing `# Announcements` and `# Discussion` items
   - NOTE: discussion items are updated [[by 9PM UTC on Mondays|dendron://dendron.handbook/area.team.ref.schedules.weekly-planning#^zLQGvisP3r8v]]
 
