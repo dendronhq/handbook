@@ -2,12 +2,13 @@
 id: Rdo1OcupIPYGNmS0NvMRR
 title: Pruning and Repotting
 desc: ''
-updated: 1644528955826
+updated: 1644532023431
 created: 1644528948663
 ---
 
 
-![](https://cdn.loom.com/images/originals/7fbce403b8c94698aa6a8de69cd080fe.jpg?Expires=1624342543&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vaW1hZ2VzL29yaWdpbmFscy83ZmJjZTQwM2I4Yzk0Njk4YWE2YThkZTY5Y2QwODBmZS5qcGciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MjQzNDI1NDN9fX1dfQ__&Signature=pA9YOhNU9Q~0SAmj-Zp-VwvmHBZyWknvMVMVxmsOBcP9-Ke3dRbHF0hpyRn4WQW6JIb~WpbH8GGVZm2ZijtNzaud-XplkEzZrlM4UQKJfdUTw0J5s0cZ5JB50hBiXcaAejbTFaLuRZZY5~ctGk6O3NWbD77tmM-ldQLwvEMFRTA~4O9MPePC2vfRFG~uXqSJq4FKaUMJ9qgF64b7-yaH9R9rk2pcvx9NuS22fSXEl6nhpa9J3Tx-4qxgJCoYGeQrHLCTnvJQLl3szDw7cS3ri4vS3NNawcy5wbEfGDdabcOU5Gi8ZSrc7zhbvugTM7j7di6dgsRAbZKK-J-gC25cKA__&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ)
+![Plants being pruned and repotted](https://org-dendron-public-assets.s3.amazonaws.com/images/pruning-and-repotting.jpg)
+
 > :camera_flash: Photo by [Severin Candrian](https://unsplash.com/@feeypflanzen) on [Unsplash](https://unsplash.com/)
 
 > :bulb: _**Pruning**_ is a horticultural, arboricultural and silvicultural practice involving the selective removal of certain parts of a plant, such as branches, buds, or roots. 
