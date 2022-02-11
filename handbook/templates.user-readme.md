@@ -19,9 +19,12 @@ Everything else is optional.  You can remove those you aren't comfortable fillin
 
 ## Summary
 
+<!--  You can reference this section to let the team members know about your availability. -->
+
 - Name:
 - Time Zone:
 - Regular work hours:
+- Local national holidays:
 
 ### Handles
 - Discord:
