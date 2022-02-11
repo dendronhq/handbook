@@ -2,7 +2,7 @@
 id: Vsq2MH3oisleK9ceK2iGt
 title: Communication
 desc: ''
-updated: 1632795765784
+updated: 1634606035943
 created: 1632795411720
 ---
 
@@ -14,12 +14,24 @@ How we communicate in an all remote, async first fashion
 
 ### In General
 - If you are sending a message, unless sending during work hours, give people at least **12h** to respond
-- If you are receiving a message during the work week, respond within **24h** 
+- If you are receiving a message during the work week, respond within **12h** 
 
 ### Messaging
-When sending messages to team members, the expectations for all messages is that they are async[^async]
 
-If you need to send a synchronous[^sync] message, be considerate of people's hours of availability [^hours] and add a `#sync` after the message. 
+We have 3 priorities for messages.
+
+- async
+- priority
+- sync
+
+#### async
+async messages are not urgent. the recipient has 12h durign work hours to respond. this is the default status of a message unless otherwise marked
+
+#### priority
+priority messages are urgent. the recipient should try to respond within 1h of getting this message during work hours. add `#prio` after your message to indicate a priority message
+
+#### sync
+sync messages are real time. we almost never use sync messages. add a `#sync` after your comment to indicate a sync message
 
 ```
 @kevin the latest release needs to be rolled back because of a bug in lookup #sync
