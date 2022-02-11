@@ -2,48 +2,43 @@
 id: xgIjSQJcQyGArCDKKH9an
 title: Weekly Planning Lead Checklist
 desc: ''
-updated: 1632255749107
+updated: 1644358039223
 created: 1625575868274
 ---
+
+## Announcement
+
+![[Before|dendron://private/templates.weekly-planning.team#before]]
 
 ## Checklist
 
 ### Before Meeting
-- By Friday
-  - [ ] Create next weekly journal [^1]
-  - [ ] Close previous week's milestones in Github
-  - [ ] [[Update Next Week Milestones|handbook.sop.weekly-planning#update-next-week-milestones]]
-  - [ ] Update items in triage doc
+
+- On Sunday
+  - [ ] Create next weekly journal using `weekly.journal.{date}` 
+  - [ ] Prep announcements
+  - [ ] Prep discussion points
+  - [ ] Prep wins/lessons
+  - [ ] Announcement weekly planning (create a new thread in `#dendron-team` titled `weekly-planning {date}`) using the following [[template|templates.weekly-planning.team]]
+      - NOTE: date should be the for the following tuesday (eg. on 2021-10-31, date should be 2021-11-09)
+
   - [ ] Finish [[individual weekly planning|templates.weekly-planning.user]]
-  - [ ] Announcement template: [[Announce|templates.weekly-planning.team]]
-  - [ ] [[Update CROP|handbook.sop.weekly-planning#update-crop]]
-- On Monday
-  - [ ] Assign this week's [[dendron.sop.crop-community-issue]]
-  - [ ] Remind stragglers to update the gdoc (EOD Monday)
+
+- By Monday
+  - [ ] Assign this week's [[dendron.sop.crop-community-issue]] (every other week)
 
 ### During Meeting
-- [ ] Go over wins and learnings
-- [ ] Go over previous and current goals
-- [ ] Community issue of the week assigned out.
-- [ ] Review tasks in current weekly journal
-- [ ] Review tasks in next week's journal 
+- [ ] Record video
+- [ ] Ask for volunteers for story time (every other week)
 
-### After Release
-  <!-- We'll automate this process, right now, not worth doing-->
-- [ ] Ensure current [milestone](https://github.com/dendronhq/dendron/milestones) tasks are in the weekly journal.
-  - Tasks should be obtained from people's current goals
-- [ ] Update [[dendron.rfc]] so it's current.
+
+### After Meeting
+
 - [ ] Close out last week's weekly journal [^1]
-- [ ] Remind people to update issue in Github [^2] 
+- [ ] Go over previous and current goals 
+- [ ] Upload video via [[Weekly Planning Recording|dendron://private/area.team.sop.weekly-planning-recording]]
+##
 
-### One Day After Meeting
-- [ ] Move notes from gdoc to `meet.planning.{year}.{MM}.{{dd}`
-- [ ] Set up next week's gdoc [^meet-gdoc] with a clean template to allow people time to fill it out.
-- [ ] go through issues in [[Triage|templates.weekly-planning.gdoc#triage]] where items will end in one of the following places:
-    - [[dendron.tasks.backlog]]
-    - [[crop issue|dendron.sop.crop-community-issue#crop-triage]]
-    - a new project
-
-[^meet-gdoc]: [meet gdoc](https://docs.google.com/document/d/1GEZfMMHLmz5AIvGoZrjM24TL7r_XjlmuerjEa2L9Pmo/edit#)
-[^1]: [[Weekly Journal|templates.weekly-journal.team]] 
+[^1]: [[Weekly Journal|weekly.temp.team-journal]] 
 [^2]: [[After|templates.weekly-planning.team#after]]
+[^meet-gdoc]: [meet gdoc](https://docs.google.com/document/d/1GEZfMMHLmz5AIvGoZrjM24TL7r_XjlmuerjEa2L9Pmo/edit#)

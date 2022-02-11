@@ -10,7 +10,7 @@ created: 1624213241116
 
 This is the meta SOP (Standard Operating Procedures) for SOP.
 
-## Process
+## Steps
 
 ### Creating a new SOP
 When a SOP is first created, make sure to send a pull request to the right audience (eg. usually either the team or the community at large). If a SOP is sent to the team, everyone should be listed as a reviewer. The SOP needs to have everyone approving it before it can be merged

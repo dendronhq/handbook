@@ -2,7 +2,7 @@
 id: 3c35f9da-ef77-448e-a56a-c8fc3040a59c
 title: User Readme
 desc: ''
-updated: 1633404464631
+updated: 1643585017796
 created: 1620318176003
 ---
 
@@ -26,7 +26,7 @@ Everything else is optional.  You can remove those you aren't comfortable fillin
 - Regular work hours:
 - Local national holidays:
 
-### Handles:
+### Handles
 - Discord:
 - Github:
 - Email:
@@ -34,6 +34,12 @@ Everything else is optional.  You can remove those you aren't comfortable fillin
 ## About me
 
 [**Consider linking a video of you working or being interviewed, along with 3-5 bullet points outlining interesting tidbits about you and your interests. Focus these on non-work attributes. Also, add detail on what Dendron values and sub-values resonate most with you. This enables ice-breakers to occur ahead of meetings.**]
+
+### Public
+<!-- NOTE: everything in public will be added to https://www.dendron.so/about -->
+
+### Internal 
+<!-- This will only be visible inside the team -->
 
 ## Related pages
 

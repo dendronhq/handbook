@@ -2,12 +2,12 @@
 id: c6b422a5-204a-41dd-8e47-f0b736160790
 title: Onboarding
 desc: ''
-updated: 1632256723518
+updated: 1642132790810
 created: 1620248731246
 ---
 ## Welcome to Dendron!
 
-We are so excited you’re here and look forward to setting you up for remote-first success as your journey begins. You can work through the tasks over the course of your first 30 days. If any task doesn't make sense, please reach out to the team on discord. 
+We are so excited you’re here and look forward to setting you up for remote-first success as your journey begins. You can work through the tasks over the course of your first 30 days. If any task doesn't make sense, please reach out to the team on discord in `#dendron-team`. 
 
 - **Note:** We're really appreciative of Gitlab pioneering the space of remote work and have included a lot of links to the Gitlab handbook. The wealth of information in this note can be overwhelming at times. It's okay to skim through resources, bookmark them and come back at a later time.
 
@@ -33,10 +33,11 @@ This note consists of a series of tasks which should be completed sequentially o
 
 | Day        | Area of Focus                                |
 | ---------- | -------------------------------------------- |
-| **Day 01** | Intro, Accounts and Paperwork                |
+| **Day 01** | Intro, Accounts, Paperwork, First Task       |
 | **Day 02** | Remote Work: Communication and Values        |
 | **Day 03** | Organizational Structure and Social Elements |
 | **Day 04** | Introduction to Dendron and using Github     |
+
 
 Though you may be eager to jump right into your role we encourage you to set aside dedicated time every day for your first week to focus on these tasks as they are geared toward ensuring you are enabled to [thrive in an all-remote environment](https://about.gitlab.com/company/culture/all-remote/onboarding/#the-importance-of-onboarding).
 
@@ -53,13 +54,7 @@ Along with this you will complete onboarding on Day Thirty by being asked to fil
 
 #### Daily Journal Note
 
-This is how we do standups at Dendron
-
-- [ ] Read over the sop[^sop] on [[handbook.sop.daily-journal]]
-- [ ] Create your daily journal note for today. It should be in the format of `user.{{ALIAS}}.{{date}}`. You can read more about the format [[here|schemas.user#dailyjournal]]
-- [ ] Add `- [ ] Do Day 1 onboarding` as your very first task
-
-![[Hourly|templates.people.onboarding.hourly]]
+![[dendron://dendron.handbook/templates.people.onboarding.common#daily-journal-note,1]]
 
 #### 2FA 
 
@@ -86,14 +81,7 @@ Rippling is our HRIS (Human Resource Information System) for all team members. T
 
 #### Discord
 
-- [ ] Register on Discord by following this [invitation link](https://discord.gg/xrKTUStHNZ). Read the next suggestions on how to choose a username first.
-   - [ ] You can use your personal discord OR choose to create a new username using your Dendron email. It's generally helpful to choose a username to be the same as your Github handle, for consistency and ease of use.
-- [ ] Make sure your Discord profile has a **photo** - it makes it easier for other team members to remember you!
-- [ ] If you're new to Discord, a short primer can be found at [a Beginner's guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
-- [ ] Make sure you have access to the `#dendron-team` channel and post an intro.
-   1. This can be the [[About me|templates.user-readme#about-me]] that you used for your README
-   1. We love to hear more, such as where you were before, family/pets, and hobbies.
-   1. We also enjoy pictures if you're willing to share. Consider giving your new team members a glimpse into your world (scroll through previous messages in the channel for inspiration).
+![[dendron://dendron.handbook/templates.people.onboarding.common#discord,1]]
 
 #### Rpass
 <!-- Full time only -->
@@ -112,12 +100,11 @@ If at any point you find yourself stuck, don't hesitate to leave a question in t
 
 ## Day 2 - Remote Working and our Values
 
-
 ### Remote Work
 
 <!--Trial/Part-time optional-->
 
-The first month at a remote company can be hard. **There is as much to unlearn as there is to learn**. Gitlab's a pioneer in this regard and have put together a great set of tips and tricks that will help. You can view their entire course listed below.
+The first month at a remote company can be hard. **There is as much to unlearn as there is to learn**. Check out the resources below to help get you situated.
 
 - [ ]  If you're new to working in a 100% remote environment, read over the [Guide for starting a new remote role](https://about.gitlab.com/company/culture/all-remote/getting-started/). You'll find other tips for operating (and thriving!) in an all-remote setting within the [All-Remote section of the Gitlab handbook](https://about.gitlab.com/company/culture/all-remote/). Take some inspiration from the folks at Gitlab on how they structure their remote working day, read this helpful blog post [A day in the life of remote worker](https://about.gitlab.com/blog/2019/06/18/day-in-the-life-remote-worker/)
 - [ ]  Learn more about the `#allremote` onboarding process and additional [best practices](https://about.gitlab.com/company/culture/all-remote/learning-and-development/#how-do-you-onboard-new-team-members).
@@ -133,8 +120,7 @@ The first month at a remote company can be hard. **There is as much to unlearn a
 
 ### Values
 
-1. [ ] Dendron values are a living document. Familiarize yourself with our [[values|handbook.company.values]]
-2. [ ] We are driven by our mission -  to help **people** organize and make sense of any amount of information.  Read our [[mission statement|handbook.company.mission]]
+![[dendron://dendron.handbook/templates.people.onboarding.common#values,1]]
 
 ### Calendar
 <!--Trial/Part-time optional-->
@@ -172,11 +158,6 @@ On your calendar, you will have a invites to the below meetings, Please note: Th
 
 For those new to Github and Dendron, it's important to get familiar with the below and [bookmark these links](https://about.gitlab.com/company/culture/all-remote/self-service/)
 
-### General Breakdown
-
-1. [ ] Read how devs can [contribute](https://wiki.dendron.so/notes/81da87be-2d4e-47b5-a1d6-c0d647e1ab00.html) to Dendron.
-2. [ ] Read [this page](https://wiki.dendron.so/notes/3489b652-cd0e-4ac8-a734-08094dc043eb.html) and all child pages for an overview of the Dendron Development Process
-
 #### Issues and Issue Trackers
 
 - [ ] Learn how to use [Github Issues](https://github.com/dendronhq/dendron/issues). We use Github Issues to raise awareness, discuss, and propose solutions for various issues related to any aspect of our business. The most common issues are created in the following projects:
@@ -191,8 +172,7 @@ For those new to Github and Dendron, it's important to get familiar with the bel
 
 ## Job-specific tasks
 
-* [[Engineering|handbook.people.onboarding.engineering]]
-* [[Content|handbook.people.onboarding.content]]
+![[dendron://dendron.handbook/templates.people.onboarding.common#job-specific-tasks,1]]
 
 ## Concepts
 

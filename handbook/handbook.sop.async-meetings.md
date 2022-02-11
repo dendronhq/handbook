@@ -2,7 +2,7 @@
 id: 9bacfb70-5777-4fc4-b069-f902f42762b9
 title: Async Meetings
 desc: ''
-updated: 1633017463994
+updated: 1636727719391
 created: 1622383410206
 ---
 
@@ -16,32 +16,35 @@ The purpose of these should be to encourage discussion, brainstorming, or decisi
 
 Examples of good use cases - going over a design doc, discussing product strategy, etc.
 
+## Steps
 
-## Process
+### Mini Async
+
+Use this when you made a small update to the handbook/site/etc and want to do a lightweight async. See [example](https://github.com/dendronhq/handbook/commit/58aa4d75c1d5275c01e628dd77e24a99a216748f#)
+
+1. Create a new thread in the `#async-meet` channel and set expiration for 24h (this should be the default)
+  - NOTE: if you are creating on Friday, set expiration to 3D
+  - the title of the channel should be `mini: {TITLE}`
+1. Link to the commit/scratch note in question and mention the `@DendronTeam`
+1. Team members have 1 business day to respond to the thread, either with comments or a 👍 to acknowledge reading
 
 ### Planner
-1. create a google doc
-  - if you have a `@dendron.so` email address, create a gdoc by going to https://docs.google.com 
-    - make sure to give the following people: team@dendron.so, trial@dendron.so
-  - if you do not have a `dendron.so` email address, ping @kevin or @jonathan to create one for you
-    - make sure to give the following people: team@dendron.so, trial@dendron.so
+1. Open the team google drive [^async]
+  - click the **+ New** button on the top left, select google doc, and select **Create and Share**
   - use the [[meeting template|dendron://dendron.handbook/templates.meet]] as the general outline for the meeting
 1. create a calendar invite with the following:
   - Title: [async] "What you need done"
   - Guests: anyone who needs to get things done with you (but working separately)
   - Location: At your desk.
-1. create a discord thread in `#team-announcements` sharing the details of the event
+1. create a discord post in `#async-meet` sharing the details of the event. Use the discord template [^discord]
 1. 24h after the meeting, copy the meeting notes back into the workspace under `meet.journal.{date}.{topic}`
 1. ping relevant parties when the meeting is done
 
 ### Attedant
 1. If you attended the meeting, please leave a 👍 in the original announcement to notify that you have reviewed the doc
 
-## Checklist
-
 ## Templates
 - [[Meet|dendron://dendron.handbook/templates.meet]]
-
 
 ## Reference
 
@@ -59,3 +62,7 @@ Recommended and optional async meetings for yourself. Any subset of the followin
 - [Daily] Morning planning
 - [Daily] Evening review/next day journal creation.
 - [Weekly] Review tasks assigned to you in Github so they're up to date.
+
+
+[^discord]: [[Discord|dendron://dendron.handbook/handbook.sop.async-meetings.temp.discord]]
+[^async]: [[Google|dendron://private/dendron.ref.google#^xAiAodi9KuR4]]

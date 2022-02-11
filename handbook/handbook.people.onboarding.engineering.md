@@ -2,37 +2,28 @@
 id: c7a2aeaa-f531-4352-a1bc-56504b25a38f
 title: Engineering
 desc: ''
-updated: 1629416686109
+updated: 1644177781978
 created: 1622499448820
 ---
 ## Summary
 
 This goes over engineering onboarding. For onboarding, review the follow procedures.
 
-## Pre-requisities
-
-- make sure you've been added to the `Dendron Engineering` Githubb Team
-- make sure you've completed [[Setting up your workspace|handbook.people.onboarding#setting-up-your-workspace]]
-
 ## Your first task
 
 - you should have already been assigned an initial first task when you joined the company 
-- setup the dendron monorepo by following instructions [[here|dendron.dev.setup]]
-  - if you are working on server side features (you'll be told if that's the case), you should also setup `dendron-backend` by following instructions [[here|pkg.dendron-backend.quickstart]]
-- go over our git workflow [[here|eng.ref.git]]
-- get a sense of how all the subcomponents work by reading the overal [[design|dendron.dev.design]]
+- setup the dendron monorepo by following instructions [[here|pkg.plugin-core.quickstart]]
+- go over our git workflow in [[starting work|dendron://dendron.docs/dev.process.commit#starting-work]]
+- get a sense of how all the subcomponents work by reading the overal [[architecture|dendron://dendron.docs/dev.arch]]
 - get started on your task 
   - schedule a [[pairing session|user.kevin.ref.cal]] with [[Kevin|user.kevin]] sometime in your first week
     - the pairing session can be used to go over any blockers or to simply work on your first task with an extra set of eyes to help
 
 ## Development Process
 
-- you can find our style guide [[here|dendron.dev.style]]
+- you can find our style guide [[here|dev.process.code]]
 - if your working on a feature, rebase from master after every monday release to minimize chances of merge conflicts
 - when testing code, we have a convention of adding "bond" to output values we want to debug - its easy to find in logs but please don't commit as it makes it harder to grep
-
-## Pull Request
-- see [[Pull Request|dendron.dev.pull-request]]
 
 ## Getting Help
 

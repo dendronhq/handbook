@@ -2,7 +2,7 @@
 id: nLj01q2jRcfHkQqcJaQpQ
 title: Gdoc
 desc: ''
-updated: 1629770026579
+updated: 1640584276996
 created: 1629769773124
 ---
 
@@ -31,8 +31,8 @@ Example:
 ## Notes
 <!-- Notes taken during weekly meeting -->
 
-### Triage
-<!-- Paste in the areas from the [[Next|handbook.sop.weekly-journal#next]] section of your journals into the [triage doc](https://docs.google.com/document/d/1t9IoUjKs9sDa6vR3BvwXX1leABiTnfT-f1aPupBgpyI/edit?usp=sharing). If we have time, we will go over this at the meeting. Otherwise, we will triage asynchronously after the meeting -->
+### Team Crop
+<!-- Paste in the areas from the [[Next|handbook.sop.weekly-journal#next]] section of your journals into the [Tream Crop](https://docs.google.com/document/d/1t9IoUjKs9sDa6vR3BvwXX1leABiTnfT-f1aPupBgpyI/edit?usp=sharing). If we have time, we will go over this at the meeting. Otherwise, we will triage asynchronously after the meeting -->
 
 ## Next
 <!-- Things to do after the meeting -->
