@@ -1,5 +1,5 @@
 {
-  "name": "dendron-site",
+  "name": "dendron-handbook",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,6 @@
   },
   "license": "CC BY 4.0",
   "devDependencies": {
-    "@dendronhq/dendron-11ty": "^1.57.0",
-    "@dendronhq/dendron-cli": "^0.57.0"
+    "@dendronhq/dendron-cli": "*"
   }
 }

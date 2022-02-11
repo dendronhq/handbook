@@ -10,7 +10,7 @@ created: 1624215795020
 
 How we work with code and git
 
-## Process
+## Steps
 
 We employ the [feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) when working with git. 
 
@@ -46,9 +46,9 @@ refactor!: drop support for Node 6
 
 ### Pre-Requisites
 
-1. Make sure there's a [[test|dendron.dev.qa#writing-tests]] for the new feature
-1. Make sure all the existing [[tests|dendron.dev.qa#running-all-tests]] pass 
-1. Do a spot check by running your feature with our [[test Workspace|dendron.dev.qa#test-workspace]]
+1. Make sure there's a [[test|dev.process.qa#writing-tests]] for the new feature
+1. Make sure all the existing [[tests|dev.process.qa#running-all-tests]] pass 
+1. Do a spot check by running your feature with our [[test Workspace|dev.process.qa#test-workspace]]
 1. If your change reflects documentation changes, also submit a PR to [dendron-site](https://github.com/dendronhq/dendron-site) and mention the doc PR link in your current PR
 
 
@@ -66,7 +66,7 @@ If your feature is not yet ready, you are encouraged to submit a pull request bu
 
 If its your first pull request to Dendron, watch out for the [CLA](https://en.wikipedia.org/wiki/Contributor_License_Agreement) bot that will ask you to agree to Dendron's CLA
 
-If its your first pull request and you're on our Discord, make sure that Kevin gives you the [[horticulturalist|dendron.community.roles#horticulturalist]] role  👨‍🌾👩‍🌾
+If its your first pull request and you're on our Discord, make sure that Kevin gives you the [[horticulturalist|community.roles#horticulturalist]] role  👨‍🌾👩‍🌾
 
 After you submit your pull request, check the output of our [integration test](https://github.com/dendronhq/dendron/actions) and make sure all tests pass
 

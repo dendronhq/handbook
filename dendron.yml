@@ -1,34 +1,11 @@
-version: 1
-maxPreviewsCached: 10
-vaults:
-    -
-        fsPath: handbook
-        name: dendron.handbook
+version: 4
 useFMTitle: true
 useNoteTitleForLink: true
-noAutoCreateOnDefinition: true
-noLegacyNoteRef: true
-noXVaultWikiLink: true
-lookupConfirmVaultOnCreate: false
 mermaid: true
 useKatex: false
-autoFoldFrontmatter: true
-usePrettyRefs: false
 dev:
     previewV2Enabled: false
-lookup:
-    note:
-        selectionType: selectionExtract
-journal:
-    dailyDomain: daily
-    name: journal
-    dateFormat: y.MM.dd
-    addBehavior: childOfDomain
-    firstDayOfWeek: 1
-scratch:
-    name: scratch
-    dateFormat: y.MM.dd.HHmmss
-    addBehavior: asOwnDomain
+    enablePreviewV2: true
 site:
     copyAssets: true
     siteHierarchies:
@@ -47,5 +24,72 @@ site:
         action: useVault
         payload:
             - handbook
-initializeRemoteVaults: true
-dendronVersion: 0.57.2
+    description: Personal knowledge space
+commands:
+    lookup:
+        note:
+            selectionMode: extract
+            confirmVaultOnCreate: false
+            leaveTrace: false
+            bubbleUpCreateNew: true
+    insertNote:
+        initialValue: templates
+    insertNoteLink:
+        aliasMode: none
+        enableMultiSelect: false
+    insertNoteIndex:
+        enableMarker: false
+    randomNote: {}
+workspace:
+    dendronVersion: 0.71.7
+    vaults:
+        -
+            fsPath: handbook
+            name: dendron.handbook
+    journal:
+        dailyDomain: daily
+        name: journal
+        dateFormat: y.MM.dd
+        addBehavior: childOfDomain
+    scratch:
+        name: scratch
+        dateFormat: y.MM.dd.HHmmss
+        addBehavior: asOwnDomain
+    graph:
+        zoomSpeed: 1
+    enableAutoCreateOnDefinition: false
+    enableXVaultWikiLink: false
+    enableRemoteVaultInit: true
+    workspaceVaultSyncMode: noCommit
+    enableAutoFoldFrontmatter: true
+    maxPreviewsCached: 10
+    maxNoteLength: 204800
+    task:
+        name: ''
+        dateFormat: ''
+        addBehavior: childOfCurrent
+        statusSymbols:
+            '': ' '
+            wip: w
+            done: x
+            assigned: a
+            moved: m
+            blocked: b
+            delegated: l
+            dropped: d
+            pending: 'y'
+        prioritySymbols:
+            H: high
+            M: medium
+            L: low
+        todoIntegration: false
+        createTaskSelectionType: selection2link
+    enableUserTags: true
+    enableHashTags: true
+    enableEditorDecorations: true
+preview:
+    enableFMTitle: true
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enablePrettyRefs: false
+    enableKatex: false

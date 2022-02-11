@@ -2,21 +2,21 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ''
-updated: 1631238266661
+updated: 1641838566611
 created: 1617987789017
 ---
 
 ## Summary
 
-This page describes our values as a company.
+Our values reflect what we believe in and inform how we make decisions. 
 
 ## Learn and Adapt
 
-Dendron [[helps humans build upon the knowledge of the ages|handbook.company.mission]]. This means learning from past mistakes and building on top of what has come before. 
+Dendron [[helps humans build upon the knowledge of the ages|handbook.company.mission]]. This means learning from past mistakes and building on top of what has come before.
 
 We take best practices from the places we admire and adapt them for current realities. When implementing new functionality, instead of *not invented here*, we look to  *build on what already exists*.
 
-This is not a one-off process but something that we work at each and every day. 
+This is not a one-off process but something that we work at each and every day.
 
 ## 80/20
 
@@ -46,6 +46,8 @@ That means just shipping the feature isn't enough - our users need to be able to
 Dendron wouldn't exist without our strong community. Our north star is meaningfully improving the lives of everyone who uses Dendron. 
 
 This means listening closely to what our users have to say, making sure everyone can have a voice, and making decisions based on whether it will be beneficial for our users.
+
+When defining community, this means **both** our direct users as well as people on the Dendron team. 
 
 ## Pass it Forward
 

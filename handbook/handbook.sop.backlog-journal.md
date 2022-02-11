@@ -10,7 +10,7 @@ created: 1626710849040
 
 The backlog journal is where we track items that fall outside of scope for the day or the week
 
-## Process
+## Steps
 
 Backlog items are tracked in `user.{name}.backlog`.
 

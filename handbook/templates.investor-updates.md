@@ -2,42 +2,36 @@
 id: 5d435a43-ca9c-4c26-a156-d9ccc56ab698
 title: Investor Updates Template
 desc: ''
-updated: 1630445064138
+updated: 1643793865330
 created: 1618029533953
 ---
-
 
 Hey,
 
 You're getting this email as part of Dendron's investor update. These updates will be sent out once a month and will be going over what Dendron has been up to. Thanks for helping us build a better way for humans to manage information!
 
+## Notables
+
 ## How you can help
-<!-- Hiring, introductions, etc-->
 
 ## KPIs
-<!-- Our KPIS -->
 
 ## Financials
-<!-- Burn rate and other figures-->
-Monthly Burn: 
-Average burn: 
+- Monthly Burn: 
+- Average burn: 
 
-For projections and a detailed breakdown of projected expenses extending through the rest of the year, please see our [finmark dashboard](https://app.finmark.com/dashboard).
 
 ## Lowlights
-<!-- What didn't go well -->
 
 ## Highlights
-<!-- What went well -->
 
 ## Current Month Goals
-<!-- Recap on how well we did on this months goals-->
 
 ## Next Month Goals
-<!-- What we want to do for next month -->
 
 
 And that's a wrap. Feel free to reply to this email if you have any questions or follow-ups. 
 
 Bests,
+
 Kevin

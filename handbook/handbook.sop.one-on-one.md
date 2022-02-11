@@ -15,7 +15,7 @@ The cadence for one on one's will depend on the individual and circumstance - in
 ## Prerequisites
 1. See [[Prerequisites|handbook.sop.feedback#prerequisites]]
 
-## Process
+## Steps
 
 ### Manager
 1. Two days prior to the one on one, create a meeting doc [^1] with the one on one template [^2] 
