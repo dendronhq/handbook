@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1644441766243
+updated: 1644791356375
 created: 1630621137161
 ---
 
@@ -118,3 +118,15 @@ The best way to approach this principle is as one would a rainbow - as a directi
 - have tests
 - look over common [[Customer Support|dendron://private/area.community.sop.customer-support]] issues for the feature and find code fixes for persistent issues
 
+### Avoid One Offs
+
+- Values
+    * [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
+    * [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
+    * [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
+
+When you do something novel that might need to be repeated again in the future, make sure to [[document|dendron://dendron.handbook/handbook.company.key-principles#document-first]] and [[communicate|dendron://dendron.handbook/handbook.company.key-principles#over-communicate]] the process. 
+
+#### Examples
+- [[Close Loop on breaking developer changes|dendron://dendron.docs/dev.process.close-loop]]
+- [[Code Utilities and how to find them|dendron://dendron.docs/dev.process.code.utilities]]
