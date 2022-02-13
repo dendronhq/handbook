@@ -2,7 +2,7 @@
 id: bEmbSQcT9sJWdKXmM7okS
 title: Details
 desc: ''
-updated: 1633713977901
+updated: 1644792327842
 created: 1633713968715
 ---
 
@@ -38,12 +38,12 @@ This is for things you want to do for the day. The format of this section is des
 
 ### Routine
 
-This is for tasks you should do by the end of everyday. 
-
-A common task here is to: 
-- Check on the [[weekly journal|handbook.sop.weekly-journal]] for tasks. This also has the nice side-effect of backlinking all weekly journals to the relevant daily journals.
+This is for tasks that, like brushing your teeth, are meant to be done every day. 
 
 This is for you to customize. Depending on your role, this is different for everyone. We encourage you to create your own template at `templates.standup.{user}` and use that for your daily journals.
 
+Some role specific routines
 
-
+#### Developer
+- [ ] check for pull requests by others to review
+- [ ] check for pull requests by you to update
