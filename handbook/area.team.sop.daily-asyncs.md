@@ -2,7 +2,7 @@
 id: 5Jgi3mnbKHzTBNW4nVzJb
 title: Daily Asyncs
 desc: ''
-updated: 1640912368262
+updated: 1644430819105
 created: 1640911424474
 documentId: 1Nug8iNj716m3GsTTMy5M-bVi5wjCL1uCzEdgB-__hIU
 revisionId: >-
@@ -36,7 +36,7 @@ Its easy to lose messages in discord - this gives us one source of truth for all
 
 ### Archiving
 1. The daily meeting notes for a given day wll be imported into the `meet.daily.{date}` hierarchy every week on Wednesday. 
-    - NOTE: on wednesday, notes from previous Wednesday to this week Tuesday midnight will be imported and then erased from the google doc
+    - NOTE: on Thursday, notes from previous Wednesday to this week Tuesday midnight will be imported and then erased from the google doc
 
 ## Reference
 - [Google Doc](https://docs.google.com/document/d/1rXFHzitEiZP9IoMy_jGJJCfjS5Tdd2QzPEe5ydfPIe0/edit?usp=sharing)
