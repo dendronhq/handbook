@@ -10,7 +10,9 @@ created: 1645003558624
 
 Taking time off from work is important to relax and recharge. This is the quick SOP for taking time off such as holidays and vacations.
 
-## A Few things prior to taking time off
+## Steps
+
+_A Few things prior to taking time off_
 
 1. Notify teammates ahead of time.  A week ahead of time is preferable - if your vacation is longer, then an earlier heads up would be even better. Make a note of it in your task section of the weekly planning notes.
 1. Make sure to do the following prior to your time off:
