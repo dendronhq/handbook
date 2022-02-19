@@ -2,7 +2,7 @@
 id: fc057be8-80e7-4a08-bca6-5bd6bc398eea
 title: Map
 desc: ''
-updated: 1629412456431
+updated: 1645229130789
 created: 1619479695413
 ---
 
@@ -17,7 +17,8 @@ This describes [vaults](https://wiki.dendron.so/notes/6682fca0-65ed-402c-8634-94
 - dendron.blog: powers https://blog.dendron.so/
 - dendron.dendron-site: https://wiki.dendron.so/
 - dendron.handbook: http://handbook.dendron.so/
-- private: standup and company docs
+- private: main vault used by the dendron team
+- admin: vault where we handle hiring, legal and financial things
 - dev: developer specific documentation
 
 ## Schemas
