@@ -12,6 +12,7 @@ site:
         - handbook
         - templates
         - schemas
+        - area
     siteRootDir: docs
     logo: handbook/assets/images/logo.png
     usePrettyRefs: true

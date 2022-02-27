@@ -2,7 +2,7 @@
 id: f6d9bc09-04b7-4a02-a6aa-a2c8454ce1e5
 title: Faq
 desc: ''
-updated: 1634603879619
+updated: 1646001182692
 created: 1617905326784
 ---
 
@@ -23,8 +23,9 @@ We also spend 30min one on one with all team members on a weekly basis and accom
 
 Dendron is all remote but we host many events to foster in-person connections, a few of which are listed below:
 
+- regular [[pairing sessions|dendron://dendron.handbook/area.team.sop.pairing-sessions]] with other team members
 - virtual team lunch that switches off between Asia time and North America time 
-- twice a month team game days on Fridays 
+- game days where the team comes together to play games like "Among Us"
 - the [Greenhouse Series](https://wiki.dendron.so/notes/PqtlCsRPWBjKp3RR.html): a public learning series where team members are encouraged to share something they know with the rest of the Dendron community.
 - [teatime](https://wiki.dendron.so/notes/zOw3EfQ4czmTYG4mc3wnS.html): a voice channel for team members to jump and have ad hoc conversations with other team mates and the wider Dendron community
 
