@@ -2,7 +2,7 @@
 id: yx3R7hC0lepOKZWTFNUVi
 title: Creating New Issues
 desc: ''
-updated: 1643739663961
+updated: 1645153854566
 created: 1638235948499
 ---
 
@@ -19,7 +19,7 @@ How we create new tasks
     - You can see all valid scopes here -> #scope
 1. Tasks notes will be created with the following template -> [[template|dendron://dendron.handbook/task.temp]]
     - mandatory fields:
-        - `scope`: values in #scope
+        - `scope`: see [[scope|dendron://private/task.temp.ref#scope]]
         - `creator`: your username
         - `type`: values in #type
     - fill out other sections as applicable, see [[Ref|dendron://private/task.temp.ref]]
