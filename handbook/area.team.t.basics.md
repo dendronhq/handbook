@@ -1,8 +1,8 @@
 ---
 id: mylqjwysyy8jwqiaicp89r9
-title: Basics
+title: Team Basics
 desc: ''
-updated: 1646676102511
+updated: 1646676454717
 created: 1646675269553
 ---
 
@@ -16,10 +16,15 @@ A collection of resources that you should be familiar with when using Dendron in
     - [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - gone through the initial [[onboarding|dendron://dendron.handbook/handbook.people.onboarding#prerequisites]]
 
-## [[Standard Operating Procedures|dendron://dendron.handbook/handbook.concepts#standard-operating-procedure]]
+## Start Here
+- [[Daily Journal|dendron://dendron.handbook/handbook.sop.daily-journal]]: how we do standup ^nwve3j7lztih
+- [[Discord|dendron://dendron.handbook/templates.people.onboarding.common#discord]]: how we communicate
+- [[Values|dendron://dendron.handbook/templates.people.onboarding.common#values]]: what we believe and how we make decisions
+- [[Key Principles|dendron://dendron.handbook/handbook.company.key-principles]]: actionale heuristics we use to live up to our values
+- [[Commands|dendron://dendron.handbook/area.team.t.basics.ref.commands]]: Basic commands to be familiar with
 
+## [[Standard Operating Procedures|dendron://dendron.handbook/handbook.concepts#standard-operating-procedure]]
 - General
-    - [[Daily Journal|dendron://dendron.handbook/handbook.sop.daily-journal]]: how we do standup
     - [[Async Meetings|dendron://dendron.handbook/handbook.sop.async-meetings]]: how we run meetings
 
 - Task Management
@@ -32,9 +37,6 @@ A collection of resources that you should be familiar with when using Dendron in
 
 - Role Specific
     - [[Getting help for development|dendron://dendron.handbook/handbook.sop.dev-help]]
-
-## Reference
-- [[Commands|dendron://dendron.handbook/area.team.t.basics.ref.commands]]: Basic commands to be familiar with
 
 ## Lookup
 - [[Onboarding|dendron://dendron.handbook/handbook.people.onboarding]]

@@ -2,24 +2,13 @@
 id: 7MoymynVpgmyPmIj0fHux
 title: Welcome to Dendron!
 desc: ''
-updated: 1643584940016
+updated: 1646676474376
 created: 1642131980408
 ---
 
 We are so excited you’re here and building with us 🌱
 
-The following are some concepts and processes that you'll want to know to be successful. 
-
-## Daily Journal Note
-
-![[dendron://dendron.handbook/templates.people.onboarding.common#daily-journal-note,1]]
-
-## Discord
-
-![[dendron://dendron.handbook/templates.people.onboarding.common#discord,1]]
-
-### Values
-![[dendron://dendron.handbook/templates.people.onboarding.common#values,1]]
+Before you begin, please go through the [[Start Here|dendron://dendron.handbook/area.team.t.basics#start-here]] section in the handbook (the other sections you can finish in your own time when relevant)
 
 ## Initial Tasks
 - [ ] Create and add your own [[user readme|templates.user-readme]]. This goes in `user.{{ALIAS}}` 
