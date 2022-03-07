@@ -2,7 +2,7 @@
 id: 09a34445-345d-42c9-b82b-6f6691aed668
 title: Onboarding
 desc: ''
-updated: 1646504889687
+updated: 1646674995839
 created: 1618789330639
 nav_order: 3
 ---
@@ -27,10 +27,10 @@ The following describes the onboarding process at Dendron
     ```
 
 1. Open up your Dendron workspace
-    - NOTE: we're using `code-insider` CLI in this example but this will vary depending on what VSCode client you use
+    - NOTE: we're using `code` CLI in this example but this will vary depending on what VSCode client you use. you can also double click on `dendron.code-workspace` file 
     ```sh
     cd {workspace}
-    code-insider .
+    code .
     ```
 1. You will see a prompt to `Open workspace file` on the bottom right corner. Click on the prompt
 1. Wait ~30s for your workspace to initialize. Dendron is initializing your workspace and downloading company documents at this point
