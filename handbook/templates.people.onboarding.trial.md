@@ -2,7 +2,7 @@
 id: 7MoymynVpgmyPmIj0fHux
 title: Welcome to Dendron!
 desc: ''
-updated: 1646676474376
+updated: 1646781175371
 created: 1642131980408
 ---
 
@@ -14,4 +14,5 @@ Before you begin, please go through the [[Start Here|dendron://dendron.handbook/
 - [ ] Create and add your own [[user readme|templates.user-readme]]. This goes in `user.{{ALIAS}}` 
    - NOTE: this may take some time to create so please feel free to iterate on it over the course of the week
 
-![[dendron://dendron.handbook/handbook.people.onboarding.engineering]]
+## Other Tasks
+- For engineers, see [[dendron://dendron.handbook/handbook.people.onboarding.engineering]]

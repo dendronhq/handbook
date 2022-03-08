@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1644791356375
+updated: 1646780681652
 created: 1630621137161
 ---
 
@@ -51,7 +51,6 @@ Things get lost in translation. Especially across timezones and across messaging
 - when you get a message, acknowledge reading the message via a response or a 👍
 - when you merge a github branch and have some outstanding comments, also ping the submitter
 
-
 ### Earn Trust
 
 - Values
@@ -66,20 +65,9 @@ Things get lost in translation. Especially across timezones and across messaging
 Adding on to this, earning trust means showing up on time and following through on promises that we make
 
 
-
-
-
-<!-- #### No One Offs
-
-There are some things that we will do exactly once. For everything else, we will make sure to document things so that others can build off our work. -->
-
 <!-- #### Dive Deep
 
 > Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them. - [Amazon Leadership Principle](https://www.amazon.jobs/en/principles)
-
-#### Earning Trust
-
-We act and follow through on things that demonstrates trust. This includes little things like showing up for meetings ahead of time to big things like honoring the commitments we make - whether that be from a chat dialogue or an official announcement. -->
 
 <!-- ### Deliver Results
 - Source: [Amazon Leadership Principle](https://www.amazon.jobs/en/principles)
