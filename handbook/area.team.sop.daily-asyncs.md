@@ -2,7 +2,7 @@
 id: 5Jgi3mnbKHzTBNW4nVzJb
 title: Daily Asyncs
 desc: ''
-updated: 1644430819105
+updated: 1646323574761
 created: 1640911424474
 documentId: 1Nug8iNj716m3GsTTMy5M-bVi5wjCL1uCzEdgB-__hIU
 revisionId: >-
@@ -35,7 +35,7 @@ Its easy to lose messages in discord - this gives us one source of truth for all
 1. Dendron team members should [[add an acknowledgement|dendron://private/area.team.sop.weekly-planning-commenting#adding-an-acknowledgement]] for all previous day asyncs within 24h of the day
 
 ### Archiving
-1. The daily meeting notes for a given day wll be imported into the `meet.daily.{date}` hierarchy every week on Wednesday. 
+1. The daily meeting notes for a given day will be imported into the `meet.daily.{date}` hierarchy every week on Wednesday. 
     - NOTE: on Thursday, notes from previous Wednesday to this week Tuesday midnight will be imported and then erased from the google doc
 
 ## Reference
