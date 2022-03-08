@@ -2,7 +2,7 @@
 id: FlYfPejnL3TJq4gKZ9jFU
 title: Daily Async Check
 desc: ''
-updated: 1643303351712
+updated: 1646152612901
 created: 1642007588706
 ---
 
@@ -23,3 +23,5 @@ https://docs.google.com/document/d/1rXFHzitEiZP9IoMy_jGJJCfjS5Tdd2QzPEe5ydfPIe0/
 
 ## Template
 - [[Temp|dendron://dendron.handbook/area.team.sop.daily-asyncs.sop.daily-async-check.temp]]
+
+[[Describe Ws Updates|dendron://private/meet.async.2022.02.25.describe-ws-updates]]
