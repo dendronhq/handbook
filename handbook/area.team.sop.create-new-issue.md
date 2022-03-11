@@ -2,16 +2,18 @@
 id: yx3R7hC0lepOKZWTFNUVi
 title: Creating New Issues
 desc: ''
-updated: 1645153854566
+updated: 1647009118510
 created: 1638235948499
 ---
+
+
+## Summary
+How we create new tasks
 
 ## Prerequisites
 
 Setup the Airtable Export Pod Configuration as detailed in [[Issues in Airtable|dendron://private/area.team.sop.issues-in-airtable]]
-
-## Summary
-How we create new tasks
+- NOTE: this should be part of your workspace
 
 ## Steps
 1. Create a new task note in the form `task.{date}.{name}`
