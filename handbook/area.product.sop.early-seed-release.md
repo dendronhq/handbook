@@ -2,7 +2,7 @@
 id: 27fd4443-58b5-4fdc-a1ca-1aa4ca9f8397
 title: Early Seed Release
 desc: ''
-updated: 1647010036598
+updated: 1647012057699
 created: 1623344680534
 ---
 
@@ -14,9 +14,16 @@ How we handle Dendron's early seed releases
 ### Code
 
 #### Before the release
-1. Go to [Create Release Image Github Actions Pipeline](https://github.com/dendronhq/dendron/actions/workflows/create-release-image.yml) and view the latest pipeline run. See [[Pipelines for General Release|dendron://dendron.docs/dev.build.automation#pipelines-for-general-release]] for more info.
+1. Go to [[Create Release Image|dendron://dendron.handbook/s.github.ref.actions#create-release-image]] github actions and view the latest pipeline run. See [[Pipelines for General Release|dendron://dendron.docs/dev.build.automation#pipelines-for-general-release]] for more info.
+1. Check that features in [[Ready to Ship|dendron://dendron.handbook/area.product.concepts.ready-to-ship]] are accurate. 
+    - copy the commit id of what was pushed in the latest pipeline run, see [here](https://www.loom.com/i/5e945dfecf4b4ee487a13ec8338f0127) for screenshot
+    - look at [commit history](https://github.com/dendronhq/dendron/commits/master) of dendronhq to match last merge changes
+    - make sure this is accurate with the latest contents of `Ready to Ship`
+        - if not, create a new [[Weekly Journal (Team)|dendron://dendron.handbook/area.product.concepts.weekly-journal-team]]
+        - to create a journal, follow same instructions as [[individual weekly journal|dendron://dendron.handbook/handbook.sop.weekly-journal#steps]] but do it for the team weekly journal
+        - copy over any of next week items to this journal 
 1. Install the .vsix file locally and do a sanity check in `test-workspace` 
-    - make sure early seed features don't have any obvious bugs
+    - make sure early seed features from [[Ready to Ship|dendron://dendron.handbook/area.product.concepts.ready-to-ship]] don't have any obvious bugs
     - See [here](https://stackoverflow.com/questions/42017617/how-to-install-vs-code-extension-manually) for how to install `.vsix` manually
     - If a bug is detected, ping `@Dendron Team` and relevant parties to get it fixed 
 1. If everything works, add to the release note thread of the week 

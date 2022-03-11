@@ -2,7 +2,7 @@
 id: q4q3ajj5lqbh596mw5ag6wf
 title: Actions
 desc: ''
-updated: 1647009919396
+updated: 1647011557625
 created: 1645808599337
 ---
 
@@ -19,5 +19,5 @@ on:
     - cron: "0 7 * * 1-6"
 ```
 
-### Release Image
+### Create Release Image
 - url: https://github.com/dendronhq/dendron/actions/workflows/create-release-image.yml
