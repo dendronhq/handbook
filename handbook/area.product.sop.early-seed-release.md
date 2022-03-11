@@ -2,7 +2,7 @@
 id: 27fd4443-58b5-4fdc-a1ca-1aa4ca9f8397
 title: Early Seed Release
 desc: ''
-updated: 1646957443427
+updated: 1647010036598
 created: 1623344680534
 ---
 
@@ -57,6 +57,14 @@ How we handle Dendron's early seed releases
 ### Good Release
 
 Tests run on early seed, we're ready to ship 🌱
+
+## Cook
+
+### Updating early seed build
+
+If you need to update the early seed build with changes that were pushed after the [[Early Seed Release|dendron://private/area.team.ref.schedules.release#early-seed-release]], follow instructions below:
+
+[[Update contents of the release image|dendron://private/area.product.sop.weekly-release.build.v2#update-contents-of-the-release-image]]
 
 ## Reference
 
