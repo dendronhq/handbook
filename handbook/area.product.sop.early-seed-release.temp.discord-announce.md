@@ -2,10 +2,11 @@
 id: faetvi68uumosld8w822bfn
 title: Discord Announce
 desc: ''
-updated: 1646891017075
+updated: 1647024084068
 created: 1646890679020
 ---
 
+```markdown
 @Environmentalist
 highlights of yyyy.mm.dd early seed build :seedling:
 
@@ -46,3 +47,4 @@ REMEMBER: DELETE THIS COMMENT SECTION
 - early seed build: <https://org-dendron-public-assets.s3.amazonaws.com/publish/dendron-0.85.0.vsix>
 - instructions to install early seed build: <https://wiki.dendron.so/notes/401c5889-20ae-4b3a-8468-269def4b4865/#manual-install>
 - instructions to upgrade Dendron CLI: <https://wiki.dendron.so/notes/21c1288a-6fb8-42f5-90c0-9b3cc7d872ad/#dendron-cli>
+```

@@ -2,7 +2,7 @@
 id: MDqYxBszVoWxNJUZ1C1PE
 title: Changelog Update
 desc: ''
-updated: 1646956819759
+updated: 1647023880886
 created: 1634137544355
 ---
 
@@ -14,12 +14,21 @@ Goes over updating the [[Changelog|dendron://dendron.dendron-site/changelog]] an
 ## Prerequisites
 <!-- Optional, anything that needs to be done ahead of time-->
 
-## Steps
+## Before
 
-1. Sync your workspace, to ensure on latest `dev` branch of `dendron-site`
-1. Create a new branch from the `dev` branch `dendron-site`, as we want to create a PR (ex. `git checkout -b early-seed-085` or `git checkout -b release-085`)
+- The evening before, create a new Discord thread in `#dendron-team` with the title `weekly-early-seed yyyy-mm-dd`
+  - Template: [[Discord Thread Start|dendron://dendron.handbook/area.product.sop.changelog-update.temp.discord-thread-start]]
+  - This is done to give the teams a heads up to get docs in, remaining updates to the `Ready to Ship` section, etc. ahead of time
+
+## During
+
+> [Loom recording showing example update to early seed changelog](https://www.loom.com/share/60f9c2918c32433c8f3afb237144b870), up to the submission of a PR
+
+1. Review and merge any completed [PRs open for `dendron-site`](https://github.com/dendronhq/dendron-site/pulls), especially if there are docs related to changes in this release
+1. Sync your workspace
+1. Create a new branch from the `dev` branch of `dendron-site`, as we want to create a PR (ex. `git checkout -b early-seed-085` or `git checkout -b release-085`)
 1. Go to the [[Changelog|dendron://dendron.dendron-site/changelog]] if a production release, or go to the [[Early Seed Changelog|dendron://dendron.dendron-site/changelog.early-seed]] if early seed
-1. Create a new release using [[Changelog|dendron://dendron.dendron-site/templates.changelog]] template
+1. Update the changelog using [[Changelog|dendron://dendron.dendron-site/templates.changelog]] template
 1. Go to the `Ready to Ship` section of the weekly journal for this week
     - eg. `dendron://private/weekly.journal.2021.10.19`
     - Categories of focus: `Features`, `Enhancements`, `Fix`, and anything related to deprecations or breaking changes. `Internal` is ignored when it comes to the changelog.
@@ -56,8 +65,6 @@ Goes over updating the [[Changelog|dendron://dendron.dendron-site/changelog]] an
     ```md
     - feat(publish): add `dendron publish dev` command ([[docs|dendron://dendron.dendron-site/dendron.topic.publish.cli#dev]]) (#1238) @kevin
     ```
-1. Submit PR
-1. Depending 
 
 ## Checklist
 <!-- Should be used to do the task -->

@@ -2,7 +2,7 @@
 id: 27fd4443-58b5-4fdc-a1ca-1aa4ca9f8397
 title: Early Seed Release
 desc: ''
-updated: 1647012057699
+updated: 1647024044398
 created: 1623344680534
 ---
 
@@ -30,18 +30,22 @@ How we handle Dendron's early seed releases
 
 ### Docs
 1. Make sure [[Early Seed Changelog|dendron://dendron.dendron-site/changelog.early-seed]] is updated by following the process [[here|dendron://dendron.handbook/area.product.sop.changelog-update]]. This should be submitted as a PR to `dendron-site`.
-1. When the code is ready, merge into master
+  - Example: [Loom recording showing example update to early seed changelog](https://www.loom.com/share/60f9c2918c32433c8f3afb237144b870), up to the submission of a PR
+1. When the PR is approved, merge into `dev`
+1. Merge `dev` into `master` in `dendron-site` ^7q8fv3n12zsr
     ```sh
+    git checkout dev
+    git pull
     git checkout master
     git pull
     git merge dev
     git push
     ```
-1. Check that the changes have made it to the main page
+1. Check that the changes have made it to the main page ^pemkw0fid00l
 1. Use the following template[^1] to write the announcement message
     - You can see an example of a past announcement [here](https://discord.com/channels/717965437182410783/771518214558449685/878434754918228031)
     - see the sop on release highlights [^4] for release format
-1. Announce announce the release in the `#environmentalist` channel with the `@Environmentalists` mention.
+1. Announce the release in the [[environmentalist|dendron://dendron.dendron-site/community.discord.channels#environmentalist]] channel.
 
 ## Checklist
 - code
@@ -80,7 +84,7 @@ If you need to update the early seed build with changes that were pushed after t
 Refer to the [Dendron Release Google Calendar](https://calendar.google.com/calendar/u/1?cid=Y19jcjFwNnNhOHUzYzgzY2Q4ZTR0dmd1ZHU3NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for times of Notable events such as Branch Snaps, Target Release Times.
 
 
-[^1]: [[Template|dendron://dendron.handbook/area.product.sop.release-highlights.template]]
+[^1]: [[Discord Announce|dendron://dendron.handbook/area.product.sop.early-seed-release.temp.discord-announce]]
 [^2]: [[Update Changelog|dendron://dendron.dendron-site/changelog]]
 [^3]: [[Team Announce|dendron://dendron.handbook/area.product.sop.early-seed-release.temp.team-announce]]
 [^4]: [[Release Highlights|dendron://dendron.handbook/area.product.sop.release-highlights]]

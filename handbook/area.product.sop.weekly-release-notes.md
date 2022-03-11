@@ -2,7 +2,7 @@
 id: qsDq5jZVM0NqEmj7L2VgR
 title: Weekly Release Notes
 desc: ''
-updated: 1646890571982
+updated: 1647024219876
 created: 1635724125776
 ---
 
@@ -15,7 +15,7 @@ How to do release notes
 ### Before the release
 1. this will be a PR, so make sure your local `dev` branch is updated before creating a new branch related to the release
 1. update the changelog, see [[Changelog Update|dendron://dendron.handbook/area.product.sop.changelog-update]]
-1. make sure all outstanding [prs](https://github.com/dendronhq/dendron-site/pulls) from dendron-site are reviewed and merged that can be
+1. make sure all outstanding [docs prs](https://github.com/dendronhq/dendron-site/pulls) from dendron-site are reviewed and merged that can be
   - follow [[Community Contributions|dendron://dendron.handbook/area.product.sop.community-contributions]] for any merged PRs, and for any newly opened docs issues in `dendron-site`, `dendron-docs`, or other docs-related repos
 1. create a new release under `changelog.release.{date-with-dashes}`
     - NOTE: date should line up with the tuesday of the coming week and should be created in `dendron-site`
