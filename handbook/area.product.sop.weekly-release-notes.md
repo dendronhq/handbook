@@ -2,7 +2,7 @@
 id: qsDq5jZVM0NqEmj7L2VgR
 title: Weekly Release Notes
 desc: ''
-updated: 1647024219876
+updated: 1647025388011
 created: 1635724125776
 ---
 
@@ -11,6 +11,12 @@ created: 1635724125776
 How to do release notes
 
 ## Steps
+
+### Day before
+
+- The evening before, create a new Discord thread in `#dendron-team` with the title `weekly-release yyyy-mm-dd`
+  - Template: [[Discord Thread Start|dendron://dendron.handbook/area.product.sop.weekly-release-notes.temp.discord-thread-start]]
+  - This is done to give the teams a heads up to get docs in, remaining updates to the `Ready to Ship` section, etc. ahead of time
 
 ### Before the release
 1. this will be a PR, so make sure your local `dev` branch is updated before creating a new branch related to the release

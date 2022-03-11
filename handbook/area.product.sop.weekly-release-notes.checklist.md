@@ -2,7 +2,7 @@
 id: QQrTHByWsKowoTEgRxP4M
 title: Checklist
 desc: ''
-updated: 1646890560566
+updated: 1647025211227
 created: 1635724868472
 ---
 
@@ -12,7 +12,8 @@ created: 1635724868472
 - [ ] create release notes in `dendron-site`
 - [ ] add highlights 
 - [ ] create pr
-- [ ] merge to master
+- [ ] merge to `dev`
+- [ ] merge `dev` to `master`
 
 ## After Release
 - [ ] discord announce

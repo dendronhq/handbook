@@ -2,7 +2,7 @@
 id: MDqYxBszVoWxNJUZ1C1PE
 title: Changelog Update
 desc: ''
-updated: 1647023880886
+updated: 1647024807688
 created: 1634137544355
 ---
 
@@ -14,13 +14,7 @@ Goes over updating the [[Changelog|dendron://dendron.dendron-site/changelog]] an
 ## Prerequisites
 <!-- Optional, anything that needs to be done ahead of time-->
 
-## Before
-
-- The evening before, create a new Discord thread in `#dendron-team` with the title `weekly-early-seed yyyy-mm-dd`
-  - Template: [[Discord Thread Start|dendron://dendron.handbook/area.product.sop.changelog-update.temp.discord-thread-start]]
-  - This is done to give the teams a heads up to get docs in, remaining updates to the `Ready to Ship` section, etc. ahead of time
-
-## During
+## Steps
 
 > [Loom recording showing example update to early seed changelog](https://www.loom.com/share/60f9c2918c32433c8f3afb237144b870), up to the submission of a PR
 

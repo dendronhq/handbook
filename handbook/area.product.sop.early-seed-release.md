@@ -2,7 +2,7 @@
 id: 27fd4443-58b5-4fdc-a1ca-1aa4ca9f8397
 title: Early Seed Release
 desc: ''
-updated: 1647024044398
+updated: 1647025314884
 created: 1623344680534
 ---
 
@@ -29,6 +29,15 @@ How we handle Dendron's early seed releases
 1. If everything works, add to the release note thread of the week 
 
 ### Docs
+
+#### Day before
+
+- The evening before, create a new Discord thread in `#dendron-team` with the title `early-seed yyyy-mm-dd`
+  - Template: [[Discord Thread Start|dendron://dendron.handbook/area.product.sop.early-seed-release.temp.discord-thread-start]]
+  - This is done to give the teams a heads up to get docs in, remaining updates to the `Ready to Ship` section, etc. ahead of time
+
+#### Day of
+
 1. Make sure [[Early Seed Changelog|dendron://dendron.dendron-site/changelog.early-seed]] is updated by following the process [[here|dendron://dendron.handbook/area.product.sop.changelog-update]]. This should be submitted as a PR to `dendron-site`.
   - Example: [Loom recording showing example update to early seed changelog](https://www.loom.com/share/60f9c2918c32433c8f3afb237144b870), up to the submission of a PR
 1. When the PR is approved, merge into `dev`
