@@ -50,7 +50,7 @@ Goes over updating the [[Changelog|dendron://dendron.dendron-site/changelog]] an
     - enhance(publish): initialize template will also install dependencies (#1236) @kevin
     - enhance(publish): warn when `assetsPrefix` isn't set (#1237) @kevin
     ```
-    - NOTE: each commit should adhere to our [[commit style|dendron://dendron.docs/dev.process.commit#commit-style]] 
+    - NOTE: each commit should adhere to our [[commit style|dendron://dendron.docs/dev.process.review#commit-style]] 
     ![[dendron://dendron.docs/dev.process.commit#^pjL1YxpWRgtT:#*]]
 1. For changes that are introducing new functionality, make sure that docs are provided at the end of the commit
     - NOTE: if no docs are available, please ping the developer (their alias should be at the end of the alias)

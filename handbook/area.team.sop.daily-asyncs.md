@@ -5,17 +5,21 @@ desc: ''
 updated: 1646323574761
 created: 1640911424474
 documentId: 1Nug8iNj716m3GsTTMy5M-bVi5wjCL1uCzEdgB-__hIU
+published: false
 revisionId: >-
   ALm37BXxPTIhkFjanUF-dvB830X29nYvWQWvGYoeQUMj5Cgd7EwSRg1bGzzkvO9DsuErSzRbCwMRcL0Fll2qQg
 ---
 
 ## Summary
 
-Daily Asyncs are our source of truth for all discussions and announcements that the entire team is involved in
+Daily Asyncs are where all asyncs are posted. 
+are our source of truth for all discussions and announcements that the entire team is involved in
 
-## Details
+## Context
 
-Its easy to lose messages in discord - this gives us one source of truth for all team wide announcements
+Its easy to lose messages in discord, especially announcements. Daily asyncs
+
+this gives us one source of truth for all team wide announcements
 
 ## Steps
 
@@ -28,7 +32,7 @@ Its easy to lose messages in discord - this gives us one source of truth for all
         ```
     - example
         ```md
-        - @kevin: Pod change proposals - https://docs.google.com/document/d/11f8fYmdbm_hBdcjUnH8F5NN1gXM9WvqlrTGpwBu0l5w/edit
+        - @kevin: Pod change proposals - https://docs.google.com/document/d/***/edit
         ```
 
 ### Responding
@@ -39,6 +43,4 @@ Its easy to lose messages in discord - this gives us one source of truth for all
     - NOTE: on Thursday, notes from previous Wednesday to this week Tuesday midnight will be imported and then erased from the google doc
 
 ## Reference
-- [Google Doc](https://docs.google.com/document/d/1rXFHzitEiZP9IoMy_jGJJCfjS5Tdd2QzPEe5ydfPIe0/edit?usp=sharing)
-
-
+- [[Daily Async GDoc|dendron://private/s.gdocs.ref.daily-async]]

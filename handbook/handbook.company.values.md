@@ -2,7 +2,7 @@
 id: b89ba854-72fb-4ebc-a8a0-55960b89e9dc
 title: Values
 desc: ''
-updated: 1641838566611
+updated: 1646507509926
 created: 1617987789017
 ---
 
@@ -56,6 +56,7 @@ We aim to leave things in a better state than when we found it. Whether that's c
 This means creating [[standard operating procedures|handbook.sop]] to spread best practices, documenting things so that others can find them, and continuously driving change to make existing things better. 
 
 This also means working in the open so that everyone can benefit from our learnings - Dendron is built on the work that has come before us and we like to make it possible for others to build upon the work that we do. 
+
 
 ## Keep no False Idols
 
