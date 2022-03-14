@@ -82,7 +82,7 @@ Tests run on early seed, we're ready to ship 🌱
 
 ### Updating early seed build
 
-If you need to update the early seed build with changes that were pushed after the [[Early Seed Release|dendron://private/area.team.ref.schedules.release#early-seed-release]], follow instructions below:
+If you need to update the early seed build with changes that were pushed after the [[Early Seed Release|dendron://dendron.handbook/area.team.ref.schedules.release#early-seed-release]], follow instructions below:
 
 [[Update contents of the release image|dendron://private/area.product.sop.weekly-release.build.v2#update-contents-of-the-release-image]]
 
