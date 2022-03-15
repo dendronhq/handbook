@@ -26,6 +26,8 @@ The [[Dendron Reading Series|dendron://dendron.dendron-site/community.events.rea
     - Review/revise the reading series submission, as needed, when formatting and prepping for publishing
     - If no submission is available in Airtable, create your own
     - see an example here: [[22 - Spaced repetition: a hack to make your brain store information|dendron://dendron.dendron-site/community.events.reading-series.2022.03.01]]
+    - Note: Update the title to increment the number of the series
+    - Make sure to use `>-` yaml formatting with strings
 1. Add a note reference in the weekly release notes
     - eg: [[Dendron Reading Series|dendron://dendron.dendron-site/changelog.release.2022-03-01#dendron-reading-series]]
 1. Pin in on the #teatime channel using the reading series template[^1] ^IeMaLaK5zDKq

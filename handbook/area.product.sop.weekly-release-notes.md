@@ -12,12 +12,6 @@ How to do release notes
 
 ## Steps
 
-### Day before
-
-- The evening before, create a new Discord thread in `#dendron-team` with the title `weekly-release yyyy-mm-dd`
-  - Template: [[Discord Thread Start|dendron://dendron.handbook/area.product.sop.weekly-release-notes.temp.discord-thread-start]]
-  - This is done to give the teams a heads up to get docs in, remaining updates to the `Ready to Ship` section, etc. ahead of time
-
 ### Before the release
 1. this will be a PR, so make sure your local `dev` branch is updated before creating a new branch related to the release
 1. update the changelog, see [[Changelog Update|dendron://dendron.handbook/area.product.sop.changelog-update]]
@@ -35,6 +29,12 @@ How to do release notes
       - Event Reminders
       - NOTE: the current oncall should have done the contributor updates for support issues in dendron repo, you should check `dendron-site` [^site] and `dendron-blog` [^blog] for additional issues
 1. commit and push changes as an open PR
+1. The evening before, create a new Discord thread in `#dendron-team` with the title `weekly-release yyyy-mm-dd`
+  - Template: [[Discord Thread Start|dendron://dendron.handbook/area.product.sop.weekly-release-notes.temp.discord-thread-start]]
+  - This is done to give the teams a heads up to get docs in, remaining updates to the `Ready to Ship` section, etc. ahead of time
+
+### Day of release
+
 1. ping @john about transferring community highlights to the release notes
     - He needs to create the `weekly.journal.*.contributions` contributor highlights
     - after john has finished transferring highlights, pull down changes and create a thread in `dendron-team` titled `weekly-release {date-with-dashes}` and use the [[Release|dendron://private/area.product.sop.weekly-release-notes#release]] template
