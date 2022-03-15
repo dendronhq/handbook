@@ -22,7 +22,7 @@ Read these on your first day
 - [[Daily Journal|dendron://dendron.handbook/handbook.sop.daily-journal]]: how we do standup ^nwve3j7lztih
 - [[Discord|dendron://dendron.handbook/templates.people.onboarding.common#discord]]: how we communicate
 - [[Values|dendron://dendron.handbook/templates.people.onboarding.common#values]]: what we believe and how we make decisions
-- [[Key Principles|dendron://dendron.handbook/hadbook.company.key-principles]]: actionale heuristics we use to live up to our values
+- [[Key Principles|dendron://dendron.handbook/handbook.company.key-principles]]: actionale heuristics we use to live up to our values
 - [[Commands|dendron://dendron.handbook/area.team.t.basics.ref.commands]]: Basic commands to be familiar with
 - [[Weekly Planning|dendron://dendron.handbook/handbook.sop.weekly-planning]]: our once a week planning session
 
@@ -42,6 +42,3 @@ Read these during the course of the week
 
 - Role Specific
     - [[Getting help for development|dendron://dendron.handbook/handbook.sop.dev-help]]
-
-## Lookup
-- [[Onboarding|dendron://dendron.handbook/handbook.people.onboarding]]

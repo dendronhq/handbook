@@ -13,6 +13,7 @@ Before you begin, please go through the [[Start Here|dendron://dendron.handbook/
 ## Initial Tasks
 - [ ] Create and add your own [[user readme|templates.user-readme]]. This goes in `user.{{ALIAS}}` 
    - NOTE: this may take some time to create so please feel free to iterate on it over the course of the week
+- [ ] Create a `user.{{ALIAS}}.friction` note  - use this to record any points of friction you encounter with Dendron during your first two weeks
 
 ## Other Tasks
 - For engineers, see [[dendron://dendron.handbook/handbook.people.onboarding.engineering]]
