@@ -12,7 +12,7 @@ How we create new tasks
 
 ## Prerequisites
 
-Setup the Airtable Export Pod Configuration as detailed in [[Issues in Airtable|dendron://private/area.team.sop.issues-in-airtable]]
+Setup the Airtable Export Pod Configuration as detailed in [[Issues in Airtable|dendron://dendron.handbook/area.team.sop.issues-in-airtable]]
 - NOTE: this should be part of your workspace
 
 ## Steps
@@ -25,7 +25,7 @@ Setup the Airtable Export Pod Configuration as detailed in [[Issues in Airtable|
         - `creator`: your username
         - `type`: values in #type
     - fill out other sections as applicable, see [[Ref|dendron://private/task.temp.ref]]
-1. Export the task to Airtable following the steps in [[Run the Pod to Export a Task to Airtable|dendron://private/area.team.sop.issues-in-airtable#run-the-pod-to-export-a-task-to-airtable]]
+1. Export the task to Airtable following the steps in [[Run the Pod to Export a Task to Airtable|dendron://dendron.handbook/area.team.sop.issues-in-airtable#run-the-pod-to-export-a-task-to-airtable]]
 
 ## Examples
 - [[Support Custom Date Format When Applying Schema Template|dendron://private/task.2021.11.28.support-custom-date-format-when-applying-schema-template]]
