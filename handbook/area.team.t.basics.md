@@ -25,6 +25,7 @@ Read these on your first day
 - [[Key Principles|dendron://dendron.handbook/handbook.company.key-principles]]: actionale heuristics we use to live up to our values
 - [[Commands|dendron://dendron.handbook/area.team.t.basics.ref.commands]]: Basic commands to be familiar with
 - [[Weekly Planning|dendron://dendron.handbook/handbook.sop.weekly-planning]]: our once a week planning session
+- [[Areas|dendron://dendron.handbook/area]]: understand how the dendron workspace is laid out
 
 ## [[Standard Operating Procedures|dendron://dendron.handbook/handbook.concepts#standard-operating-procedure]]
 
