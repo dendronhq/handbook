@@ -7,12 +7,13 @@ created: 1646000714959
 config:
   global:
     enableChildLinks: false
-nav_exclude: true
 ---
 
 ## Summary 
 
-Areas are [standards to be maintained over time](https://fortelabs.co/blog/para/). 
+These are the main entry points into various verticals within the Dendron organization. 
+
+- NOTE: we are still in the process of opening our internal docs so if you see areas marked private that you are curious about, please ping us in the [[Dendron Discord Server|dendron://private/ext.discord.server.dendron]]
 
 ## External
 - [[Product|dendron://private/area.product]]

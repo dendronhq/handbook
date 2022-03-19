@@ -1,6 +1,6 @@
 ---
 id: bEmbSQcT9sJWdKXmM7okS
-title: Details
+title: Schema
 desc: ''
 updated: 1644792327842
 created: 1633713968715

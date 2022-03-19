@@ -1,31 +1,7 @@
-version: 4
-useFMTitle: true
-useNoteTitleForLink: true
-mermaid: true
-useKatex: false
+version: 5
 dev:
     previewV2Enabled: false
     enablePreviewV2: true
-site:
-    copyAssets: true
-    siteHierarchies:
-        - handbook
-        - templates
-        - schemas
-        - area
-    siteRootDir: docs
-    logo: handbook/assets/images/logo.png
-    usePrettyRefs: true
-    siteUrl: 'https://handbook.dendron.so'
-    title: Dendron Handbook
-    gh_edit_repository: 'https://github.com/dendronhq/handbook'
-    siteLastModified: true
-    gh_edit_branch: main
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - handbook
-    description: Personal knowledge space
 commands:
     lookup:
         note:
@@ -33,6 +9,8 @@ commands:
             confirmVaultOnCreate: false
             leaveTrace: false
             bubbleUpCreateNew: true
+            vaultSelectionModeOnCreate: smart
+            fuzzThreshold: 0.2
     insertNote:
         initialValue: templates
     insertNoteLink:
@@ -41,8 +19,9 @@ commands:
     insertNoteIndex:
         enableMarker: false
     randomNote: {}
+    copyNoteLink: {}
 workspace:
-    dendronVersion: 0.71.7
+    dendronVersion: 0.86.3
     vaults:
         -
             fsPath: handbook
@@ -62,7 +41,7 @@ workspace:
     enableXVaultWikiLink: false
     enableRemoteVaultInit: true
     workspaceVaultSyncMode: noCommit
-    enableAutoFoldFrontmatter: true
+    enableAutoFoldFrontmatter: false
     maxPreviewsCached: 10
     maxNoteLength: 204800
     task:
@@ -94,3 +73,40 @@ preview:
     enableMermaid: true
     enablePrettyRefs: false
     enableKatex: false
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
+    automaticallyShowPreview: false
+publishing:
+    enableFMTitle: true
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enablePrettyRefs: true
+    enableKatex: false
+    copyAssets: true
+    logoPath: handbook/assets/images/logo.png
+    siteHierarchies:
+        - handbook
+        - templates
+        - schemas
+        - area
+    enableSiteLastModified: true
+    siteRootDir: docs
+    siteUrl: https://handbook.dendron.so
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
+    enableRandomlyColoredTags: true
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - handbook
+    writeStubs: false
+    seo:
+        title: Dendron Handbook
+        description: Personal knowledge space
+    github:
+        enableEditLink: true
+        editLinkText: Edit this page on GitHub
+        editBranch: main
+        editViewMode: tree
+        editRepository: https://github.com/dendronhq/handbook
+    enablePrettyLinks: true
