@@ -1,0 +1,16 @@
+version: 1
+imports: []
+schemas:
+  - id: ext
+    title: ext
+    parent: root
+    children: 
+      - pattern: "*"
+        title: "service"
+        children:
+          - pattern: "*"
+            title: "category"
+            children:
+              - pattern: "*"
+                title: "resource"
+
