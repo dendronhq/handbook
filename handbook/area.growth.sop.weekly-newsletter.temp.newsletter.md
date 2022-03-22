@@ -2,7 +2,7 @@
 id: DBZn3sypA8kRcx0w
 title: Newsletter
 desc: ''
-updated: 1647971035730
+updated: 1647985632239
 created: 1628011828550
 ---
 
@@ -10,7 +10,7 @@ It’s time for a weekly roundup! The email newsletter is a curated collection o
 
 <!-- TODO: Update the version in the header below
     DELETE THIS TODO MESSAGE WHEN DONE-->
-## Dendron 0.85 has sprouted  🌱
+## A New Dendron Release has Appeared!
 
 <!-- TODO: Update the version and link to the release notes below
     DELETE THIS TODO MESSAGE WHEN DONE-->
@@ -18,7 +18,7 @@ It’s time for a weekly roundup! The email newsletter is a curated collection o
 
 <!-- TODO: Update the note ref below to the appropriate release notes
     DELETE THIS TODO MESSAGE WHEN DONE-->
-![[dendron://dendron.dendron-site/changelog.release.2022-03-08]]
+![[dendron://dendron.dendron-site/changelog.release.2022-03-22#*,-1000:#changelog]]
 
 ## As Always: Community Resources
 

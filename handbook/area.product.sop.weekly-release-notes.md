@@ -2,7 +2,7 @@
 id: qsDq5jZVM0NqEmj7L2VgR
 title: Weekly Release Notes
 desc: ''
-updated: 1647976545057
+updated: 1647989736898
 created: 1635724125776
 ---
 
@@ -67,6 +67,12 @@ How to do release notes
       - **Highlights** section
       - **Everything Else** section
     - example: [[Notes|dendron://private/area.product.release.2022.01.25.notes]]
+    - Add the URL link to the release directly beneath `Dendron {version} has sprouted`
+      - example:
+        ```markdown
+        Dendron 0.87 has sprouted  :seedling:
+        https://wiki.dendron.so/notes/qcwfzax4uaqj54evgp8li5y/
+        ```
 1. create announcement notes under `area.product.release.{date}.announcement`
     - Add `@ServerNotify` to the top
     - to create announcement notes copy everything in `## Community` but leave out **Starboard**, **Changelog**, and **Reading Series** sections
@@ -82,11 +88,39 @@ How to do release notes
 
 ### After the release
 1. Announce release on discord
-   - Add contents of `area.product.release.{date}.notes` into `#releases` channel
-   - Add contents of `area.product.release.{date}.announcement` into `#announcements` channel
    - Add contents of `area.product.release.{date}.reading-series` into `#teatime` channel
+     - Add an emoji related to the story
+   - Add contents of `area.product.release.{date}.notes` into `#releases` channel
+     - Add a :seedling: emoji
+   - Add contents of `area.product.release.{date}.announcement` into `#announcements` channel
+     - Add a :farmer: emoji
 1. Announce release on twitter
+   - Use a format similar to the following:
+    ```
+    Dendron 0.84 has sprouted 🌱
+
+    - Speed improvements in "Dendron: Show Preview"
+    - Pod V2 is now available to use directly from dendron-cli
+    - New "Community Teatime" events starting this week
+    - Contribute #opensource to good first issues in Dendron code
+
+    https://wiki.dendron.so/notes/qcwfzax4uaqj54evgp8li5y/
+    ```
 1. Announce release on mastodon
+   - Use a format similar to Twitter, but optimized for Mastodon. Threads don't work the same in Mastodon, so _don't make a thread._ It's a one message kind of deal. You can always send a second message (such as upcoming events) at another time.
+   - Example format with slight modifications to above:
+    ```
+    Dendron 0.84 #release has sprouted 🌱
+
+    - Speed improvements in "Dendron: Show Preview"
+    - Pod V2 is now available to use directly from dendron-cli
+    - New "Community Teatime" events starting this week
+    - Contribute #opensource to good first issues in Dendron code
+
+    #dendron #vscode #vscodium
+
+    https://wiki.dendron.so/notes/qcwfzax4uaqj54evgp8li5y/
+    ```
 
 ## Checklist
 ![[dendron://dendron.handbook/area.product.sop.weekly-release-notes.checklist]]
