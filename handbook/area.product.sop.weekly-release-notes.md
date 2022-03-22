@@ -2,7 +2,7 @@
 id: qsDq5jZVM0NqEmj7L2VgR
 title: Weekly Release Notes
 desc: ''
-updated: 1647975014458
+updated: 1647976545057
 created: 1635724125776
 ---
 
@@ -46,6 +46,7 @@ How to do release notes
     - after john has finished transferring highlights, pull down changes and create a thread in `dendron-team` titled `weekly-release {date-with-dashes}` and use the [[Release|dendron://private/area.product.sop.weekly-release-notes#release]] template
 1. after approval, merge changes to `master` and push
     - First confirm that `dev` currently includes all commits in `master`
+    - Once confirmed, merge `dev` into `master`
       ```bash
       # In the dendron.dendron-site repo
       git checkout dev
@@ -56,18 +57,34 @@ How to do release notes
       git push # Publishes updated master
       ```
 1. verify that changes are up
+1. use markdown export pod to copy to clipboard on release notes (ensure wikilinkToUrl is true)
+
 1. create release notes under `area.product.release.{date}.notes`
-    - to create release notes, copy everything up to `# Community`
-    - NOTE: make sure all discord mentions come out properly so that folks are notified for their contribution
+    - Add `@everyone` to the top
+    - to create release notes, copy everything above `## Community`
+    - This should include:
+      - Release Highlights descriptions
+      - **Highlights** section
+      - **Everything Else** section
     - example: [[Notes|dendron://private/area.product.release.2022.01.25.notes]]
 1. create announcement notes under `area.product.release.{date}.announcement`
-    - to create announcement notes copy everything in `# Community` but leave out `starboard` and `changelog`
+    - Add `@ServerNotify` to the top
+    - to create announcement notes copy everything in `## Community` but leave out **Starboard**, **Changelog**, and **Reading Series** sections
+    - This sections should include:
+      - **General**
+      - **Events**
+      - **Thank Yous**
     - NOTE: make sure all discord mentions come out properly so that folks are notified for their contribution
     - example: [[Announcement|dendron://private/area.product.release.2022.01.25.announcement]]
-
+1. create reading series notes under `area.product.release.{date}.reading-series`
+    - Use [[Template|dendron://dendron.handbook/area.product.sop.reading-series.template]]
+    - Make sure you had already followed [[Reading Series|dendron://dendron.handbook/area.product.sop.reading-series]]
 
 ### After the release
 1. Announce release on discord
+   - Add contents of `area.product.release.{date}.notes` into `#releases` channel
+   - Add contents of `area.product.release.{date}.announcement` into `#announcements` channel
+   - Add contents of `area.product.release.{date}.reading-series` into `#teatime` channel
 1. Announce release on twitter
 1. Announce release on mastodon
 
