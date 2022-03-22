@@ -31,15 +31,18 @@ Read these on your first day
 
 Read these during the course of the week
 
-- General
-    - [[Async Meetings|dendron://dendron.handbook/handbook.sop.async-meetings]]: how we run meetings
-
 - Task Management
     - [[Todos|dendron://dendron.handbook/handbook.sop.todos]]: how we track tasks to be done
     - [[Weekly Journal|dendron://dendron.handbook/handbook.sop.weekly-journal]]: how we track "sprints"
 
 - Meetings
+    - [[Async Meetings|dendron://dendron.handbook/handbook.sop.async-meetings]]: how we run meetings
     - [[One on One|dendron://dendron.handbook/handbook.sop.one-on-one]]: how we conduct one on ones
 
-- Role Specific
+- Situation Specific
     - [[Getting help for development|dendron://dendron.handbook/handbook.sop.dev-help]]
+    - [[Oncall|dendron://private/area.team.sop.oncall]]
+
+- Role Specific
+    - [[Content|dendron://private/area.community.t.content]]
+    - [[Development|dendron://dendron.docs/dev.process]]
