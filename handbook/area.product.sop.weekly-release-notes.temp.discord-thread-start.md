@@ -2,11 +2,9 @@
 id: uzch08fpx04gcpoq539am4f
 title: Discord Thread Start
 desc: ''
-updated: 1647025122180
+updated: 1647911862649
 created: 1647025104192
 ---
-
-> Make sure to change the values of hours estimate, and of the weekly journal name
 
 ```markdown
 @Dendron Team 

@@ -2,7 +2,7 @@
 id: MDqYxBszVoWxNJUZ1C1PE
 title: Changelog Update
 desc: ''
-updated: 1647024807688
+updated: 1647909158930
 created: 1634137544355
 ---
 
@@ -18,7 +18,8 @@ Goes over updating the [[Changelog|dendron://dendron.dendron-site/changelog]] an
 
 > [Loom recording showing example update to early seed changelog](https://www.loom.com/share/60f9c2918c32433c8f3afb237144b870), up to the submission of a PR
 
-1. Review and merge any completed [PRs open for `dendron-site`](https://github.com/dendronhq/dendron-site/pulls), especially if there are docs related to changes in this release
+1. Make sure all outstanding [docs prs](https://github.com/dendronhq/dendron-site/pulls) from `dendron-site` are reviewed and merged, especially is they are related to this release.
+  - follow [[Community Contributions|dendron://dendron.handbook/area.product.sop.community-contributions]] for any merged PRs, and for any newly opened docs issues in `dendron-site`, `dendron-docs`, or other docs-related repos
 1. Sync your workspace
 1. Create a new branch from the `dev` branch of `dendron-site`, as we want to create a PR (ex. `git checkout -b early-seed-085` or `git checkout -b release-085`)
 1. Go to the [[Changelog|dendron://dendron.dendron-site/changelog]] if a production release, or go to the [[Early Seed Changelog|dendron://dendron.dendron-site/changelog.early-seed]] if early seed
