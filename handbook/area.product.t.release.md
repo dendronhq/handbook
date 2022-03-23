@@ -27,9 +27,13 @@ Dendron releases twice a week:
 - [[Release Highlights|dendron://dendron.handbook/area.product.sop.release-highlights]]
 - [[Early Seed Release: Docs|dendron://dendron.handbook/area.product.sop.early-seed-release#docs]]
 - [[Weekly Release Notes|dendron://dendron.handbook/area.product.sop.weekly-release-notes]]
+- [[Weekly Newsletter|dendron://dendron.handbook/area.growth.sop.weekly-newsletter]]
 
 ## Templates
 
 - [[Reading Series: Discord Template|dendron://dendron.handbook/area.product.sop.reading-series.template]]
 - [[Release Highlights: Template|dendron://dendron.handbook/area.product.sop.release-highlights.template]]
-- 
+- [[Newsletter Template|dendron://dendron.handbook/area.growth.sop.weekly-newsletter.temp.newsletter]]
+- [[Early Seed: Team Discord Thread Start|dendron://dendron.handbook/area.product.sop.early-seed-release.temp.discord-thread-start]]
+- [[Early Seed: Discord Announcement for Environmentalists|dendron://dendron.handbook/area.product.sop.early-seed-release.temp.discord-announce]]
+- [[General/Weekly Release: Discord Thread Start|dendron://dendron.handbook/area.product.sop.weekly-release-notes.temp.discord-thread-start]]

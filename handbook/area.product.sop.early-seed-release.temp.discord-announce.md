@@ -6,36 +6,21 @@ updated: 1647025014397
 created: 1646890679020
 ---
 
+> For the highlights section: [[Release Highlights|dendron://dendron.handbook/area.product.sop.release-highlights]]
+
 ```markdown
 @Environmentalist
 highlights of yyyy.mm.dd early seed build :seedling:
 
-<!-- Add highlights section here -->
-
-### Highlights
-<!--
-Add lines from changelog that are highlighted above
-Make sure to remove contributor names, PR numbers, etc.
-Example:
-
-- enhance(workspace): doctor command, `fixRemoteVaults`, to fix remote vaults that don't have a remote set
-
+<!-- Add highlights section here
 REMEMBER: DELETE THIS COMMENT SECTION
 -->
 
-### Everything Else
-<!--
-Add all remaining lines from changelog into this section 
-Make sure to remove contributor names, PR numbers, etc.
-Example:
+## Highlights
+- changelog item
 
-- fix(lookup): add selection2link button for CreateScratchNoteCommand
-- fix(pods): fix issue with url links not showing up when using markdown export inside a note reference
-- fix(vaults): sometimes see same vault multiple times in vault dropdown
-- fix(internal): some edge cases when deleting a note that interferred with tree view and refactoring
-
-REMEMBER: DELETE THIS COMMENT SECTION
--->
+## Everything Else
+- changelog item
 
 - early seed changelog: <https://wiki.dendron.so/notes/3abd00eb-1c1e-4253-aaf5-dcbe20c21850/>
 <!--

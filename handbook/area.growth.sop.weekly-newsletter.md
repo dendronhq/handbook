@@ -8,7 +8,13 @@ created: 1628011914293
 
 ## Summary
 
+How to send out the weekly newsletter.
+
+## Details
+
 Dendron sends out a weekly newsletter, scheduled for every Wednesday at 6AM PST.
+
+Dendron uses [Buttondown](https://buttondown.email/) for managing a newsletter. It's a simple interface that uses Markdown formatting. To make our lives easier, we use a newsletter template and the Markdown Export Pod to send subscribers a copy of our weekly release notes.
 
 ## Prerequisites
 

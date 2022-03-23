@@ -14,6 +14,12 @@ This goes over writing release highlights.
 
 The first sections of any release notes will contain an overview highlighting specific features and enhancements of a release.
 
+This is made up of:
+
+- Overview of features, enhancements, and/or breaking changes of importance in the release.
+- `## Highlights`: Changelog items referenced in the overview.
+- `## Everything Else`: Changelog items not referenced in the overview.
+
 ### Style
 
 ```markdown

@@ -8,7 +8,19 @@ created: 1635724125776
 
 ## Summary
 <!-- What is this SOP about -->
-How to do release notes
+How to do release notes.
+
+## Details
+
+Release notes are done with the General Release of Dendron that comes out each Tuesday. These provide quite a bit more context compared to the changelog notes, including:
+
+- Highlights
+- Upcoming events
+- Discord community messages from the [[today-i-learned|dendron://dendron.dendron-site/community.discord.channels#today-i-learned]] and [[starboard|dendron://dendron.dendron-site/community.discord.channels#starboard]] channels
+- Community contributions: Contributors that have been raising issues, contributing code, contributing docs, etc. For more information, view the documentation on [[Discord Roles|dendron://dendron.dendron-site/community.discord.roles]]
+- General announcements: Blog posts, videos, other events/resources of note, etc.
+
+The release notes also serve as the content submitted to subscribers of the Dendron Newsletter.
 
 ## Steps
 

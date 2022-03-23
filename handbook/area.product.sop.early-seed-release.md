@@ -9,6 +9,12 @@ created: 1623344680534
 ## Summary
 How we handle Dendron's early seed releases
 
+## Details
+
+These are pre-release versions of Dendron extensions made available to [[Environmentalist|dendron://dendron.dendron-site/community.discord.roles#environmentalist]].
+
+- Release cadence: Every Friday (PST)
+
 ## Steps
 
 ### Code
