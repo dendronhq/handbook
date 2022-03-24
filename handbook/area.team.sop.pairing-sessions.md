@@ -38,6 +38,9 @@ Pairing helps spread best practices and is also a structured way of fostering co
 1. Discuss what went well and what could be improved from today's session
 1. If there are followup items, add them to your backlog  (eg. updating [[Docs|dendron://private/dendron.docs]]), be sure to update them in your daily journal
 
+## Reference
+- [Example pairing session where we debug and submit a fix for the following github issue](https://www.loom.com/share/99cdf1057d0247bf97b8355902850167): [Correct vault is not selected when creating note with lookup autocomplete · Issue #2617 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/2617)
+
 ## Concepts
 
 ### Driver and Navigator
