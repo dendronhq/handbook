@@ -21,6 +21,7 @@ created: 1625707230018
 - Videos
     - [[A Day in Dendron|dendron://dendron.dendron-site/community.events.greenhouse.2021-07-23-using-dendron-with-20k-notes]]
     - [[Vscode Livestream|dendron://dendron.handbook/ext.youtube.video.vscode-livestream]]
+    - [[Getting Things Done (GTD), Bullet Journaling, and Other Task Management Workflow Demos with Dendron|dendron://dendron.dendron-site/community.events.greenhouse.2022-02-25-gtd-bullet-journals-task-management-workflow-demos]]
 
 ## Community 
 - [Custom onboarding](https://calendly.com/d/mqtk-rf7q/onboard)
