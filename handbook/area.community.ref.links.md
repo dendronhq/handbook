@@ -20,8 +20,7 @@ created: 1625707230018
 ## Dendron in Action
 - Videos
     - [[A Day in Dendron|dendron://dendron.dendron-site/community.events.greenhouse.2021-07-23-using-dendron-with-20k-notes]]
-    - [VSCode Livestream](https://youtu.be/dW6m4_O0qvQ) ^tiExkX0faETZ
-        - twitter response to comments: https://twitter.com/dendronhq/status/1471580139771334664
+    - [[Vscode Livestream|dendron://dendron.handbook/ext.youtube.video.vscode-livestream]]
 
 ## Community 
 - [Custom onboarding](https://calendly.com/d/mqtk-rf7q/onboard)
