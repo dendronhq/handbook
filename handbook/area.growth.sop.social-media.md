@@ -84,27 +84,10 @@ To get access to our subreddit, as a moderator:
 - Create a reddit user account
 - Request moderator permissions from the team
 
-#### Other Reddit Groups
-
-#todo
-
 ### YouTube
 
 - Login to YouTube with your `dendron.so` account
 - Once given permissions by a Dendron channel manager/owner, you should be able to upload video to the channel and respond to comments as the channel
-
-### Hacker News
-- HN announcement (A title that is less than 80 characters)
-
-### Twitter
-- Twitter (Under 250 charactesrs)
-
-### Discord
-
-#todo
-
-#### Other Discord Groups
-- TODO
 
 ### Slack Groups
 - [[Just the Docs|scratch.2021.06.27.202853.release#just-the-docs]]

@@ -1,11 +1,10 @@
 ---
 id: 8WUmaO3iJDB9UNUGuL9ND
 title: Common Links
-desc: ''
+desc: 'Links that we commonly give out'
 updated: 1647476191079
 created: 1625707230018
 ---
-
 
 ## Dendron Theory
 - [It's Not You - It's Your Knowledge Base - Kevin's Garden](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html)
