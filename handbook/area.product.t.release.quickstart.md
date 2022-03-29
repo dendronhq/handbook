@@ -19,6 +19,7 @@ A quickstart guide for the docs release process.
 - Permissions to merge to `dev` and `master` in [dendron-site](https://github.com/dendronhq/dendron-site)
 - Access to the [Buttondown Email](https://buttondown.email/) Dendron credentials for sending out the newsletter
 - Permissions to post to `#announcements` and `#releases` channels in the [Dendron Discord](https://link.dendron.so/discord)
+- Your Discord account may need to boost the Dendron Discord in order to unlock a higher character limit within posts.
 
 ## Steps: Early Seed Release Docs Process
 
