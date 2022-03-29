@@ -103,36 +103,39 @@ The release notes also serve as the content submitted to subscribers of the Dend
    - Add contents of `area.product.release.{date}.reading-series` into `#teatime` channel
      - Add an emoji related to the story
    - Add contents of `area.product.release.{date}.notes` into `#releases` channel
-     - Add a :seedling: emoji
+     - Add a `:seedling:` emoji
    - Add contents of `area.product.release.{date}.announcement` into `#announcements` channel
-     - Add a :farmer: emoji
+     - Add a `:farmer:` emoji
 1. Announce release on twitter
    - Use a format similar to the following:
-    ```
-    Dendron 0.84 has sprouted 🌱
 
-    - Speed improvements in "Dendron: Show Preview"
-    - Pod V2 is now available to use directly from dendron-cli
-    - New "Community Teatime" events starting this week
-    - Contribute #opensource to good first issues in Dendron code
+      ```markdown
+      Dendron 0.84 has sprouted 🌱
 
-    https://wiki.dendron.so/notes/qcwfzax4uaqj54evgp8li5y/
-    ```
+      - Speed improvements in "Dendron: Show Preview"
+      - Pod V2 is now available to use directly from dendron-cli
+      - New "Community Teatime" events starting this week
+      - Contribute #opensource to good first issues in Dendron code
+
+      https://wiki.dendron.so/notes/qcwfzax4uaqj54evgp8li5y/
+      ```
+
 1. Announce release on mastodon
    - Use a format similar to Twitter, but optimized for Mastodon. Threads don't work the same in Mastodon, so _don't make a thread._ It's a one message kind of deal. You can always send a second message (such as upcoming events) at another time.
    - Example format with slight modifications to above:
-    ```
-    Dendron 0.84 #release has sprouted 🌱
 
-    - Speed improvements in "Dendron: Show Preview"
-    - Pod V2 is now available to use directly from dendron-cli
-    - New "Community Teatime" events starting this week
-    - Contribute #opensource to good first issues in Dendron code
+      ```markdown
+      Dendron 0.84 #release has sprouted 🌱
 
-    #dendron #vscode #vscodium
+      - Speed improvements in "Dendron: Show Preview"
+      - Pod V2 is now available to use directly from dendron-cli
+      - New "Community Teatime" events starting this week
+      - Contribute #opensource to good first issues in Dendron code
 
-    https://wiki.dendron.so/notes/qcwfzax4uaqj54evgp8li5y/
-    ```
+      #dendron #vscode #vscodium
+
+      https://wiki.dendron.so/notes/qcwfzax4uaqj54evgp8li5y/
+      ```
 
 ## Checklist
 ![[dendron://dendron.handbook/area.product.sop.weekly-release-notes.checklist]]
