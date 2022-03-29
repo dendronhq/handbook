@@ -4,6 +4,9 @@ title: Navigating the Dendron Workspace
 desc: ''
 updated: 1647362189412
 created: 1647362189412
+documentId: 18oymOgTpes-6XX6gwR4E_Dd_kZ0-VLABLlAqGmCHZ-c
+revisionId: >-
+  ALm37BV2eSEH75PDjXltbUFns9B5qs5Yco9bGgJzUWXwiWpJhZTXsNdxW4hzUrOWiYCuKgOKOcETusVyWtxixg
 ---
 
 ## Summary
