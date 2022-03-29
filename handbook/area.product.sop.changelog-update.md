@@ -93,7 +93,7 @@ If running the latest `dendron-cli`, users can optionally migrate their configur
 1. Update the changelog using [[Changelog|dendron://dendron.dendron-site/templates.changelog]] template
 1. Go to the `Ready to Ship` section of the weekly journal for this week
     - eg. `dendron://private/weekly.journal.2021.10.19`
-    - Categories of focus: `Features`, `Enhancements`, `Fix`, and anything related to deprecations or breaking changes. `Internal` is ignored when it comes to the changelog.
+    - Categories of focus: `Deprecations`, `Features`, `Enhancements`, `Fix`, and anything related (such as breaking changes). `## Internal` is ignored when it comes to the changelog.
 1. For each category, copy over everything under the `*** in master` line and copy it to the changelog ^r08juF8Rt8Ds
     - move the lines under `*** in master` below `*** in changelog` after doing this
     - eg. before copying

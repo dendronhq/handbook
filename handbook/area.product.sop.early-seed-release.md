@@ -63,17 +63,27 @@ These are pre-release versions of Dendron extensions made available to [[Environ
 1. Announce the release in the [[environmentalist|dendron://dendron.dendron-site/community.discord.channels#environmentalist]] channel.
 
 ## Checklist
-- code
-    - [ ] test early seed build
-    - [ ] if any issues detected, check in changes into the `release/*` branch directly
 
-- docs
-    - [ ] [[Early Seed Changelog|dendron://dendron.dendron-site/changelog.early-seed]] is updated
-      - [[Changelog|dendron://dendron.dendron-site/templates.changelog]]
-    - [ ] changelog is published
-    - [ ] announcement made
-      - [[Discord Announce|dendron://dendron.handbook/area.product.sop.early-seed-release.temp.discord-announce]]
-      - Announce in the `#environmentalist` channel
+### Code Checklist
+
+- [ ] test early seed build
+- [ ] if any issues detected, check in changes into the `release/*` branch directly
+
+### Docs Checklist
+
+- [ ] Day Before
+  - [ ] Notice given to team
+    - [[Discord Thread Start|dendron://dendron.handbook/area.product.sop.early-seed-release.temp.discord-thread-start]]
+- [ ] Day of
+  - [ ] Update [[Early Seed Changelog|dendron://dendron.dendron-site/changelog.early-seed]] is updated via PR
+    - [[Changelog Update SOP|dendron://dendron.handbook/area.product.sop.changelog-update]]
+    - [[Changelog Template|dendron://dendron.dendron-site/templates.changelog]]
+    - [[Release Highlights SOP|dendron://dendron.handbook/area.product.sop.release-highlights]]
+  - [ ] Early Seed Changelog PR approved, merged to `dev`, and `dev` is merged to `master`
+  - [ ] Verify website is updated with latest content
+  - [ ] Announcement made to Environmentalists
+    - [[Discord Announce|dendron://dendron.handbook/area.product.sop.early-seed-release.temp.discord-announce]]
+    - Announce in the `#environmentalist` channel
 
 ## Templates
 
