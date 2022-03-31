@@ -28,6 +28,7 @@ Dendron releases twice a week:
 - [[Early Seed Release: Docs|dendron://dendron.handbook/area.product.sop.early-seed-release#docs]]
 - [[Weekly Release Notes|dendron://dendron.handbook/area.product.sop.weekly-release-notes]]
 - [[Weekly Newsletter|dendron://dendron.handbook/area.growth.sop.weekly-newsletter]]
+- [[Social Media|dendron://dendron.handbook/area.growth.sop.social-media]]
 
 ## Templates
 

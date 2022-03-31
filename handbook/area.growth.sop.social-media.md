@@ -24,6 +24,11 @@ Official Dendron presence online (outside of our main content websites published
 - [Dendron on Discord](https://link.dendron.so/discord)
 - [Dendron SmartPage](https://link.dendron.so/smartpage): Landing page for people to navigate to our different websites and social media.
 
+## Prerequisites
+
+- Password vault access to [[Twitter|dendron://dendron.handbook/area.growth.sop.social-media#twitter-and-mastodon]] Dendron account
+- Password vault access to [[Mastodon|dendron://dendron.handbook/area.growth.sop.social-media#twitter-and-mastodon]] Dendron account
+
 ## Steps
 
 ### Dailies: Morning
@@ -43,6 +48,15 @@ Visit the following for latest comments or questions. These have less activity, 
 ### Blog posts and cross-posting
 
 Whenever a new post is added to the [Dendron Blog](https://blog.dendron.so/), we need to make announcements and cross-post to other websites that are configured to use `canonicalUrl` references.
+
+#### Prerequisites
+
+- Account on [[Medium|dendron://dendron.handbook/area.growth.sop.social-media#medium]], invited to Dendron org
+- Account on [[DEV|dendron://dendron.handbook/area.growth.sop.social-media#devto]], invited to Dendron org
+- Account on [[Reddit|dendron://dendron.handbook/area.growth.sop.social-media#reddit]], invited to be moderator on Dendron subreddit
+- Account on [[HackerNews|dendron://dendron.handbook/area.growth.sop.social-media#hackernews]]
+
+#### Checklist for cross-posting and announcing
 
 ![[dendron://dendron.handbook/area.growth.sop.social-media.temp.blog-post-checklist#checklist,1]]
 
@@ -90,4 +104,6 @@ To get access to our subreddit, as a moderator:
 - Once given permissions by a Dendron channel manager/owner, you should be able to upload video to the channel and respond to comments as the channel
 
 ### Slack Groups
+
 - [[Just the Docs|scratch.2021.06.27.202853.release#just-the-docs]]
+
