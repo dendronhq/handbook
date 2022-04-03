@@ -1,29 +1,26 @@
 ---
 id: 5d435a43-ca9c-4c26-a156-d9ccc56ab698
-title: Investor Updates Template
+title: Dendron <%= CURRENT_YEAR %>-<%= CURRENT_MONTH %> Investor Report
 desc: ''
 updated: 1643793865330
 created: 1618029533953
 ---
 
-Hey,
-
-You're getting this email as part of Dendron's investor update. These updates will be sent out once a month and will be going over what Dendron has been up to. Thanks for helping us build a better way for humans to manage information!
-
-## Notables
-
 ## How you can help
 
 ## KPIs
+
+See ![[dendron://private/ext.gsheet.gen.kpis]]
 
 ## Financials
 - Monthly Burn: 
 - Average burn: 
 
-
 ## Lowlights
 
 ## Highlights
+
+## Notes
 
 ## Current Month Goals
 
