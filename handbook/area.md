@@ -1,7 +1,9 @@
 ---
 id: xm21tkj701oqmpf2t7nzdrf
 title: Areas
-desc: 'Primary entry point to different aspects about Dendron (eg. product, team, community, metrics, etc)'
+desc: >-
+  Primary entry point to different aspects about Dendron (eg. product, team,
+  community, metrics, etc)
 updated: 1646001297926
 created: 1646000714959
 config:
@@ -18,7 +20,7 @@ These are the main entry points into various verticals within the Dendron organi
 ## External
 - [[Product|dendron://private/area.product]]
 - [[Community|dendron://private/area.community]]
-- [[Growth|dendron://private/area.growth]]
+- [[Growth|dendron://dendron.handbook/area.growth]]
 
 ## Internal
 - [[Team|dendron://dendron.handbook/area.team]]

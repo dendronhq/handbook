@@ -14,15 +14,16 @@ created: 1627472295773
   - Links to documentation of any services that you owed
   - Next steps on any outstanding tasks 
 
+### After Exit Interview
+1. Delete all private dendron repositories from local computer
+
 ## For managers
+- [ ] Offboard employee in Rippling and check that employee has been removed from gsuite unless there's a business reason to keep the email active (and forwarded to active inbox)
 - [ ] Run payroll for outstanding pay
-- [ ] Remove access from Github. Check that employee handle is no longer in [Dendron Engineering](https://github.com/orgs/dendronhq/teams/engineering/members)
 - [ ] Remove access from Discord. Check that employee is no longer in Dendron Team 
 - [ ] Schedule an exit interview
 
 ![](/assets/images/2021-07-23-17-28-34.png)
-
-- [ ] Offboard employee in Rippling and check that employee has been removed from gsuite unless there's a business reason to keep the email active (and forwarded to active inbox)
 
 ### After user end date
 - [ ] Remove user from gsuite (Rippling does not do this)

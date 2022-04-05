@@ -1,9 +1,12 @@
 ---
-id: 75yly0wi5nbl9rrds1e9gcl
+id: RljrzIUat0HFS09UtIn6d
 title: Growth
 desc: ''
-updated: 1647653264808
-created: 1647653264808
-stub: true
+updated: 1649179590103
+created: 1635380846356
 ---
 
+
+## Writing
+- [[Writing Style Guide for Docs|dendron://dendron.handbook/area.growth.ref.writing-style-guide-for-docs]]
+- [[Writing Style Guide for Longer Pieces|dendron://dendron.handbook/area.growth.ref.writing-style-guide-for-longer-pieces]]
