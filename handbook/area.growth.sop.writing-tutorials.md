@@ -2,7 +2,7 @@
 id: c6n6clbye7h4pxd6b5lo05l
 title: Writing Tutorials
 desc: ''
-updated: 1649179814055
+updated: 1649365701146
 created: 1649179644461
 ---
 
@@ -18,11 +18,14 @@ Writing tutorial articles in Dendron
 1. Create a tutorial using the [[Tutorial Template|dendron://dendron.dendron-site/templates.tutorial]]
 1. Write the tutorial
     - follow best practices for [[Writing Style Guide for Docs|dendron://dendron.handbook/area.growth.ref.writing-style-guide-for-docs]] 
+1. If your tutorial involves a loom video, see [[Loom Videos|dendron://dendron.handbook/area.growth.sop.loom-videos]]
 
 ## Examples
 
-## Checklist
+#todo
 
-## Templates
+## Checklist
+#todo
 
 ## Lookup
+- [[Loom Videos|dendron://dendron.handbook/area.growth.sop.loom-videos]]
