@@ -2,7 +2,7 @@
 id: JG8aRMn9RkKtQAaMmkh7p
 title: Writing Style Guide for Docs
 desc: ''
-updated: 1649458404275
+updated: 1649458429518
 created: 1639612388568
 ---
 
@@ -123,6 +123,8 @@ You just created an [[inline schema]]. {one sentence description of inline schem
 
 Concepts are like entries in an index. There are meant to provide readers a basic overview of the subject. 
 Try to keep information here brief, around 1-3 sentences. 
+
+Example: [[Async Meeting|dendron://dendron.handbook/area.team.concepts.async-meeting]]
 
 ## Lookup
 
