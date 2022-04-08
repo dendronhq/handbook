@@ -2,7 +2,7 @@
 id: JG8aRMn9RkKtQAaMmkh7p
 title: Writing Style Guide for Docs
 desc: ''
-updated: 1646946735336
+updated: 1649458404275
 created: 1639612388568
 ---
 
@@ -32,8 +32,15 @@ Writing style guide at Dendron when writing documentation, we use the classifica
 
 ## Principles
 
+
 ### get to the point
 - alias: most important/relevant thing first
+
+### So what 
+Every point should have impact. When making a statement, follow it up with the answer to "so what"? 
+
+Example:
+- dendron lets you have flexible hierarchies. This lets you write without having to worry about how your notes are structured because you get to change it after the fact.
 
 ### less is more
 
@@ -44,7 +51,9 @@ information overload is a thing, lets try to not add more information than we ne
 - [[prefer being terse|dendron://private/area.growth.ref.writing-style-guide#prefer-being-terse]]
 
 ### provide context
-- don't presume use case
+
+Don't presume prior knowledge. If this is your first time introducing a concept, take a line to explain it and link to the source docs. 
+If you are providing an image, add a caption describing what the user is supposed to focus on. 
 
 - eg:
     - https://github.com/dendronhq/dendron-site/pull/341#discussion_r776514497
@@ -107,6 +116,13 @@ You just created an [[inline schema]]. {one sentence description of inline schem
 
 ### provide context
 - provide full length definitions before using abbreviations
+
+## Specifics
+
+### Concepts
+
+Concepts are like entries in an index. There are meant to provide readers a basic overview of the subject. 
+Try to keep information here brief, around 1-3 sentences. 
 
 ## Lookup
 
