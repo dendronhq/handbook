@@ -12,6 +12,9 @@ created: 1625707230018
 - [Dendron Inc - Dendron Blog](https://blog.dendron.so/notes/N9VxT7G5SovmncezBAGO2.html)
 - [Launch hn post](https://news.ycombinator.com/item?id=29176158)
 
+## Code
+- [[Dendron Plugin Architecture|dendron://dendron.docs/pkg.plugin-core.arch]]
+
 ## Interviews
 - [Ness Lab Interview - Redefining knowledge management](https://nesslabs.com/dendron-featured-tool)
 - [Kevin @ Dendron: How to Index 10,000 Notes](https://www.0011.one/posts/S3E10)
