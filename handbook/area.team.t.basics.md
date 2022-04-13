@@ -2,7 +2,7 @@
 id: mylqjwysyy8jwqiaicp89r9
 title: Team Basics
 desc: ''
-updated: 1646845431072
+updated: 1649891757239
 created: 1646675269553
 ---
 
@@ -22,6 +22,7 @@ Read these on your first day
 - [[Daily Journal|dendron://dendron.handbook/handbook.sop.daily-journal]]: how we do standup ^nwve3j7lztih
 - [[Discord|dendron://dendron.handbook/templates.people.onboarding.common#discord]]: how we communicate
 - [[Values|dendron://dendron.handbook/templates.people.onboarding.common#values]]: what we believe and how we make decisions
+- [[Daily Asyncs|dendron://dendron.handbook/area.team.sop.daily-asyncs]]: how we (don't) do meetings
 - [[Key Principles|dendron://dendron.handbook/handbook.company.key-principles]]: actionale heuristics we use to live up to our values
 - [[Commands|dendron://dendron.handbook/area.team.t.basics.ref.commands]]: Basic commands to be familiar with
 - [[Weekly Planning|dendron://dendron.handbook/handbook.sop.weekly-planning]]: our once a week planning session
