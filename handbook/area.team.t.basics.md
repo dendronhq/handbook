@@ -2,7 +2,7 @@
 id: mylqjwysyy8jwqiaicp89r9
 title: Team Basics
 desc: ''
-updated: 1649891757239
+updated: 1650324113321
 created: 1646675269553
 ---
 
@@ -11,9 +11,11 @@ created: 1646675269553
 A collection of resources that you should be familiar with when using Dendron in a team setting
 
 ## Prerequisites
-- basic understanding of how git works. see the following if not familiar
-    - [About Git - GitHub Docs](https://docs.github.com/en/get-started/using-git/about-git)
-    - [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+- basic understanding of the following
+    - [[Markdown|dendron://dendron.dendron-site/dendron.concepts.markdown]]
+    - [[Git|dendron://dendron.dendron-site/dendron.concepts.git]]
+    - [[Vscode|dendron://dendron.dendron-site/dendron.concepts.vscode]]
+    - Other concepts in [[Concepts|dendron://dendron.dendron-site/dendron.concepts]]
 - gone through the initial [[onboarding|dendron://dendron.handbook/handbook.people.onboarding#prerequisites]]
 
 ## Start Here
@@ -30,20 +32,24 @@ Read these on your first day
 
 ## [[Standard Operating Procedures|dendron://dendron.handbook/handbook.concepts#standard-operating-procedure]]
 
-Read these during the course of the week
+Read these during the course of the first week
 
 - Task Management
     - [[Todos|dendron://dendron.handbook/handbook.sop.todos]]: how we track tasks to be done
     - [[Weekly Journal|dendron://dendron.handbook/handbook.sop.weekly-journal]]: how we track "sprints"
+    - [[Getting Things Done (GTD), Bullet Journaling, and Other Task Management Workflow Demos with Dendron|dendron://dendron.dendron-site/community.events.greenhouse.2022-02-25-gtd-bullet-journals-task-management-workflow-demos]]
 
 - Meetings
     - [[Async Meetings|dendron://dendron.handbook/handbook.sop.async-meetings]]: how we run meetings
     - [[One on One|dendron://dendron.handbook/handbook.sop.one-on-one]]: how we conduct one on ones
 
-- Situation Specific
-    - [[Getting help for development|dendron://dendron.handbook/handbook.sop.dev-help]]
-    - [[Oncall|dendron://private/area.team.sop.oncall]]
-
 - Role Specific
-    - [[Content|dendron://private/area.community.t.content]]
-    - [[Development|dendron://dendron.docs/dev.process]]
+    - Developers:
+        - [[Development|dendron://dendron.docs/dev.process]]
+        - [[Getting help for development|dendron://dendron.handbook/handbook.sop.dev-help]]
+
+## Second Week 
+- Get caught up in Dendron features
+    - read through everything in [[Trail|dendron://dendron.dendron-site/dendron.tutorial.conclusion#trail]] (should take ~1h to get through)
+    - watch user videos
+        - [[Bryan Jenks Video|dendron://dendron.handbook/ext.youtube.video.bryan-jenks-video]]
