@@ -13,4 +13,7 @@ schemas:
             children:
               - pattern: "*"
                 title: "resource"
+                children:
+                - pattern: "*"
+                  title: "resource"
 

@@ -2,7 +2,7 @@
 id: j60zga2igujjmzri96mr8q5
 title: External Resource
 desc: ''
-updated: 1647744424115
+updated: 1650308700046
 created: 1647744424115
 ---
 
@@ -14,7 +14,9 @@ The [[ext]] hierarchy contains [[Proxy Notes|dendron://dendron.docs/rfc.38-links
 ## Schema
 See [[seeds/dendron.handbook/handbook/ext.schema.yml]]
 
-A resource is in `ext.{service}.{category}.{resource}`
+A resource category is described by: `ext.{service}.{category}`
+A resource is described using the following path: `ext.{service}.{category}.{resource}`
+Resources with subresources are described as follows: `ext.{service}.{category}.{resource}.{subresource}`
 
 - Example: [[Dendron Discord Server|dendron://private/ext.discord.server.dendron]]
 
