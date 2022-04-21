@@ -20,7 +20,7 @@ These are the main entry points into various verticals within the Dendron organi
 ## External
 - [[Product|dendron://private/area.product]]
 - [[Community|dendron://private/area.community]]
-- [[Growth|dendron://dendron.handbook/area.growth]]
+- [[Growth|dendron://private/area.growth]]
 
 ## Internal
 - [[Team|dendron://dendron.handbook/area.team]]

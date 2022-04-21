@@ -2,14 +2,15 @@
 id: bngxhs53MhOPDm7qS1mSB
 title: Team
 desc: ''
-updated: 1646001482985
+updated: 1650553551049
 created: 1635885981120
 ---
 
 ## Summary
 
 Starting point for team 
-## Getting Started
+
+## Quickstart
 
 See [[Team Basics|area.team.t.basics]] to get started
 

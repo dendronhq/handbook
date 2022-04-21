@@ -1,14 +1,14 @@
 ---
 id: qsDq5jZVM0NqEmj7L2VgR
 title: Weekly Release Notes
-desc: ''
-updated: 1647989736898
+desc: 'How to do release notes.'
+updated: 1650553771636
 created: 1635724125776
 ---
 
 ## Summary
-<!-- What is this SOP about -->
-How to do release notes.
+
+{{fm.desc}}
 
 ## Details
 
@@ -25,6 +25,8 @@ The release notes also serve as the content submitted to subscribers of the Dend
 ## Steps
 
 ### Before the release
+- due: 23:00 UTC Monday
+
 1. this will be a PR, so make sure your local `dev` branch is updated before creating a new branch related to the release
   - Recommended new branch naming scheme: `release-<version>` (ex. `release-083`)
 1. update the changelog, see [[Changelog Update|dendron://dendron.handbook/area.product.sop.changelog-update]]
