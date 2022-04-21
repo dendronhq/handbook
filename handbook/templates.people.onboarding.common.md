@@ -2,7 +2,7 @@
 id: CvDHcHlyKCC6h4ItFUnLF
 title: Common
 desc: ''
-updated: 1642133375560
+updated: 1650556290573
 created: 1642132151772
 ---
 
@@ -24,6 +24,7 @@ This is how we do standups at Dendron
 - [ ] Make sure you have access to the `#dendron-team` channel and post an intro.
    1. We love to hear more, such as where you were before, family/pets, and hobbies.
    1. We also enjoy pictures if you're willing to share. Consider giving your new team members a glimpse into your world (scroll through previous messages in the channel for inspiration).
+- [ ] Read [[Discord Etiquette|dendron://dendron.handbook/area.team.sop.discord-etiquette]]
 
 ### Initial Tasks
 
