@@ -2,7 +2,7 @@
 id: 03yxrn5tz5hhe1v0rhdzoch
 title: Content Blog Post
 desc: ''
-updated: 1650323161943
+updated: 1651529049429
 created: 1650322474291
 ---
 
@@ -14,6 +14,7 @@ Add a new blog post
 ## Steps
 ### Posting
 1. Create a new blog note at `blog.{YEAR}.{date-separated-by-dash}-{title}` inside of [[Blog|dendron://dendron.blog/blog]]
+    - NOTE: the auto-generated title will include the date in the note title, be sure to remove it 
 1. Apply [[Blog Post Template|dendron://dendron.blog/blog.temp.post]]
     - fill out relevant frontmatter
 1. Submit for PR
