@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1651787346948
+updated: 1651787367656
 created: 1630621137161
 ---
 
@@ -120,7 +120,7 @@ When you do something novel that might need to be repeated again in the future, 
 - [[Code Utilities and how to find them|dendron://dendron.docs/dev.process.code.utilities]]
 
 ### Be Early
-
+<!-- - Source: [[Be Early|dendron://private/scratch.2022.05.02.130043.be-early]] -->
 - Values:
     - [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
     - [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]

@@ -2,9 +2,8 @@
 id: c0r6DWkOeVPp3CCTZp38v
 title: Sop
 desc: ''
-updated: 1650555823870
+updated: 1651788093811
 created: 1635885989955
-stub: true
 ---
 
 
@@ -32,6 +31,8 @@ stub: true
 - [[Pairing Sessions|dendron://dendron.handbook/area.team.sop.pairing-sessions]]
 - [[area.team.sop.discord-etiquette]]
 
+## Other
+- connect to codespaces: see [[dendron://private/user.kevin.journal.2022.05.02.m.joshi]]
 
 ---
 
