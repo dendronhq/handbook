@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1646780681652
+updated: 1651787346948
 created: 1630621137161
 ---
 
@@ -118,3 +118,16 @@ When you do something novel that might need to be repeated again in the future, 
 #### Examples
 - [[Close Loop on breaking developer changes|dendron://dendron.docs/dev.process.close-loop]]
 - [[Code Utilities and how to find them|dendron://dendron.docs/dev.process.code.utilities]]
+
+### Be Early
+
+- Values:
+    - [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
+    - [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
+    - [[Iterate|dendron://dendron.handbook/handbook.company.values#iterate]]
+
+Being early means pro-actively preparing for things instead of reacting. Instead of rushing to things at the last minute, allowing space for things to go wrong.
+
+#### Examples
+- showing up 3min early for a meeting
+- leaving comments on meeting notes ahead of a meet
