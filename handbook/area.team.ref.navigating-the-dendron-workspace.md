@@ -2,7 +2,7 @@
 id: ct9ix92bn8bbqvtd3ejinum
 title: Navigating the Dendron Workspace
 desc: ''
-updated: 1647362189412
+updated: 1651949543813
 created: 1647362189412
 documentId: 1Au21odo1s0dtfHFaPpV1rPT8C-8H4I07_tOw28GJixs
 revisionId: >-
@@ -11,9 +11,6 @@ revisionId: >-
 
 ## Summary
 How to navigate the Dendron workspace
-
-## Context
-The Dendron workspace is immense and contains over 10k notes (and growing). This reference is a guide on how things are organized
 
 ## Start Here
 
@@ -27,8 +24,18 @@ There are a few primary hiearchies in the Dendron workspace:
 ### For team use
 - [[Weekly|dendron://dendron.handbook/weekly]]: Sprint planning
 
-### For personal use
+### For individual use
 - [[User|dendron://dendron.handbook/user]]: The user hierarchy is how individual team members record what they are working on
+
+## Vaults
+
+The team workspace has the following vaults:
+- Public:
+  - [[Handbook|dendron://dendron.handbook/ext.github.repo.handbook]]: How Dendron operates as an organization
+  - [[Docs|dendron://dendron.handbook/ext.github.repo.docs]]: Dendron Developer Docs
+  - [[Wiki|dendron://dendron.handbook/ext.github.repo.wiki]]: The Dendron User Wiki
+- Internal:
+  - [[Private|dendron://private/ext.github.repo.private]]: Primary team vault
 
 ## Common Children
 
