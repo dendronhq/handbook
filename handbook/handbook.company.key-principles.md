@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1651787367656
+updated: 1652202352462
 created: 1630621137161
 ---
 
@@ -106,14 +106,21 @@ The best way to approach this principle is as one would a rainbow - as a directi
 - have tests
 - look over common [[Customer Support|dendron://private/area.community.sop.customer-support]] issues for the feature and find code fixes for persistent issues
 
-### Avoid One Offs
+### Don't Rely on Good Intentions
 
 - Values
     * [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
     * [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
     * [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
 
-When you do something novel that might need to be repeated again in the future, make sure to [[document|dendron://dendron.handbook/handbook.company.key-principles#document-first]] and [[communicate|dendron://dendron.handbook/handbook.company.key-principles#over-communicate]] the process. 
+We don't want to rely on people's good intentions for the successful execution of a feature or process.  This isn't to say people don't have good intentions but rather that we all make mistakes and the best system is one that makes those mistakes impossible (eg. a statically typed language doesn't rely on humans to get types correct). 
+
+- To effect this, we want the following (in order of least desirable to most desirable, improved upon iteratively as a process becomes more critical):
+  - One off process -> SOP -> Executable Script -> Pipeline Automation
+
+#### Examples
+- making sure that next steps are captured in the daily journal vs simply verbally acknowledged
+- writing sops for processes that might need repeating and turning those sops into executable scripts if they become too complicated
 
 #### Examples
 - [[Close Loop on breaking developer changes|dendron://dendron.docs/dev.process.close-loop]]
