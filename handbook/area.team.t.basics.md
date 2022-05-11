@@ -2,7 +2,7 @@
 id: mylqjwysyy8jwqiaicp89r9
 title: Team Basics
 desc: ''
-updated: 1650324113321
+updated: 1652307769670
 created: 1646675269553
 ---
 
@@ -47,6 +47,8 @@ Read these during the course of the first week
     - Developers:
         - [[Development|dendron://dendron.docs/dev.process]]
         - [[Getting help for development|dendron://dendron.handbook/handbook.sop.dev-help]]
+    - Non-Developers:
+        - [[Submit a Pull Request (Easy Mode)|dendron://dendron.handbook/area.team.sop.submit-a-pull-request-easy]]
 
 ## Second Week 
 - Get caught up in Dendron features
