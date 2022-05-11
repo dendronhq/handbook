@@ -2,7 +2,7 @@
 id: o7i52oeoih1fwsoos43dv6h
 title: Submit a Pull Request (Easy Mode)
 desc: 'Simplified pull request flow'
-updated: 1652307727346
+updated: 1652309091898
 created: 1652307349535
 ---
 
@@ -12,7 +12,7 @@ created: 1652307349535
 
 ## Prerequisites
 
-If you are new to git, see [New to Git - GitKraken Client Documentation](https://support.gitkraken.com/start-here/guide/) for a primer on git
+If you are new to git, see [[Git|dendron://dendron.dendron-site/dendron.concepts.git]]
 
 ## Quickstart
 1. Install the github client > https://desktop.github.com/

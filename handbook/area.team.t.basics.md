@@ -2,7 +2,7 @@
 id: mylqjwysyy8jwqiaicp89r9
 title: Team Basics
 desc: ''
-updated: 1652307769670
+updated: 1652309194873
 created: 1646675269553
 ---
 
@@ -15,11 +15,10 @@ A collection of resources that you should be familiar with when using Dendron in
     - [[Markdown|dendron://dendron.dendron-site/dendron.concepts.markdown]]
     - [[Git|dendron://dendron.dendron-site/dendron.concepts.git]]
     - [[Vscode|dendron://dendron.dendron-site/dendron.concepts.vscode]]
-    - Other concepts in [[Concepts|dendron://dendron.dendron-site/dendron.concepts]]
-- gone through the initial [[onboarding|dendron://dendron.handbook/handbook.people.onboarding#prerequisites]]
+- gone through the initial [[Onboarding|dendron://dendron.handbook/handbook.people.onboarding]]
 
 ## Start Here
-Read these on your first day
+Read these on your first day (~30min reading time)
 
 - [[Daily Journal|dendron://dendron.handbook/handbook.sop.daily-journal]]: how we do standup ^nwve3j7lztih
 - [[Discord|dendron://dendron.handbook/templates.people.onboarding.common#discord]]: how we communicate
@@ -32,7 +31,7 @@ Read these on your first day
 
 ## [[Standard Operating Procedures|dendron://dendron.handbook/handbook.concepts#standard-operating-procedure]]
 
-Read these during the course of the first week
+Read these during the course of the first week or when the need comes up
 
 - Task Management
     - [[Todos|dendron://dendron.handbook/handbook.sop.todos]]: how we track tasks to be done
