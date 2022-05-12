@@ -24,8 +24,9 @@ workspace:
     dendronVersion: 0.86.3
     vaults:
         -
-            fsPath: handbook
+            fsPath: .
             name: dendron.handbook
+            selfContained: true
     journal:
         dailyDomain: daily
         name: journal
