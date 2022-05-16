@@ -2,14 +2,17 @@
 id: zux5y28amzhl8zt1d4iuumh
 title: First Week
 desc: 'Things to do in your first week at Dendron'
-updated: 1652313814049
+updated: 1652738709317
 created: 1652313321375
 published: false
 ---
 
 ## Summary
-
+{{fm.desc}}
 ## Prerequisites
+
+- [ ] Start a note (user.<alias>.onboarding-friction) to document any friction you encounter while working through this checklist.  At the end of two weeks, [[submit a pull request| area.team.sop.submit-a-pull-request-easy]] for any changes you have that will make things easier for the next person going through onboarding. 
+
 
 ## Day Two
 
@@ -29,9 +32,14 @@ published: false
       [Twitter](https://twitter.com/dendronhq),
       [YouTube](https://www.youtube.com/channel/UC8GQLj4KZhN8WcJPiKXtcRQ).
 - [ ] Familiarize yourself with our [[expense report process|dendron.sop.expensing]] and bookmark the [link](https://airtable.com/shrtJd0sitnY6Bfre) to expensing stuff.
+- [ ] Create and add your own [[user readme|templates.user-readme]]. This goes in `user.{{ALIAS}}`. This may take time to write, feel free to iterate on it over the course of the week. 
+- [ ] Add yourself to *user.schema.yml* (CMD+SHIFT+L, then "user"). Add your alias under schemas>children as well as adding a template for your daily journal. Ask for help if you need it, this can be a little tricky! 
+
+
 
 ## Day Four
 - [ ] Set a reminder for 14 days past your start date to complete the [Onboarding Survey](https://airtable.com/shrcILcL6cm6lpCZt). We're actively trying to improve this process so please be proactive in reporting issues (or fixing them).
+- [ ] Install [rpass](https://chrome.google.com/webstore/detail/rpass/mobhfbcgjoleoljhpkkdhopdiemlocka). We use it to store shared credentials. 
 
 ## Examples
 
