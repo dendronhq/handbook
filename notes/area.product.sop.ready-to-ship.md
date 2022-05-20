@@ -2,7 +2,7 @@
 id: qcX1EYCDe3Z2S8xDFfOkT
 title: Ready to Ship
 desc: ''
-updated: 1653066076992
+updated: 1653067465062
 created: 1636474044281
 ---
 
@@ -18,6 +18,7 @@ How to add an entry to [[Ready to Ship|dendron://private/weekly.temp.team-journa
 1. Ensure that the correct type [^type] and scope [^scope] are assigned
 1. Add the alias of the alias of the user. 
 1. If the change affects user behavior, add `([[docs|{link-to-docs}]])` at the end of the message
+1. Sync your workspace (it is likely that multiple people are editing this doc)
 
 ## Examples
 
