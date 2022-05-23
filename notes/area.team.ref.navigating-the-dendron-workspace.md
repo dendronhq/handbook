@@ -2,7 +2,7 @@
 id: ct9ix92bn8bbqvtd3ejinum
 title: Navigating the Dendron Workspace
 desc: ''
-updated: 1651949543813
+updated: 1651949726421
 created: 1647362189412
 documentId: 1Au21odo1s0dtfHFaPpV1rPT8C-8H4I07_tOw28GJixs
 revisionId: >-
@@ -36,6 +36,7 @@ The team workspace has the following vaults:
   - [[Wiki|dendron://dendron.handbook/ext.github.repo.wiki]]: The Dendron User Wiki
 - Internal:
   - [[Private|dendron://private/ext.github.repo.private]]: Primary team vault
+  - [[Incubator|dendron://private/ext.github.repo.incubator]]: For team members that are trialing with Dendron
 
 ## Common Children
 

@@ -2,7 +2,7 @@
 id: euhmlM2v57OZoWIl9CQ67
 title: Issue Management
 desc: ''
-updated: 1642373756706
+updated: 1652735582130
 created: 1639779529417
 ---
 
@@ -48,8 +48,8 @@ This will move the task to the [[Team Backlog View|s.airtable.ref.base.tasks.tas
 - NOTE: if you're still interested in doing the task but don't have time to do it soon, set the [[due|dendron://private/task.temp.ref#due]] date to be 2 months from today and it will also show up in the backlog view to indicate that others are free to work on this 
 
 ### Cleaning up tasks after a sprint
-- NOTE: the old sprint complets and the next sprint starts on [[Tuesdays 9PM UTC every week|dendron://private/dendron.ref.calendars#^EN8PYxT1NkFQ]]
-1. If the task has been completed, delete the sprint key front the note
+- NOTE: the old sprint completes and the next sprint starts on [[Tuesdays 9PM UTC every week|dendron://private/dendron.ref.calendars#^EN8PYxT1NkFQ]]
+1. If the task has been completed, delete the sprint key from the note
 1. Go to airtable and delete the sprint key 
 1. All tasks that are tagged #sprint.next should now be switched to #sprint.active
 

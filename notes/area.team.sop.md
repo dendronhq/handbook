@@ -2,10 +2,12 @@
 id: c0r6DWkOeVPp3CCTZp38v
 title: Sop
 desc: ''
-updated: 1651788093811
+updated: 1652309272021
 created: 1635885989955
 ---
 
+
+## Onboarding
 
 ## Planning
 - Weekly
@@ -16,16 +18,17 @@ created: 1635885989955
     - [[area.team.sop.daily-asyncs]]
 
 ### Issues 
-- See [[Projects and Issues SOPs|dendron://dendron.handbook/area.team.t.projects-and-issues#sops]]
+- [[Projects and Issues SOPs|dendron://dendron.handbook/area.team.t.projects-and-issues#sops]]
 
 ## Oncall
 - [[Oncall|dendron://private/area.team.sop.oncall]]
 - [[Community Issue Management|dendron://private/area.team.sop.community-issue-management]]
 
 ## Internal
-- [[area.team.sop.setting-up-org-workspace]]
 - [[area.team.sop.updating-org-workspace]]
-- [[Add Additional Vaults|dendron://dendron.handbook/area.team.sop.add-additional-vaults]]
+- [[Use Personal Vault Alongside Team Vaults|dendron://dendron.handbook/area.team.sop.use-personal-vault-alongside-team-vaults]]
+- [[Submit a Pull Request (Easy Mode)|dendron://dendron.handbook/area.team.sop.submit-a-pull-request-easy]]
+- [[Onboarding|dendron://dendron.handbook/area.team.sop.onboarding]]
 
 ## Team Work
 - [[Pairing Sessions|dendron://dendron.handbook/area.team.sop.pairing-sessions]]
