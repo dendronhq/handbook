@@ -10,4 +10,4 @@ Ready to ship is a section in the weekly journal that shows everything that will
 It is a [[section|dendron://private/weekly.temp.team-journal#ready-to-ship]] of the [[Weekly Journal (Team)|dendron://dendron.handbook/area.product.concepts.weekly-journal-team]] template.
 
 ## Lookup
-- [[Ready to Ship SOP|dendron://dendron.handbook/area.product.sop.ready-to-ship]]
+- [[Ready to Ship SOP|dendron://private/area.product.sop.ready-to-ship]]

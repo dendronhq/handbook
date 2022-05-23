@@ -2,7 +2,7 @@
 id: 8WUmaO3iJDB9UNUGuL9ND
 title: Common Links
 desc: 'Links that we commonly give out'
-updated: 1653082971699
+updated: 1647476191079
 created: 1625707230018
 ---
 
@@ -53,4 +53,4 @@ created: 1625707230018
 - Publishing
     - [Netlify](https://wiki.dendron.so/notes/yetuum6o9wZi6eVJQBbQb.html)
 - Mobile
-    - [[Best Mobile Note-Taking Apps for Markdown|dendron://dendron.blog/blog.2021.2021-10-25-markdown-on-mobile]]
+    - [Dendron Mobile Clients](https://wiki.dendron.so/notes/fDCVPEo3guCFWPdxokXHU.html)

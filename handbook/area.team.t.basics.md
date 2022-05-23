@@ -2,7 +2,7 @@
 id: mylqjwysyy8jwqiaicp89r9
 title: Team Basics
 desc: ''
-updated: 1652309194873
+updated: 1650324113321
 created: 1646675269553
 ---
 
@@ -15,10 +15,11 @@ A collection of resources that you should be familiar with when using Dendron in
     - [[Markdown|dendron://dendron.dendron-site/dendron.concepts.markdown]]
     - [[Git|dendron://dendron.dendron-site/dendron.concepts.git]]
     - [[Vscode|dendron://dendron.dendron-site/dendron.concepts.vscode]]
-- gone through the initial [[Onboarding|dendron://dendron.handbook/handbook.people.onboarding]]
+    - Other concepts in [[Concepts|dendron://dendron.dendron-site/dendron.concepts]]
+- gone through the initial [[onboarding|dendron://dendron.handbook/handbook.people.onboarding#prerequisites]]
 
 ## Start Here
-Read these on your first day (~30min reading time)
+Read these on your first day
 
 - [[Daily Journal|dendron://dendron.handbook/handbook.sop.daily-journal]]: how we do standup ^nwve3j7lztih
 - [[Discord|dendron://dendron.handbook/templates.people.onboarding.common#discord]]: how we communicate
@@ -31,7 +32,7 @@ Read these on your first day (~30min reading time)
 
 ## [[Standard Operating Procedures|dendron://dendron.handbook/handbook.concepts#standard-operating-procedure]]
 
-Read these during the course of the first week or when the need comes up
+Read these during the course of the first week
 
 - Task Management
     - [[Todos|dendron://dendron.handbook/handbook.sop.todos]]: how we track tasks to be done
@@ -46,8 +47,6 @@ Read these during the course of the first week or when the need comes up
     - Developers:
         - [[Development|dendron://dendron.docs/dev.process]]
         - [[Getting help for development|dendron://dendron.handbook/handbook.sop.dev-help]]
-    - Non-Developers:
-        - [[Submit a Pull Request (Easy Mode)|dendron://dendron.handbook/area.team.sop.submit-a-pull-request-easy]]
 
 ## Second Week 
 - Get caught up in Dendron features
