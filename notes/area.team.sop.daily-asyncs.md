@@ -2,7 +2,7 @@
 id: 5Jgi3mnbKHzTBNW4nVzJb
 title: Daily Asyncs
 desc: ''
-updated: 1649812955352
+updated: 1652738296780
 created: 1640911424474
 documentId: 1Nug8iNj716m3GsTTMy5M-bVi5wjCL1uCzEdgB-__hIU
 revisionId: >-
@@ -15,7 +15,7 @@ Daily Asyncs are where all asyncs are posted. Think of it as a company wide [bus
 
 ## Context
 
-Its easy to lose messages in discord, especially announcements. Daily asyncs this gives us one source of truth for all team wide announcements
+Its easy to lose messages in discord, especially announcements. Daily asyncs give us one source of truth for all team wide announcements
 
 ## Steps
 
@@ -32,6 +32,10 @@ Its easy to lose messages in discord, especially announcements. Daily asyncs thi
 ### Archiving
 1. The daily meeting notes for a given day will be imported into the `meet.daily.{date}` hierarchy every week on Wednesday. 
     - NOTE: on Thursday, notes from previous Wednesday to this week Tuesday midnight will be imported and then erased from the google doc
+
+### Browsing old asyncs
+
+All asyncs are stored under [[Async|dendron://private/meet.async]]
 
 ## Reference
 - [[Daily Async GDoc|dendron://private/ext.gdoc.main.daily-async]]
