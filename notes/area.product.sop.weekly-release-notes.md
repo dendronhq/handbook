@@ -2,7 +2,7 @@
 id: qsDq5jZVM0NqEmj7L2VgR
 title: Weekly Release Notes
 desc: 'How to do release notes.'
-updated: 1650553771636
+updated: 1653415390351
 created: 1635724125776
 ---
 
@@ -27,10 +27,10 @@ The release notes also serve as the content submitted to subscribers of the Dend
 ### Before the release
 - due: 23:00 UTC Monday
 
-1. this will be a PR, so make sure your local `dev` branch is updated before creating a new branch related to the release
-  - Recommended new branch naming scheme: `release-<version>` (ex. `release-083`)
-1. update the changelog, see [[Changelog Update|dendron://dendron.handbook/area.product.sop.changelog-update]]
-1. create a new release under `changelog.release.{date-with-dashes}`
+1. Run `workspace sync` in your local `dev` branch for `dendron-site` vault
+1. Create a new release branch with format `release/<version>` (eg. `release/083`)
+1. Update the changelog > [[Changelog Update|dendron://dendron.handbook/area.product.sop.changelog-update]]
+1. Create a new release under `changelog.release.{date-with-dashes}`
     - NOTE: date should line up with the tuesday of the coming week and should be created in `dendron-site`
         - a template will fill after you create the note
     - eg. [[0.84|dendron://dendron.dendron-site/changelog.release.2022-03-01]]
@@ -74,6 +74,7 @@ The release notes also serve as the content submitted to subscribers of the Dend
 1. use markdown export pod to copy to clipboard on release notes (ensure wikilinkToUrl is true)
 
 1. create release notes under `area.product.release.{date}.notes`
+    - NOTE: loom video embed links will not render in discord, use a regular loom link instead (eg. https://www.loom.com/share/c6e8e75605d5416a9a8aa67465a6df17)
     - Add `@everyone` to the top
     - to create release notes, copy everything above `## Community`
     - This should include:
@@ -138,6 +139,7 @@ The release notes also serve as the content submitted to subscribers of the Dend
 
       https://wiki.dendron.so/notes/qcwfzax4uaqj54evgp8li5y/
       ```
+1. Release the newsletter updates via [[Weekly Newsletter|dendron://dendron.handbook/area.growth.sop.weekly-newsletter]]
 
 ## Checklist
 ![[dendron://dendron.handbook/area.product.sop.weekly-release-notes.checklist]]
