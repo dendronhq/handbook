@@ -26,7 +26,7 @@ created: 1635885989955
 
 ## Internal
 - [[area.team.sop.updating-org-workspace]]
-- [[Add Additional Vaults|dendron://dendron.handbook/area.team.sop.add-additional-vaults]]
+- [[Use Personal Vault Alongside Team Vaults|dendron://dendron.handbook/area.team.sop.use-personal-vault-alongside-team-vaults]]
 - [[Submit a Pull Request (Easy Mode)|dendron://dendron.handbook/area.team.sop.submit-a-pull-request-easy]]
 - [[Onboarding|dendron://dendron.handbook/area.team.sop.onboarding]]
 

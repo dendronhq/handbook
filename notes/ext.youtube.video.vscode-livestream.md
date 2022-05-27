@@ -2,9 +2,9 @@
 id: v5qu3atb8fhkrzv9faj39yr
 title: Vscode Livestream
 desc: '2021 Livestream about Dendron and VSCode'
-updated: 1650292944367
+updated: 1653082836214
 created: 1648247871370
-url: https://youtu.be/dW6m4_O0qvQ
+uri: https://youtu.be/dW6m4_O0qvQ
 ---
 
 ## Segments
