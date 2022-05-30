@@ -1,10 +1,15 @@
 ---
 id: c6b422a5-204a-41dd-8e47-f0b736160790
-title: Onboarding
+title: -DEPRECATED- Onboarding
 desc: ''
-updated: 1642132790810
+updated: 1653683425594
 created: 1620248731246
 ---
+
+## NOTE DEPRECATED
+
+Use [[dendron://dendron.handbook/area.team.sop.onboarding.first-week]] instead. 
+
 ## Welcome to Dendron!
 
 We are so excited you’re here and look forward to setting you up for remote-first success as your journey begins. You can work through the tasks over the course of your first 30 days. If any task doesn't make sense, please reach out to the team on discord in `#dendron-team`. 
