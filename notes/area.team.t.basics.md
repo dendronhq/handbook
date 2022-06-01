@@ -2,7 +2,7 @@
 id: mylqjwysyy8jwqiaicp89r9
 title: Team Basics
 desc: ''
-updated: 1652309194873
+updated: 1654109353753
 created: 1646675269553
 ---
 
@@ -28,6 +28,7 @@ Read these on your first day (~30min reading time)
 - [[Commands|dendron://dendron.handbook/area.team.t.basics.ref.commands]]: Basic commands to be familiar with
 - [[Weekly Planning|dendron://dendron.handbook/handbook.sop.weekly-planning]]: our once a week planning session
 - [[Navigating the Dendron Workspace|dendron://dendron.handbook/area.team.ref.navigating-the-dendron-workspace]]: understand how our workspace is laid out
+- [[Updating Content in the Dendron Workspace|dendron://dendron.handbook/area.docs.sop.updating-content]]: How to update content inside the team workspace
 
 ## [[Standard Operating Procedures|dendron://dendron.handbook/handbook.concepts#standard-operating-procedure]]
 
