@@ -90,6 +90,7 @@ publishing:
         - templates
         - schemas
         - area
+        - ext
     enableSiteLastModified: true
     siteRootDir: docs
     siteUrl: https://handbook.dendron.so
