@@ -2,7 +2,7 @@
 id: 0ZkUPAEntJITSKNy89oMj
 title: Reading Series
 desc: ''
-updated: 1654178697875
+updated: 1654182510758
 created: 1634078840994
 ---
 
@@ -39,7 +39,10 @@ The [[Dendron Reading Series|dendron://dendron.dendron-site/community.events.rea
 1. Divide up the comments. Make sure the link to the reading series shows up in the first tweet
   - NOTE: you might have to editorialize the reading series to make this work
   - eg: https://twitter.com/dendronhq/status/1529497364460752896
-1. Is applicable, tag the original author of the article as part of the tweet
+1. Is applicable, tag the original author/publisher/users mentioned as part of the tweet
+1. Remove any first person references from the post. If a paragraph exceeds the word count, editorialize/trim it
+
+Example workflow: https://www.loom.com/share/a2624c312a4f47c59d9e37ea4b934128
 
 
 <!-- Templates -->
