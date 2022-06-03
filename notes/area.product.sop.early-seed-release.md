@@ -2,7 +2,7 @@
 id: 27fd4443-58b5-4fdc-a1ca-1aa4ca9f8397
 title: Early Seed Release
 desc: ''
-updated: 1654270586535
+updated: 1654270726284
 created: 1623344680534
 ---
 
@@ -20,7 +20,7 @@ These are pre-release versions of Dendron extensions made available to [[Environ
 ### Code
 
 #### Before the release
-- when: ![[Early Release Schedule|dendron://dendron.handbook/area.team.ref.schedules.release#^wn7tmq6vr46b]]
+- when: ![[Release Seed Verification|dendron://dendron.handbook/area.team.ref.schedules.release#^xs398u7gfkgr]]
 
 1. Go to [[Create Release Image|dendron://dendron.handbook/s.github.ref.actions#create-release-image]] github actions and view the latest pipeline run. See [[Pipelines for General Release|dendron://dendron.docs/dev.build.automation#pipelines-for-general-release]] for more info.
 1. Check that features in [[Ready to Ship|dendron://dendron.handbook/area.product.concepts.ready-to-ship]] are accurate. 

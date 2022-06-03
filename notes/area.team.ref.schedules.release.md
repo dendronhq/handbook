@@ -2,7 +2,7 @@
 id: D6twPIFN2ZInprHLKQmuD
 title: Release
 desc: ''
-updated: 1654270539452
+updated: 1654270717031
 created: 1641342763960
 ---
 
@@ -24,7 +24,7 @@ Deployments:
 - release: Fridays, 16:00 UTC 
 
 Verification:
-- verification of early seed should be done by 6AM UTC Friday 
+- verification of early seed should be done by 6AM UTC Friday  ^xs398u7gfkgr
 
 Deployments:
 - same process and times as general release
