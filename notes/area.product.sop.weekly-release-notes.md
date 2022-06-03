@@ -2,7 +2,7 @@
 id: qsDq5jZVM0NqEmj7L2VgR
 title: Weekly Release Notes
 desc: 'How to do release notes.'
-updated: 1653415390351
+updated: 1654270001976
 created: 1635724125776
 ---
 
@@ -54,6 +54,7 @@ The release notes also serve as the content submitted to subscribers of the Dend
     - ex. `@kevin In-progress release/changelog PR: <PR Link>`
 
 ### Day of release
+- Video example: https://youtu.be/UTEHbTO5bnA?t=1597
 
 1. ping @john about transferring community highlights to the release notes
     - He needs to create the `weekly.journal.*.contributions` contributor highlights
