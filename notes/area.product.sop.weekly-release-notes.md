@@ -2,7 +2,7 @@
 id: qsDq5jZVM0NqEmj7L2VgR
 title: Weekly Release Notes
 desc: 'How to do release notes.'
-updated: 1654270001976
+updated: 1654351114718
 created: 1635724125776
 ---
 
@@ -21,6 +21,9 @@ Release notes are done with the General Release of Dendron that comes out each T
 - General announcements: Blog posts, videos, other events/resources of note, etc.
 
 The release notes also serve as the content submitted to subscribers of the Dendron Newsletter.
+
+## Example
+- Video tutorial here: https://www.youtube.com/watch?v=UTEHbTO5bnA
 
 ## Steps
 

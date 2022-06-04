@@ -2,12 +2,12 @@
 id: 8WUmaO3iJDB9UNUGuL9ND
 title: Common Links
 desc: 'Links that we commonly give out'
-updated: 1653082971699
+updated: 1653958931339
 created: 1625707230018
 ---
 
 ## Dendron Theory
-- [It's Not You - It's Your Knowledge Base - Kevin's Garden](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html)
+- [It's Not You - It's Your Knowledge Base](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html)
 - [A Hierarchy First Approach to Note Taking - Dendron Blog](https://blog.dendron.so/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64.html): goes over advantages of using Dendron's hierarchy first approach
 - [Dendron Inc - Dendron Blog](https://blog.dendron.so/notes/N9VxT7G5SovmncezBAGO2.html)
 - [Launch hn post](https://news.ycombinator.com/item?id=29176158)
@@ -47,7 +47,7 @@ created: 1625707230018
 - [vscode-reveal - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal)
 
 ## Common Issues
-- VSCodium is slow: known vscodium issue, see [Git extension is super slow since version 1.56.0 · Issue #718 · VSCodium/vscodium](https://github.com/VSCodium/vscodium/issues/718kjkk
+- VSCodium is slow: known vscodium issue, see [Git extension is super slow since version 1.56.0 · Issue #718 · VSCodium/vscodium](https://github.com/VSCodium/vscodium/issues/718
 
 ## Workflows
 - Publishing
