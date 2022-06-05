@@ -12,8 +12,8 @@ created: 1652308575925
 
 ## Steps
 1. Clone the Dendron workspace.
-    - If you are currently doing our trial, this will be [[Incubator|dendron://private/ext.github.repo.incubator]]
-    - Otherwise, this will be [[Org Workspace|dendron://dendron.handbook/ext.github.repo.org-workspace]]
+    - If you are currently doing our trial or internship, this will be ![[dendron://private/ext.github.repo.org-incubator]]
+    - Otherwise, this will be ![[Org Workspace|dendron://dendron.handbook/ext.github.repo.org-workspace]]
     ```
     git clone {WS_URL}
     ```
