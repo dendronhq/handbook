@@ -2,7 +2,7 @@
 id: ena8b3v2moieuo7qgatk2fu
 title: First Week Manager
 desc: Manager responsibilities in new hire first week
-updated: 1654453211892
+updated: 1654537019107
 created: 1649697554674
 ---
 
@@ -13,6 +13,8 @@ created: 1649697554674
 ## Steps
 
 ### Before the first day
+1. Make sure to move relevant projects and tasks to a vault the person can access
+    - This is often the `incubator` vault, talk to whoever set up permissions (likely @kevin) if you are not sure
 1. Send team member [[Onboarding|dendron://dendron.handbook/handbook.people.onboarding]] instructions
 
 ### First Day
