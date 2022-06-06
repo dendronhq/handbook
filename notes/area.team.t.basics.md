@@ -2,7 +2,7 @@
 id: mylqjwysyy8jwqiaicp89r9
 title: Team Basics
 desc: ''
-updated: 1654531091913
+updated: 1654531183006
 created: 1646675269553
 ---
 
@@ -42,6 +42,7 @@ Read these on your first day (~30min reading time)
 - keep your friction log up to date
 - if your lost in the workspace, start [[Navigating the Dendron Workspace|dendron://dendron.handbook/area.team.ref.navigating-the-dendron-workspace]] and don't be afraid to ask the team for help
 - [[Over Communicate|dendron://dendron.handbook/handbook.company.key-principles#over-communicate]] is a key principle, tell us when things are unclear
+- look over [[Getting Things Done (GTD), Bullet Journaling, and Other Task Management Workflow Demos with Dendron|dendron://dendron.dendron-site/community.events.greenhouse.2022-02-25-gtd-bullet-journals-task-management-workflow-demos]] once you're more familiar with Dendron - this gets you up to speed on keeping track of tasks
 
 ## [[Standard Operating Procedures|dendron://dendron.handbook/handbook.concepts#standard-operating-procedure]]
 

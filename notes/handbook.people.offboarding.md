@@ -2,7 +2,7 @@
 id: HXMc8qTz9fjSrZmF
 title: Offboarding Checklist
 desc: ''
-updated: 1654529175684
+updated: 1654535199091
 created: 1627472295773
 ---
 
@@ -14,6 +14,7 @@ created: 1627472295773
   - Links to documentation of any services that you owed
   - Next steps on any outstanding tasks 
 - [ ] After offboarding doc has been completed and verified by manager, delete all private dendron repositories from local computer. Send email confirmation to @kevin that this has been done
+- [ ] Schedule exist interview
 
 ## For managers
 - [ ] Offboard employee in Rippling and check that employee has been removed from gsuite unless there's a business reason to keep the email active (and forwarded to active inbox)
