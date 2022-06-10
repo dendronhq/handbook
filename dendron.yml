@@ -90,6 +90,7 @@ publishing:
         - templates
         - schemas
         - area
+        - leaflet
         - ext
     enableSiteLastModified: true
     siteRootDir: docs
