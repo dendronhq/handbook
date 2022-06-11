@@ -2,7 +2,7 @@
 id: rksmggt0kaoi2lapn88rx32
 title: Setup your Dendron Workspace
 desc: 'The Dendron workspace represents the shared organizational knowledge of our organization. It is managed using Dendron'
-updated: 1652308922078
+updated: 1654456803482
 created: 1652308575925
 ---
 
@@ -23,5 +23,6 @@ created: 1652308575925
     cd {workspace}
     code dendron.code-workspace
     ```
+    - NOTE: if you are having trouble setting this up, make sure that you have a [[ssh key|dendron://dendron.handbook/area.team.sop.onboarding.initial-setup#^bccdwxblcj2u]] associated with your github account
 1. Wait ~30s for your workspace to initialize. Dendron is initializing your workspace and downloading company documents at this point
     - NOTE: if this fails, make sure that you've setup your [[ssh key|dendron://dendron.handbook/area.team.sop.onboarding.initial-setup#^bccdwxblcj2u]]

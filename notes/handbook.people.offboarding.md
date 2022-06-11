@@ -2,7 +2,7 @@
 id: HXMc8qTz9fjSrZmF
 title: Offboarding Checklist
 desc: ''
-updated: 1654535199091
+updated: 1654656915515
 created: 1627472295773
 ---
 
@@ -21,6 +21,7 @@ created: 1627472295773
 - [ ] Run payroll for outstanding pay
 - [ ] Remove access from Discord. Check that employee is no longer in Dendron Team 
 - [ ] Schedule an exit interview
+- [ ] Transfer amplitude graph ownership
 
 ### After user end date
 - [ ] Remove user from gsuite (Rippling does not do this)
