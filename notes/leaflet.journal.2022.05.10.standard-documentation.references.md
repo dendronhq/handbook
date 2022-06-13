@@ -2,7 +2,7 @@
 id: eqaq8kybv2t7ko1e9xou37p
 title: References
 desc: ''
-updated: 1654884288376
+updated: 1655048882992
 created: 1654788092175
 ---
 
@@ -28,11 +28,11 @@ For the purposes of this note, a ref is anything that fits under `dendron.ref`. 
     - eg. [[nav_order|dendron://dendron.dendron-site/dendron.topic.sidebar.tree-view.config.nav_order]]
 - the config that is the direct child of a topic branch should have the index of all configuration for subcompoents as well as the topic
     - eg. `dendron.topic.sidebar.config`
-    ```
+    ```md
     ## Global
     <!-- This affects the topic directly (eg. sidebar configuration -->
 
-    ### fooC
+    ### Foo
     ![[dendron.topic.sidebar.config.foo]]
 
     ## Tree View
