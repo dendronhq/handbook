@@ -42,6 +42,7 @@ The release notes also serve as the content submitted to subscribers of the Dend
 1. Add to and update everything under `## Community`
       - See [[General Updates|dendron://private/weekly.temp.team-journal#general-updates]] from the weekly journal
         - [[Add Greenhouse to Release Notes|dendron://dendron.handbook/area.community.sop.greenhouse.sop.add-greenhouse-to-release-notes]] (if applicable - should be first week of month)
+        - [[Add Crop Updates to Release Notes|dendron://dendron.handbook/area.community.sop.crop.add-crop-updates-to-release-notes]] (if applicable)
         - Any other announcements
       - Starbord and TIL Highlights
       - Dendron Reading Series
