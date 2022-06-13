@@ -2,7 +2,7 @@
 id: qcX1EYCDe3Z2S8xDFfOkT
 title: Ready to Ship
 desc: ''
-updated: 1653067465062
+updated: 1655129585276
 created: 1636474044281
 ---
 
@@ -16,7 +16,7 @@ How to add an entry to [[Ready to Ship|dendron://private/weekly.temp.team-journa
 1. After a PR has been merged, add it to the correct triage area in the weekly [^ship]
 ![[dendron://dendron.handbook/area.product.sop.ready-to-ship.notice-release-schedule]]
 1. Ensure that the correct type [^type] and scope [^scope] are assigned
-1. Add the alias of the alias of the user. 
+1. Add the alias of the user. 
 1. If the change affects user behavior, add `([[docs|{link-to-docs}]])` at the end of the message
 1. Sync your workspace (it is likely that multiple people are editing this doc)
 
