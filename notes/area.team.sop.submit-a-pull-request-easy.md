@@ -2,7 +2,7 @@
 id: o7i52oeoih1fwsoos43dv6h
 title: Submit a Pull Request (Easy Mode)
 desc: 'Simplified pull request flow'
-updated: 1652309091898
+updated: 1654445724072
 created: 1652307349535
 ---
 
@@ -41,6 +41,9 @@ Video Example: https://www.loom.com/share/429f9cdfa7eb4b728b50e46983ea3e93
 1. Make changes and push to your branch
     - TIP: there's no need to create another pull request at this point
 
+## Merging changes from another branch
+See https://youtu.be/UTEHbTO5bnA
+
 ## Verify
 
 To make sure you're setup, submit a pull request to [[ext.github.repo.private]] with a new note `[[user.{username}.hello]]` and add @kevin as a PR reviewer
@@ -52,7 +55,3 @@ To make sure you're setup, submit a pull request to [[ext.github.repo.private]] 
 - [ ] submit pull request
 - [ ] add reviewers to your pull request
 - [ ] switch back to the main branch
-
-## Templates
-
-## Lookup

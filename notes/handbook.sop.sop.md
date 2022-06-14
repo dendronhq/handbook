@@ -2,7 +2,7 @@
 id: c9UtqSWj7tBL18hgOkjG5
 title: Sop
 desc: ''
-updated: 1624323594444
+updated: 1654029451313
 created: 1624213241116
 ---
 
@@ -16,6 +16,13 @@ This is the meta SOP (Standard Operating Procedures) for SOP.
 When a SOP is first created, make sure to send a pull request to the right audience (eg. usually either the team or the community at large). If a SOP is sent to the team, everyone should be listed as a reviewer. The SOP needs to have everyone approving it before it can be merged
 
 Do not just blindly accept the SOP. When you approve the SOP, it means that you have read it, understand the action items, and agree to implement them moving forward.
+
+Some criteria for a good sop:
+- WHEN should it be executed?
+- WHAT needs to be done?
+- WHO is responsible for doing it?
+
+SOPs should be linear and you should be able to follow it from beginning to end.
 
 ### Updating an existing SOP
 

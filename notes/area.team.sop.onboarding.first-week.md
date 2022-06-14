@@ -1,8 +1,8 @@
 ---
 id: zux5y28amzhl8zt1d4iuumh
 title: First Week
-desc: 'Things to do in your first week at Dendron'
-updated: 1652738709317
+desc: Things to do in your first week at Dendron
+updated: 1654468579815
 created: 1652313321375
 published: false
 ---

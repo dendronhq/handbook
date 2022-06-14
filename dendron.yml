@@ -84,12 +84,14 @@ publishing:
     enablePrettyRefs: true
     enableKatex: false
     copyAssets: true
-    logoPath: handbook/assets/images/logo.png
+    logoPath: notes/assets/images/logo.png
     siteHierarchies:
         - handbook
         - templates
         - schemas
         - area
+        - leaflet
+        - ext
     enableSiteLastModified: true
     siteRootDir: docs
     siteUrl: https://handbook.dendron.so

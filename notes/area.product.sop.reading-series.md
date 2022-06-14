@@ -2,7 +2,7 @@
 id: 0ZkUPAEntJITSKNy89oMj
 title: Reading Series
 desc: ''
-updated: 1646955656374
+updated: 1654182510758
 created: 1634078840994
 ---
 
@@ -31,6 +31,18 @@ The [[Dendron Reading Series|dendron://dendron.dendron-site/community.events.rea
 1. Add a note reference in the weekly release notes
     - eg: [[Dendron Reading Series|dendron://dendron.dendron-site/changelog.release.2022-03-01#dendron-reading-series]]
 1. Pin in on the #teatime channel using the reading series template[^1] ^IeMaLaK5zDKq
+
+## Tweet
+- when: do this 1 day after the reading series has been released
+
+1. On twitter, tweet about the reading series
+1. Divide up the comments. Make sure the link to the reading series shows up in the first tweet
+  - NOTE: you might have to editorialize the reading series to make this work
+  - eg: https://twitter.com/dendronhq/status/1529497364460752896
+1. Is applicable, tag the original author/publisher/users mentioned as part of the tweet
+1. Remove any first person references from the post. If a paragraph exceeds the word count, editorialize/trim it
+
+Example workflow: https://www.loom.com/share/a2624c312a4f47c59d9e37ea4b934128
 
 
 <!-- Templates -->

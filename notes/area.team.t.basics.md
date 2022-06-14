@@ -2,7 +2,7 @@
 id: mylqjwysyy8jwqiaicp89r9
 title: Team Basics
 desc: ''
-updated: 1652309194873
+updated: 1654531183006
 created: 1646675269553
 ---
 
@@ -28,6 +28,21 @@ Read these on your first day (~30min reading time)
 - [[Commands|dendron://dendron.handbook/area.team.t.basics.ref.commands]]: Basic commands to be familiar with
 - [[Weekly Planning|dendron://dendron.handbook/handbook.sop.weekly-planning]]: our once a week planning session
 - [[Navigating the Dendron Workspace|dendron://dendron.handbook/area.team.ref.navigating-the-dendron-workspace]]: understand how our workspace is laid out
+- [[Updating Content in the Dendron Workspace|dendron://dendron.handbook/area.docs.sop.updating-content]]: How to update content inside the team workspace
+
+## Gotchas
+- when looking at an exported dendron note, most links will be broken as they are pointing to something inside of the dendron workspace. if a link doesn't resolve, go to the doc (see gdoc title for doc name)
+- when you run workspace sync, sometimes new notes are not immediately indexed. check if a note is there by using `cmd+p/ctrl+p` instead
+
+## TIPS:
+- run `workspace sync` at the beginning of the day and at the end of the day to make sure your contents are up to date 
+  - what out for rebase issues. if you hit one, resolve by following steps in [[resolving merge conflicts|dendron://dendron.handbook/s.git.sop.merge-conflic]]
+- you can copy a wiki link (the `[[ ... ]]`) into Dendron's lookup prompt to navigate to it
+- daily journals, use it, add any discussion items you have there (reminder: journal entries for the next day are due at the end of the current day)
+- keep your friction log up to date
+- if your lost in the workspace, start [[Navigating the Dendron Workspace|dendron://dendron.handbook/area.team.ref.navigating-the-dendron-workspace]] and don't be afraid to ask the team for help
+- [[Over Communicate|dendron://dendron.handbook/handbook.company.key-principles#over-communicate]] is a key principle, tell us when things are unclear
+- look over [[Getting Things Done (GTD), Bullet Journaling, and Other Task Management Workflow Demos with Dendron|dendron://dendron.dendron-site/community.events.greenhouse.2022-02-25-gtd-bullet-journals-task-management-workflow-demos]] once you're more familiar with Dendron - this gets you up to speed on keeping track of tasks
 
 ## [[Standard Operating Procedures|dendron://dendron.handbook/handbook.concepts#standard-operating-procedure]]
 

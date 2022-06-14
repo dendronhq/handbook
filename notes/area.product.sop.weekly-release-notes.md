@@ -2,7 +2,7 @@
 id: qsDq5jZVM0NqEmj7L2VgR
 title: Weekly Release Notes
 desc: 'How to do release notes.'
-updated: 1653415390351
+updated: 1654620502393
 created: 1635724125776
 ---
 
@@ -22,6 +22,9 @@ Release notes are done with the General Release of Dendron that comes out each T
 
 The release notes also serve as the content submitted to subscribers of the Dendron Newsletter.
 
+## Example
+- Video tutorial here: https://www.youtube.com/watch?v=UTEHbTO5bnA
+
 ## Steps
 
 ### Before the release
@@ -37,6 +40,9 @@ The release notes also serve as the content submitted to subscribers of the Dend
     1. Fill out the highlights using [[Release Highlights|dendron://dendron.handbook/area.product.sop.release-highlights]]
 1. Fill our community highlights using [[Community Highlights|dendron://private/dendron.sop.release.community-highlights]]
 1. Add to and update everything under `## Community`
+      - See [[General Updates|dendron://private/weekly.temp.team-journal#general-updates]] from the weekly journal
+        - [[Add Greenhouse to Release Notes|dendron://dendron.handbook/area.community.sop.greenhouse.sop.add-greenhouse-to-release-notes]] (if applicable - should be first week of month)
+        - Any other announcements
       - Starbord and TIL Highlights
       - Dendron Reading Series
       - [Event Reminders](https://lu.ma/dendron)
@@ -54,6 +60,7 @@ The release notes also serve as the content submitted to subscribers of the Dend
     - ex. `@kevin In-progress release/changelog PR: <PR Link>`
 
 ### Day of release
+- Video example: https://youtu.be/UTEHbTO5bnA?t=1597
 
 1. ping @john about transferring community highlights to the release notes
     - He needs to create the `weekly.journal.*.contributions` contributor highlights

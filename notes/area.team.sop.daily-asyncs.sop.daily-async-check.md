@@ -2,7 +2,7 @@
 id: FlYfPejnL3TJq4gKZ9jFU
 title: Daily Async Check
 desc: ''
-updated: 1646152612901
+updated: 1654710472780
 created: 1642007588706
 ---
 
@@ -12,7 +12,7 @@ Nag about daily async
 ## Steps
 1. Check asyncs that are +24h old and ping folks in the `#async-meet` channel to acknowledge asyncs
 - TIP: there should be 6 acks for every async
-
+- For Bindhu, she's not required to ack Daily Asyncs related to Engineering only items
 ## Examples
 ```
 @foo @bar
