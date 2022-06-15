@@ -2,7 +2,7 @@
 id: ebpudfrf6rg5uut75d29lhg
 title: Standard Documentation
 desc: ''
-updated: 1655261204560
+updated: 1655261705217
 created: 1651791209320
 documentId: 1DD6ROb22u-BpLeSY_WUlqedMqVCI25wm-gB6EXw0liI
 revisionId: >-
@@ -20,6 +20,10 @@ This leaflet proposes some general guidelines for the Dendron public docs.
 
 - Non-goals:
     - every note be 100% the same: we are still iterating on this standard and it will likely change in the future. it is more important we have a standard that people can follow than an XML spec that accounts for every possible permutation of docs
+
+
+- NOTE: this note was exported from this [note](https://github.com/dendronhq/handbook/blob/main/notes/leaflet.journal.2022.05.10.standard-documentation.md#L25:L25). If certain links don't resolve, check the original note on github
+- [Github Discussion](https://github.com/dendronhq/dendron/discussions/3088)
 
 ## Concepts
 For the purposes of this discussion, howtos/reference/discussions/tutorials refer to the [four types of documentation](https://kevinslin.com/notes/y0swab2mazgi1793kp3v7f7)
@@ -88,9 +92,12 @@ All features today are added in the form `dendron.topic.{feature}[.{sub-feature}
 
 These are headers for features and are directly inside `dendron.topic.{feature}` 
 
-[[dendron://dendron.dendron-site/templates.topic]] (NOTE: link on handbook won't resolve on website, url: https://wiki.dendron.so/notes/ZljuAhFuNWEOUlFtPlC0h)
+[[dendron://dendron.dendron-site/templates.topic]] (NOTE: link on handbook won't resolve on website, url: https://github.com/dendronhq/dendron-site/blob/dev/vault/templates.topic.md#L9:L9)
 
 ### Children
 These are the children of features and are located in `dendron.topic.{feature}.*` 
 
-[[Top Level Feature|dendron://dendron.dendron-site/dendron.contribute.documentation.tutorial.top-level-feature]] (NOTE: link on handbook won't resolve on website. url: https://wiki.dendron.so/notes/vyjmifzlvu4w85suec4vd6x)
+[[Top Level Feature|dendron://dendron.dendron-site/dendron.contribute.documentation.tutorial.top-level-feature]] (NOTE: link on handbook won't resolve on website. url: https://github.com/dendronhq/dendron-site/blob/dev/vault/dendron.contribute.documentation.tutorial.top-level-feature.md#L8:L8)
+
+## Structure for References
+![[dendron://dendron.handbook/leaflet.journal.2022.05.10.standard-documentation.references]]
