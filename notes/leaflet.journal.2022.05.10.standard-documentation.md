@@ -2,7 +2,7 @@
 id: ebpudfrf6rg5uut75d29lhg
 title: Standard Documentation
 desc: ''
-updated: 1654884268432
+updated: 1655261204560
 created: 1651791209320
 documentId: 1DD6ROb22u-BpLeSY_WUlqedMqVCI25wm-gB6EXw0liI
 revisionId: >-
@@ -11,9 +11,15 @@ revisionId: >-
 
 ## Summary
 
-This leaflet proposes some general guidelines for the Dendron public docs for the following purposes:
-- make it umnabiguous where to add howtos/reference/discussions/tutorials on new features and capabilities
-- make it umnabiguous where to find howtos/reference/discussions/tutorials on existing features and capabilities
+This leaflet proposes some general guidelines for the Dendron public docs. 
+
+- Goals:
+    - make it umnabiguous where to add docs on features and capabilities
+    - make it umnabiguous where to find docs on features and capabilities
+    - identify gaps in tooling that will make refactoring into and applying the standard easier in future iterations
+
+- Non-goals:
+    - every note be 100% the same: we are still iterating on this standard and it will likely change in the future. it is more important we have a standard that people can follow than an XML spec that accounts for every possible permutation of docs
 
 ## Concepts
 For the purposes of this discussion, howtos/reference/discussions/tutorials refer to the [four types of documentation](https://kevinslin.com/notes/y0swab2mazgi1793kp3v7f7)
