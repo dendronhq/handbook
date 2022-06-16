@@ -22,5 +22,6 @@ Weekly journals are recorded in `user.{name}.weekly.*`
     1. Every task note associated with a goal should be tagged with #kind.goal and #sprint.next
     1. Add a due date for sometime before the next weekly planning (Tuesday of next week)
 1. After weekly planning:
+    1. Ensure the PR link is updated in the fm (where applicable)
     1. For previous/completed goals, remove the #sprint.active tag and mark as complete
     1. For current goals, change from #sprint.next to #sprint.active
