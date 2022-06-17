@@ -19,14 +19,11 @@ Example:
 ## Learnings
 <!-- Things that we learned (eg. dopping databases make people sad) -->
 
-## Previous Goals
-<!-- Status updates on goals from the last week. This should be the [[goals from your weekly journal|handbook.sop.weekly-journal#goals]] -->
-
-## Current Goals
-<!-- List out goals for the coming week. This should be the [[goals from your weekly journal|handbook.sop.weekly-journal#goals]] -->
-
 ## Discussion
 <!-- Any discussion items that to bring up for this meeting -->
+
+## Goal Comparison
+<!-- Link to airtable interface for weekly planning goals -->
 
 ## Notes
 <!-- Notes taken during weekly meeting -->
