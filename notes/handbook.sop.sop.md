@@ -2,7 +2,7 @@
 id: c9UtqSWj7tBL18hgOkjG5
 title: Sop
 desc: ''
-updated: 1654029451313
+updated: 1655738391574
 created: 1624213241116
 ---
 
@@ -21,8 +21,7 @@ Some criteria for a good sop:
 - WHEN should it be executed?
 - WHAT needs to be done?
 - WHO is responsible for doing it?
-
-SOPs should be linear and you should be able to follow it from beginning to end.
+- see [[Conventions|dendron://dendron.handbook/handbook.sop.sop#conventions]] for other conventions
 
 ### Updating an existing SOP
 
@@ -38,6 +37,33 @@ When executing a SOP, if that SOP has a `## Checklist`, be sure to copy that che
 - [ ] announce sop in team channel
 - [ ] make sure everyone has signed off on SOP
 - [ ] merge SOP
+
+## Conventions
+
+### SOPs should be linear and you should be able to follow it from beginning to end
+
+
+### SOPs should be declarative and not use wishy washy language
+- bad
+```
+1. Every task note associated with a goal should be tagged with #kind.goal
+```
+- good
+```
+1. Tag each task note with `#kind.goal` 
+```
+
+<!-- ### SOPs should not introduce manual processes when reasonable automation is possible
+- bad
+```
+1. Tag each task note with `#kind.goal` 
+```
+- good
+```
+1. Apply the `templates.task.goal` 
+``` -->
+
+
 
 ## Template
 ![[dendron://dendron.handbook/templates.sop]]
