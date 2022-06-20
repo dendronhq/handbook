@@ -2,7 +2,7 @@
 id: clMDTci3e_UFbIevRk7nU
 title: Weekly Planning
 desc: ''
-updated: 1655724745228
+updated: 1655747163711
 created: 1624019624458
 ---
 
@@ -23,7 +23,7 @@ This describes Dendron's weekly planning process. Think of it as sprint retrospe
 #### Weekly Goals
 1. Create a task note for each weekly goal ^ln5zq9jphkjb
       - NOTE: Even if there is an existing task note, create a new one specific to the weekly goal relating to the task
-1. Every task note associated with a goal should be tagged with #kind.goal
+1. Tag each note with #kind.goal
 1. Add a due date for sometime before the next weekly planning (Tuesday of next week)
 1. Ensure the PR link is updated in the fm (where applicable)
 1. Export task to airtable
@@ -41,18 +41,28 @@ This describes Dendron's weekly planning process. Think of it as sprint retrospe
   - make any necessary updates in your [[weekly Journal|handbook.sop.weekly-journal]]
 
 ### Example
-1. [[#weekly-goals]]
+
+1. Of a Weekly Goal
 
 - [[user.bindhu.weekly.2022.06.21]]
-```goal
+```md
+...
 ## Current Goals
 - [ ] [[Add Process for All Weekly Goals to Be a Task|dendron://private/task.2022.06.15.add-process-for-all-weekly-goals-to-be-a-task]]
+...
 ```
 - [[Add Process for All Weekly Goals to Be a Task|dendron://private/task.2022.06.15.add-process-for-all-weekly-goals-to-be-a-task]]
-```fm
+```md
+...
+---
+creator: bindhu
+owner: bindhu
 tags:
-  - kind.goal
+- kind.goal
 due: 2022.06.16
+---
+
+...
 ```
 
 ##
