@@ -2,7 +2,7 @@
 id: MDqYxBszVoWxNJUZ1C1PE
 title: Changelog Update
 desc: ''
-updated: 1647909158930
+updated: 1655736317694
 created: 1634137544355
 ---
 
@@ -120,6 +120,28 @@ If running the latest `dendron-cli`, users can optionally migrate their configur
     ```
     - NOTE: each commit should adhere to our [[commit style|dendron://dendron.docs/dev.process.review#commit-style]] 
     ![[dendron://dendron.docs/dev.process.commit#^pjL1YxpWRgtT:#*]]
+  
+- **NOTE**: While updating the early-seed changelog, do not include feat/enhance/fix related to [[etc.cli]]
+  - eg. before copying
+    ```md
+    ... 
+    ### Enhancements
+    - *** in master
+    - enhance(cli): updated dendron lookup command #3043 @kevin 
+    - enhance(views): add tooltip on hover for graph nodes #3060 @joshi 
+    - enhance(edit): this sets handlebars as the default template format #3070 @kevin
+    ```
+    - eg. after copying
+    ```md
+    ...
+    ### Enhancements
+    - *** in master
+    - enhance(cli): updated dendron lookup command #3043 @kevin
+    - *** in changelog
+    - enhance(views): add tooltip on hover for graph nodes #3060 @joshi
+    - enhance(edit): this sets handlebars as the default template format #3070 @kevin
+    ```
+
 1. For changes that are introducing new functionality, make sure that docs are provided at the end of the commit
     - NOTE: if no docs are available, please ping the developer (their alias should be at the end of the alias)
     - in general, all `feat` items and most `enhance` items should have docs
