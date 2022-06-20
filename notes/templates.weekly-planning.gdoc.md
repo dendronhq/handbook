@@ -2,7 +2,7 @@
 id: nLj01q2jRcfHkQqcJaQpQ
 title: Gdoc
 desc: ''
-updated: 1640584276996
+updated: 1655724313468
 created: 1629769773124
 ---
 
@@ -24,6 +24,8 @@ Example:
 
 ## Goal Comparison
 <!-- Link to airtable interface for weekly planning goals -->
+
+[[Weekly Planning Goals|dendron://private/ext.airtable.interface.weekly-planning-goals]]
 
 ## Notes
 <!-- Notes taken during weekly meeting -->
