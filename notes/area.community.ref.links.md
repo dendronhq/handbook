@@ -2,14 +2,14 @@
 id: 8WUmaO3iJDB9UNUGuL9ND
 title: Common Links
 desc: 'Links that we commonly give out'
-updated: 1653958931339
+updated: 1655761379094
 created: 1625707230018
 ---
 
 ## Dendron Theory
-- [It's Not You - It's Your Knowledge Base](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html)
-- [A Hierarchy First Approach to Note Taking - Dendron Blog](https://blog.dendron.so/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64.html): goes over advantages of using Dendron's hierarchy first approach
-- [Dendron Inc - Dendron Blog](https://blog.dendron.so/notes/N9VxT7G5SovmncezBAGO2.html)
+- [It's Not You - It's Your Knowledge Base](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html): Dendron's philosophy on knowledge management
+- [A Hierarchy First Approach to Note Taking](https://blog.dendron.so/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64.html): Dendron's methodology for note taking
+- [Dendron Inc](https://blog.dendron.so/notes/N9VxT7G5SovmncezBAGO2.html): Dendron's business plan
 - [Launch hn post](https://news.ycombinator.com/item?id=29176158)
 
 ## Code
@@ -29,6 +29,7 @@ created: 1625707230018
 ## Community 
 - [Custom onboarding](https://calendly.com/d/mqtk-rf7q/onboard)
 - [Discord](https://link.dendron.so/discord)
+    - https://discord.gg/AE3NRw9
 - [Twitter](https://twitter.com/dendronhq)
 - [Github](https://github.com/dendronhq/dendron)
 - [Events Calendar](https://link.dendron.so/luma)

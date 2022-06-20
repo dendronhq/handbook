@@ -2,7 +2,7 @@
 id: eqaq8kybv2t7ko1e9xou37p
 title: References
 desc: ''
-updated: 1655048882992
+updated: 1655764501301
 created: 1654788092175
 ---
 
@@ -13,7 +13,7 @@ This covers the references section of [[Standard Documentation|dendron://dendron
 ## Concepts
 
 ### Refs
-For the purposes of this note, a ref is anything that fits under `dendron.ref`. Examples:
+For the purposes of this note, a ref is anything that fits under `dendron.roebe comprehensivcef`. Examples:
 - cli
 - config
 - commands
