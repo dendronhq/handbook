@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1652230381711
+updated: 1655748317251
 created: 1630621137161
 ---
 
@@ -100,7 +100,6 @@ A zero cost feature is [platonic ideal](https://en.wikipedia.org/wiki/Platonic_i
 The best way to approach this principle is as one would a rainbow - as a direction to go vs an end to accomplish.
 
 #### Examples
-- make sure user docs are up to date according to [[dendron hierarchy|dendron://dendron.dendron-site/dendron.schema]]
 - make sure developer docs is up to date according to [[pkg hierarchy|dendron://dendron.docs/pkg.schema]]
 - add a [[product stage tag|dendron://dendron.dendron-site/dendron.ref.stages]] to features to set expectations
 - have tests

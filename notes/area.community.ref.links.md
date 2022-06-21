@@ -2,7 +2,7 @@
 id: 8WUmaO3iJDB9UNUGuL9ND
 title: Common Links
 desc: 'Links that we commonly give out'
-updated: 1655761379094
+updated: 1655771569079
 created: 1625707230018
 ---
 
@@ -35,6 +35,7 @@ created: 1625707230018
 - [Events Calendar](https://link.dendron.so/luma)
 - [YouTube Channel](https://link.dendron.so/youtube)
 - [LinkedIn](https://www.linkedin.com/company/dendron-so)
+- [Medium](https://medium.com/dendron)
 
 ## Product
 - [Getting Started Guide](https://wiki.dendron.so/notes/678c77d9-ef2c-4537-97b5-64556d6337f1/)
