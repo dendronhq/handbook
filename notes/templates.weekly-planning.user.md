@@ -9,11 +9,13 @@ created: 1626553474909
 ## Before Meeting
 <!-- This should happen at least 12h before the meeting-->
 - [ ] Create your [[weekly Journal|handbook.sop.weekly-journal]] for this week
+- [ ] Create task notes [[For Weekly Goals|dendron://dendron.handbook/handbook.sop.weekly-planning#for-weekly-goals]]
 - [ ] update [meet gdoc](https://docs.google.com/document/d/1GEZfMMHLmz5AIvGoZrjM24TL7r_XjlmuerjEa2L9Pmo/edit#) 
   - see details of update sections [[here|templates.weekly-planning.gdoc]]
 - [ ] make sure task in [[sprint active|dendron://private/s.airtable.ref.base.tasks.tasks.views#^u56XOun5P9xg]] have up to date status fields
 - [ ] leave comments on any existing `# Announcements` and `# Discussion` items
   - NOTE: discussion items are updated [[by 9PM UTC on Mondays|dendron://dendron.handbook/area.team.ref.schedules.weekly-planning#^zLQGvisP3r8v]]
+- [ ] Review [[Weekly Planning Goals|dendron://private/ext.airtable.interface.weekly-planning-goals]] and leave comments on others' goals/records that you have questions on
 
 ## After Meeting
 <!-- This should happen immediately after the weekly meeting -->

@@ -2,7 +2,7 @@
 id: nLj01q2jRcfHkQqcJaQpQ
 title: Gdoc
 desc: ''
-updated: 1640584276996
+updated: 1655746549202
 created: 1629769773124
 ---
 
@@ -19,14 +19,12 @@ Example:
 ## Learnings
 <!-- Things that we learned (eg. dopping databases make people sad) -->
 
-## Previous Goals
-<!-- Status updates on goals from the last week. This should be the [[goals from your weekly journal|handbook.sop.weekly-journal#goals]] -->
-
-## Current Goals
-<!-- List out goals for the coming week. This should be the [[goals from your weekly journal|handbook.sop.weekly-journal#goals]] -->
-
 ## Discussion
 <!-- Any discussion items that to bring up for this meeting -->
+
+## Goal Comparison
+
+[[Weekly Planning Goals|dendron://private/ext.airtable.interface.weekly-planning-goals]]
 
 ## Notes
 <!-- Notes taken during weekly meeting -->
