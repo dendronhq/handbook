@@ -2,7 +2,7 @@
 id: MDqYxBszVoWxNJUZ1C1PE
 title: Changelog Update
 desc: ''
-updated: 1655736317694
+updated: 1655979610068
 created: 1634137544355
 ---
 
@@ -121,7 +121,7 @@ If running the latest `dendron-cli`, users can optionally migrate their configur
     - NOTE: each commit should adhere to our [[commit style|dendron://dendron.docs/dev.process.review#commit-style]] 
     ![[dendron://dendron.docs/dev.process.commit#^pjL1YxpWRgtT:#*]]
   
-- **NOTE**: While updating the early-seed changelog, do not include feat/enhance/fix related to [[etc.cli]]
+- **NOTE**: While updating the early-seed changelog, do not include feat/enhance/fix related to #scope.publish and #scope.common.cli. These only get published on Tuesdays for Weekly Release. 
   - eg. before copying
     ```md
     ... 
