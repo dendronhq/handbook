@@ -1,0 +1,48 @@
+version: 1
+imports: []
+schemas:
+  - id: task
+    title: task
+    parent: root
+    children:
+      - pattern: "interview"
+        namespace: true
+        template: area.community.temp.user-interview-tasks
+      - pattern: "onboarding"
+        namespace: true
+        children:
+          - pattern: "followup"
+            template: area.community.sop.customer-onboarding.temp.post-onboarding-email
+      - pattern: "interview-inactive"
+        template: area.community.temp.user-interview
+        children:
+          - pattern: "report"
+            template: area.community.temp.user-interview-inactive
+            children:
+              - pattern: "followup"
+                template: area.community.temp.user-interview-inactive.followup
+      - pattern: admin
+        children:
+        - pattern: partner-updates
+          children:
+            - pattern: "[0-2][0-9][0-9][0-9]"
+              children:
+                - pattern: "[0-1][0-9]"
+                  template: area.admin.sop.potential-partners
+        - pattern: investor-updates
+          children:
+            - pattern: "[0-2][0-9][0-9][0-9]"
+              children:
+                - pattern: "[0-1][0-9]"
+                  template: area.admin.sop.investor-updates
+                  children:
+                    - pattern: "email"
+      - pattern: "[0-2][0-9][0-9][0-9]"
+        children:
+          - pattern: "[0-1][0-9]"
+            children:
+              - pattern: "[0-3][0-9]"
+                template: task.temp
+                children:
+                  - pattern: "*"
+                    template: task.temp
