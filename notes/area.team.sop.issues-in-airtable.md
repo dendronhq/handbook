@@ -14,7 +14,7 @@ This example demonstrates how to setup an Export Pod V2 to Airtable for Dendron 
 
 ### Create a new Airtable Connection
 
-![[dendron://private/s.airtable.sop.connect-to-airtable#connect-airtable-using-dendron-export-pod,1:#*]]
+![[dendron://incubator/s.airtable.sop.connect-to-airtable#connect-airtable-using-dendron-export-pod,1:#*]]
 
 ### Run the Pod to Export a Task to Airtable
 
