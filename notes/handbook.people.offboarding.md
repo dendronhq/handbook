@@ -2,7 +2,7 @@
 id: HXMc8qTz9fjSrZmF
 title: Offboarding Checklist
 desc: ''
-updated: 1655503535734
+updated: 1656440417987
 created: 1627472295773
 ---
 
@@ -15,14 +15,16 @@ created: 1627472295773
   - Next steps on any outstanding tasks
 - [ ] After offboarding doc has been completed and verified by manager, delete all private dendron repositories from local computer. Send email confirmation to @kevin that this has been done
 - [ ] Schedule exist interview
-- [ ] [[Update equity|dendron://private/s.carta.sop.offboard-employee]]
 
 ## For managers
+- [ ] Go over offboarding steps
+- [ ] Create sendoff doc 
 - [ ] Offboard employee in Rippling 
 - [ ] Run payroll for outstanding pay
 - [ ] Remove access from Discord. Check that employee is no longer in Dendron Team 
 - [ ] Schedule an [[Exit Interview|dendron://dendron.handbook/area.team.sop.exit-interview]]
 - [ ] [[Transfer amplitude permissions|dendron://private/s.amplitude.sop.bulk-transfer-permissions]]
+- [ ] [[Update equity|dendron://private/s.carta.sop.offboard-employee]]
 
 ### After user end date
 - [ ] [[Remove from gsuite workspace|dendron://dendron.handbook/s.gsuite.sop.remove-from-workspace]] (rippling does not do this)

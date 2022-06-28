@@ -2,13 +2,13 @@
 id: phwydf4prm85mvvqro8ocw3
 title: Exit Interview
 desc: ''
-updated: 1655503150091
+updated: 1656441359360
 created: 1655503035096
 ---
 
 ## Steps
 1. Schedule
-1. Take notes, use [[Questions|dendron://private/area.team.sop.exit-interview#questions]]
+1. Take notes, use [[Exit Interview|dendron://dendron.handbook/area.team.sop.exit-interview]]
 1. Add thoughts in [[Exit Interviews|dendron://admin/area.hiring.ref.exit-interviews]]
 
 ## Questions

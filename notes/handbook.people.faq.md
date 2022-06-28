@@ -2,7 +2,7 @@
 id: f6d9bc09-04b7-4a02-a6aa-a2c8454ce1e5
 title: Faq
 desc: ''
-updated: 1646001182692
+updated: 1656266973953
 created: 1617905326784
 ---
 
@@ -39,10 +39,10 @@ See the team [here](https://www.dendron.so/about).
 
 2 weeks vacation + national holidays, 1 week sick leave
 
-
 ### What is the policy on equiment?
 
 Bring your own equipment
+
 
 ## Product
 

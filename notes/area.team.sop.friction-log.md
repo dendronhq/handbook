@@ -2,7 +2,7 @@
 id: lctc12r51ur1bfby1ebihvy
 title: Friction Log
 desc: ''
-updated: 1655154064054
+updated: 1656369140950
 created: 1655153549524
 ---
 
@@ -22,7 +22,7 @@ Best practices for managing a [[Friction Log|dendron://dendron.handbook/area.tea
 
 ```md
 ---
-uuid: 076ea797-4fff-4d77-a169-a8e05c429848
+id: 076ea797-4fff-4d77-a169-a8e05c429848
 ---
 ### 2022-06-13
 - had trouble refactoring hierarchy using `Refactor Hierarchy Command`

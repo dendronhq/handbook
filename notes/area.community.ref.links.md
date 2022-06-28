@@ -2,7 +2,7 @@
 id: 8WUmaO3iJDB9UNUGuL9ND
 title: Common Links
 desc: 'Links that we commonly give out'
-updated: 1655771569079
+updated: 1656368878740
 created: 1625707230018
 ---
 
@@ -25,6 +25,7 @@ created: 1625707230018
     - [[Vscode Livestream|dendron://dendron.handbook/ext.youtube.video.vscode-livestream]]
     - [[Getting Things Done (GTD), Bullet Journaling, and Other Task Management Workflow Demos with Dendron|dendron://dendron.dendron-site/community.events.greenhouse.2022-02-25-gtd-bullet-journals-task-management-workflow-demos]]
     - [[Bryan Jenks Video|dendron://dendron.handbook/ext.youtube.video.bryan-jenks-video]]
+    - [[Demo|dendron://private/ext.youtube.video.demo]]
 
 ## Community 
 - [Custom onboarding](https://calendly.com/d/mqtk-rf7q/onboard)
