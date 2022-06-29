@@ -1,8 +1,8 @@
 ---
 id: 17g4gcebedeqruq177zqwri
-title: Invite Speaker
+title: Invite Speaker Template
 desc: 'Template to invite a new greenhouse speaker'
-updated: 1656468312916
+updated: 1656468886223
 created: 1656270840733
 name: 
 ---
