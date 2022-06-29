@@ -2,7 +2,7 @@
 id: 8WUmaO3iJDB9UNUGuL9ND
 title: Common Links
 desc: 'Links that we commonly give out'
-updated: 1656463381688
+updated: 1656522388708
 created: 1625707230018
 ---
 
@@ -14,6 +14,9 @@ created: 1625707230018
 - [A Hierarchy First Approach to Note Taking](https://blog.dendron.so/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64.html): Dendron's methodology for note taking
 - [Dendron Inc](https://blog.dendron.so/notes/N9VxT7G5SovmncezBAGO2.html): Dendron's business plan
 - [Launch hn post](https://news.ycombinator.com/item?id=29176158)
+
+## Contribute
+- [[Financial|dendron://dendron.dendron-site/dendron.contribute.financial]]
 
 ## Code
 - [[Dendron Plugin Architecture|dendron://dendron.docs/pkg.plugin-core.arch]]
