@@ -2,7 +2,7 @@
 id: qcX1EYCDe3Z2S8xDFfOkT
 title: Ready to Ship
 desc: ''
-updated: 1655130688970
+updated: 1656472203633
 created: 1636474044281
 ---
 
@@ -47,11 +47,6 @@ enhance(publish): introduce cat footer as a configurable footer @john ([[docs|de
 ## Templates
 <!-- Any additional templates (eg. release notes) that might be used -->
 
-## Related
-- [[Ready to Ship|dendron://private/weekly.temp.team-journal#ready-to-ship]]
-- [[Assign Category to Task|dendron://dendron.dendron-site/area.product.sop.assign-category-to-task]]
-- [[Assign Scope to Feature|dendron://dendron.dendron-site/area.product.sop.assign-scope-to-feature]]
-
 [^ship]: [[Ready to Ship|dendron://private/weekly.temp.team-journal#ready-to-ship]]
-[^scope]: [[Assign Scope to Feature|dendron://dendron.dendron-site/area.product.sop.assign-scope-to-feature]]
-[^type]: [[Assign Category to Task|dendron://dendron.dendron-site/area.product.sop.assign-category-to-task]]
+[^scope]: [[Assign Scope to Feature|dendron://dendron.docs/dev.process.review.sop.assign-scope-to-feature]]
+[^type]: [[Assign Category to Task|dendron://dendron.docs/dev.process.review.sop.assign-category-to-task]]
