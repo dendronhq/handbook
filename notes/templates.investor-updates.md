@@ -1,8 +1,8 @@
 ---
 id: 5d435a43-ca9c-4c26-a156-d9ccc56ab698
-title: Dendron <%= CURRENT_YEAR %>-<%= CURRENT_MONTH %> Investor Report
+title: Dendron 
 desc: ''
-updated: 1649342220017
+updated: 1656972556625
 created: 1618029533953
 ---
 
@@ -24,5 +24,4 @@ See ![[dendron://private/ext.gsheet.gen.kpis]]
 
 ## Current Month Goals
 
-## Next Month Goals
-
+## Next Month Goals!
