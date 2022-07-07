@@ -5,7 +5,7 @@ desc: >-
   Using Open Broadcaster Software (OBS) for recording sessions with the purpose
   of either uploading to YouTube or sending directly to users, such as
   optionally recorded onboarding sessions.
-updated: 1646681456916
+updated: 1657129074051
 created: 1646678329714
 ---
 
@@ -169,3 +169,4 @@ Much of this applies to configuration setup for users that aren't streaming, jus
 ## Related
 
 - [How to setup OBS Studio for streaming](https://projectobs.com/en/tutorials/how-to-setup-obs-studio-for-streaming/)
+- [[Obs Mac Recording|dendron://private/task.2022.06.01.obs-mac-recording]]

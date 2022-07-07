@@ -2,8 +2,10 @@
 id: f3bagw9pctqic5d85iu25fx
 title: Gdoc
 desc: ''
-updated: 1649260147530
+updated: 1657121346726
 created: 1649260105253
+documentId: 1Xbj5LT0GY86cpeWjAeD344Z_QhSStlvv9whfK1H34qM
+uri: https://docs.google.com/document/d/1Xbj5LT0GY86cpeWjAeD344Z_QhSStlvv9whfK1H34qM/edit
 ---
 
 ## Office Hours
