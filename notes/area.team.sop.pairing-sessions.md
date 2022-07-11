@@ -2,7 +2,7 @@
 id: 577aJvuVzxuPCx2D3zkbv
 title: Pairing Sessions SOP
 desc: ''
-updated: 1646001118215
+updated: 1657229795271
 created: 1644780226951
 ---
 
@@ -27,7 +27,7 @@ Pairing helps spread best practices and is also a structured way of fostering co
 
 ### Pairing
 1. Go to an available [[pairing|dendron://private/s.discord.ref#pairing]] voice channels at the time of the pairing
-1. Use the [[Driver and Navigator|dendron://private/area.team.sop.pairing-sessions#driver-and-navigator]] pairing method - initial driver should be the person that was assigned the task
+1. Use the [[Driver and Navigator|dendron://dendron.handbook/area.team.sop.pairing-sessions#driver-and-navigator]] pairing method - initial driver should be the person that was assigned the task
 1. [[Use Vscode Lifeshare|dendron://dendron.handbook/area.team.sop.pairing-sessions.sop.use-vscode-lifeshare]] to do pairing.
     - NOTE: because vscode liveshare doesn't share any launched windows, the driver should also stream their screen in the voice channel
 1. After ~30min (or when the moment seems right), switch driver and navigator
