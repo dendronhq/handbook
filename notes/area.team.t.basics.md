@@ -1,8 +1,8 @@
 ---
 id: mylqjwysyy8jwqiaicp89r9
 title: Team Basics
-desc: ''
-updated: 1654531183006
+desc: 'Getting started at Dendron'
+updated: 1657671653240
 created: 1646675269553
 ---
 
@@ -11,10 +11,6 @@ created: 1646675269553
 A collection of resources that you should be familiar with when using Dendron in a team setting
 
 ## Prerequisites
-- basic understanding of the following
-    - [[Markdown|dendron://dendron.dendron-site/dendron.concepts.markdown]]
-    - [[Git|dendron://dendron.dendron-site/dendron.concepts.git]]
-    - [[Vscode|dendron://dendron.dendron-site/dendron.concepts.vscode]]
 - gone through the initial [[Onboarding|dendron://dendron.handbook/handbook.people.onboarding]]
 
 ## Start Here

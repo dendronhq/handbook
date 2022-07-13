@@ -2,13 +2,16 @@
 id: 7w5vxzptbjtavpa5e25h40u
 title: First Steps
 desc: 'Things to do after you have access to your Dendron Workspace'
-updated: 1652313385458
+updated: 1657671641844
 created: 1652308980085
 ---
 
 ## Summary
 
 {{fm.desc}}
+
+## Pre-requisites
+- make sure you go over [[Handbook Basics|dendron://dendron.handbook/area.meta.t.basics]] before going through these links
 
 ## Steps
 1. Your manager should already have setup a hierarchy for you. You can find it by going to `user.{YOUR_ALIAS}`
