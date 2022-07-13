@@ -2,7 +2,7 @@
 id: h05ebjmm33zi78yyojuwu83
 title: Handbook Basics
 desc: 'How to navigate this handbook'
-updated: 1657671976152
+updated: 1657672830833
 created: 1657671513720
 ---
 
@@ -15,4 +15,7 @@ created: 1657671513720
 
 ## Understand
 - Its easy to get overwhelmed with notes and links - take it slow and reach out in the team chat if you have any questions
-- the bottom of notes often have a section titled `Lookup`: ![[dendron://dendron.handbook/area.common.concepts.lookup-section]]
+- You might encounter [[file links|dendron://dendron.dendron-site/dendron.topic.links#file-links]] like `[[../packages/engine-server/src/topics/site.ts#^c15ybpjd4y5z]]` when navigating the docs. these can only be resolved if you are using dendron from within the [[Dendron|dendron://private/ext.github.repo.dendron]] monorepo
+- common sections within notes:
+    ![[Children Section|dendron://dendron.handbook/area.common.concepts.children-section]]
+    ![[dendron://dendron.handbook/area.common.concepts.lookup-section]]
