@@ -2,7 +2,7 @@
 id: 27fd4443-58b5-4fdc-a1ca-1aa4ca9f8397
 title: Early Seed Release
 desc: ''
-updated: 1654270726284
+updated: 1657295544235
 created: 1623344680534
 ---
 
@@ -59,7 +59,7 @@ These are pre-release versions of Dendron extensions made available to [[Environ
     git push
     ```
 1. Check that the changes have made it to the main page ^pemkw0fid00l
-1. Use the following template[^1] to write the announcement message
+1. Use the [[Discord Announce|dendron://dendron.handbook/area.product.sop.early-seed-release.temp.discord-announce]] template to write the announcement message
     - You can see an example of a past announcement [here](https://discord.com/channels/717965437182410783/771518214558449685/878434754918228031)
     - see the sop on release highlights [^4] for release format
 1. Announce the release in the [[environmentalist|dendron://dendron.dendron-site/community.discord.channels#environmentalist]] channel.
@@ -111,7 +111,6 @@ If you need to update the early seed build with changes that were pushed after t
 Refer to the [Dendron Release Google Calendar](https://calendar.google.com/calendar/u/1?cid=Y19jcjFwNnNhOHUzYzgzY2Q4ZTR0dmd1ZHU3NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for times of Notable events such as Branch Snaps, Target Release Times.
 
 
-[^1]: [[Discord Announce|dendron://dendron.handbook/area.product.sop.early-seed-release.temp.discord-announce]]
 [^2]: [[Update Changelog|dendron://dendron.dendron-site/changelog]]
 [^3]: [[Team Announce|dendron://dendron.handbook/area.product.sop.early-seed-release.temp.team-announce]]
 [^4]: [[Release Highlights|dendron://dendron.handbook/area.product.sop.release-highlights]]
