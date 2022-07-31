@@ -2,7 +2,7 @@
 id: HXMc8qTz9fjSrZmF
 title: Offboarding Checklist
 desc: ''
-updated: 1658327735317
+updated: 1658848919758
 created: 1627472295773
 ---
 
@@ -17,14 +17,18 @@ created: 1627472295773
 - [ ] Schedule exist interview
 
 ## For managers
+- before last day
+- [ ] send employee [[offboarding checklist|#for-offboarding-employees]]
 - [ ] Go over offboarding steps
 - [ ] Create sendoff doc 
-- [ ] Offboard employee in Rippling 
+- [ ] Mark last day in Rippling 
+- [ ] Schedule an [[Exit Interview|dendron://dendron.handbook/area.team.sop.exit-interview]]
+
+- on last day
 - [ ] Run payroll for outstanding pay
 - [ ] Remove access from Discord. Check that employee is no longer in Dendron Team 
-- [ ] Schedule an [[Exit Interview|dendron://dendron.handbook/area.team.sop.exit-interview]]
 - [ ] [[Transfer amplitude permissions|dendron://private/s.amplitude.sop.bulk-transfer-permissions]]
 - [ ] [[Update equity|dendron://private/s.carta.sop.offboard-employee]]
 
-### After user end date
+- a month after last day
 - [ ] [[Remove from gsuite workspace|dendron://dendron.handbook/s.gsuite.sop.remove-from-workspace]] (rippling does not do this)
