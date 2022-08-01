@@ -2,7 +2,7 @@
 id: qsDq5jZVM0NqEmj7L2VgR
 title: Weekly Release Notes
 desc: 'How to do release notes.'
-updated: 1654620502393
+updated: 1659381246380
 created: 1635724125776
 ---
 
@@ -43,6 +43,7 @@ The release notes also serve as the content submitted to subscribers of the Dend
       - See [[General Updates|dendron://private/weekly.temp.team-journal#general-updates]] from the weekly journal
         - [[Add Greenhouse to Release Notes|dendron://dendron.handbook/area.community.sop.greenhouse.sop.add-greenhouse-to-release-notes]] (if applicable - should be first week of month)
         - [[Add Crop Updates to Release Notes|dendron://dendron.handbook/area.community.sop.crop.add-crop-updates-to-release-notes]] (if applicable)
+        - [[Highlight Published Sites on Release Notes|dendron://dendron.handbook/area.community.sop.highlight-published-sites-on-release-notes]]
         - Any other announcements
       - Starbord and TIL Highlights
       - Dendron Reading Series
