@@ -2,7 +2,7 @@
 id: mvjdg04j9yuvqg2i57sa33i
 title: Highlight Published Sites on Release Notes
 desc: ''
-updated: 1659023512258
+updated: 1659346098501
 created: 1658840871034
 ---
 ## Summary
@@ -26,11 +26,11 @@ Add this as the section for the release notes:
 ```
 
 ### Published Sites Highlights
-Publishing is one of the core functionalities of Dendron and we wanted to highlights some of the sites that our users have published during their knowledge management journey:
+Publishing is one of the core functionalities of Dendron. Here's a list of some sites published by our users during their knowledge management journey:
 1. site 1
 2. site 2
 3. site 3
 
-If you would be interested in being featured in our weekly release notes and newsletter, drop us a message and tag @DendronTeam. 
+If you would be interested in being featured in our weekly release notes and newsletter, drop us a message on the [`#publishing` channel](https://discordapp.com/channels/717965437182410783/940064438910865460) and tag @DendronTeam. 
 
 ```
