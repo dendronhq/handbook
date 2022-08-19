@@ -2,7 +2,7 @@
 id: qkgzoi28u5ar3w69rfajul1
 title: Discord Thread Cutoff Reminder
 desc: ''
-updated: 1660707283558
+updated: 1660877226583
 created: 1660706472791
 ---
 
@@ -11,7 +11,7 @@ created: 1660706472791
 ```markdown
 @Dendron Team
 
-Another reminder that the release branch has been snapped on Thursday 7AM (UTC), and all commits merged to master after that point is not in the release branch.
+Another reminder that the release branch has been snapped on Thursday 7PM (UTC), and all commits merged to master after that point is not in the release branch.
 
 Make sure when you are adding items to `Ready to Ship`, that you are adding them to [[weekly.journal.{NEXT_WEEK}]]
 
