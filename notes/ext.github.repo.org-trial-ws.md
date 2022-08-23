@@ -2,9 +2,9 @@
 id: jqa4hl6sn6d8adx14vhukyy
 title: Org Trial Ws
 desc: ''
-updated: 1657823456448
+updated: 1660060573314
 created: 1657823436206
-uri: 'https://github.com/dendronhq/org-dendron-trial-ws/blob/main/dendron.yml'
+uri: 'git@github.com:dendronhq/org-dendron-trial-ws.git'
 ---
 
 {{fm.uri}}
