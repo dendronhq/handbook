@@ -2,13 +2,19 @@
 id: rksmggt0kaoi2lapn88rx32
 title: Setup your Dendron Workspace
 desc: 'The Dendron workspace represents the shared organizational knowledge of our organization. It is managed using Dendron'
-updated: 1657823476328
+updated: 1661573084014
 created: 1652308575925
 ---
 
 ## Summary
 
 {{fm.desc}}
+
+## Prerequisites
+1. Accept invitation to dendronhq github org (you should get a notification on Github)
+    - IMPORTANT: do this before proceeding 
+1. Setup a ssh key with your github account. See instructions [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ^bccdwxblcj2u
+
 
 ## Steps
 1. Clone the Dendron workspace.
