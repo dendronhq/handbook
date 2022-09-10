@@ -2,9 +2,11 @@
 id: euhmlM2v57OZoWIl9CQ67
 title: Issue Management
 desc: ''
-updated: 1652735582130
+updated: 1662582370445
 created: 1639779529417
 ---
+
+> NOTE: ON HOLD. Do not do this if you are joining Dendron
 
 ## Summary
 How to track your tasks in Dendron
@@ -64,11 +66,6 @@ This will move the task to the [[Team Backlog View|s.airtable.ref.base.tasks.tas
     1. go to the sprint active [^sprint-active] view on airtable and delete the sprint tag
         - TODO: we currently don't support deleting a single select
     1. uncomment the `exportScope` comment 
-
-## Examples
-
-## Checklist
-<!-- Optional, use to check if sop is accomplished -->
 
 ## Related
 - All tasks views: [[here|s.airtable.ref.base.tasks.tasks#tasks]]
