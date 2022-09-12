@@ -2,7 +2,7 @@
 id: q2c5zysqy12zyij528m7uqc
 title: Topics
 desc: ''
-updated: 1663022463586
+updated: 1663022895122
 created: 1655764482754
 ---
 
@@ -35,6 +35,7 @@ Properties:
 
 - should not exceed 5 features
 - usually presented in section/paragraph format
+- feature should be written from a [job to be done](https://jobs-to-be-done.com/what-is-jobs-to-be-done-fea59c8e39eb) perspective and solve a customer pain point
 
 #### Example
 
