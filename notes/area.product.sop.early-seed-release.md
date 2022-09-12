@@ -2,7 +2,7 @@
 id: 27fd4443-58b5-4fdc-a1ca-1aa4ca9f8397
 title: Early Seed Release
 desc: ''
-updated: 1660707672837
+updated: 1662994234662
 created: 1623344680534
 ---
 
@@ -22,7 +22,7 @@ These are pre-release versions of Dendron extensions made available to [[Environ
 #### Before the release
 - when: ![[Release Seed Verification|dendron://dendron.handbook/area.team.ref.schedules.release#^xs398u7gfkgr]]
 
-1. Notify [^5] `@Dendron Team` in the thread created the [[day before|dendron://dendron.handbook/area.product.sop.early-seed-release#day-before]] to remind the team that the release branch has been snapped and all changes merged to master after that point of time should not be added to this week's `Ready to Ship` unless they need to be cherry-picked into this week's release.
+1. Notify [^5] `@DendronTeam` in the thread created the [[day before|dendron://dendron.handbook/area.product.sop.early-seed-release#day-before]] to remind the team that the release branch has been snapped and all changes merged to master after that point of time should not be added to this week's `Ready to Ship` unless they need to be cherry-picked into this week's release.
 1. Make sure the weekly journal (`weekly.journal.*`) for next week is created so that team members can easily add items that didn't make the release cut-off point.
 1. Go to [[Create Release Image|dendron://dendron.handbook/s.github.ref.actions#create-release-image]] github actions and view the latest pipeline run. See [[Pipelines for General Release|dendron://dendron.docs/dev.build.automation#pipelines-for-general-release]] for more info.
 1. Check that features in [[Ready to Ship|dendron://dendron.handbook/area.product.concepts.ready-to-ship]] are accurate. 
@@ -35,7 +35,7 @@ These are pre-release versions of Dendron extensions made available to [[Environ
 1. Install the .vsix file locally and do a sanity check in `test-workspace` 
     - make sure early seed features from [[Ready to Ship|dendron://dendron.handbook/area.product.concepts.ready-to-ship]] don't have any obvious bugs
     - See [here](https://stackoverflow.com/questions/42017617/how-to-install-vs-code-extension-manually) for how to install `.vsix` manually
-    - If a bug is detected, ping `@Dendron Team` and relevant parties to get it fixed 
+    - If a bug is detected, ping `@DendronTeam` and relevant parties to get it fixed 
 1. If everything works, add to the release note thread of the week with the url of the vsix
 
 ### Docs

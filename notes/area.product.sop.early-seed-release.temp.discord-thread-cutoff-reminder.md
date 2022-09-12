@@ -9,7 +9,7 @@ created: 1660706472791
 > Make sure to change the values `NEXT_WEEK` and `THIS_WEEK` in the template.
 
 ```markdown
-@Dendron Team
+@DendronTeam
 
 Another reminder that the release branch has been snapped on Thursday 7PM (UTC), and all commits merged to master after that point is not in the release branch.
 

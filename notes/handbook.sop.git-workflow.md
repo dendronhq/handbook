@@ -2,7 +2,7 @@
 id: tIFX0R6iEvZUGkOJluYo1
 title: Git Workflow
 desc: ''
-updated: 1624323887653
+updated: 1662994234666
 created: 1624215795020
 ---
 
@@ -70,7 +70,7 @@ If its your first pull request and you're on our Discord, make sure that Kevin g
 
 After you submit your pull request, check the output of our [integration test](https://github.com/dendronhq/dendron/actions) and make sure all tests pass
 
-Optionally, ping `@Dendron Team` in the `#dev` channel of our [discord](https://discord.gg/AE3NRw9) - we usually respond to PRs within 24h
+Optionally, ping `@DendronTeam` in the `#dev` channel of our [discord](https://discord.gg/AE3NRw9) - we usually respond to PRs within 24h
 
 
 ### Merging Changes

@@ -2,14 +2,14 @@
 id: uzch08fpx04gcpoq539am4f
 title: Discord Thread Start
 desc: ''
-updated: 1647911862649
+updated: 1662994234670
 created: 1647025104192
 ---
 
 ## Start of Thread
 
 ```markdown
-@Dendron Team 
+@DendronTeam 
 It's that time of week again! In about ~12 hours, we'll be creating the changelog for the weekly release.
 
 Review [[Ready to Ship|weekly.journal.2022.03.15#ready-to-ship]] for updates:

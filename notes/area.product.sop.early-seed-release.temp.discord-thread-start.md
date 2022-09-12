@@ -2,14 +2,14 @@
 id: 5sf7qnu6ho3hkv6smaohco7
 title: Discord Thread Start
 desc: ''
-updated: 1647024953851
+updated: 1662994234668
 created: 1647023067064
 ---
 
 > Make sure to change the values of hours estimate, and of the weekly journal name
 
 ```markdown
-@Dendron Team 
+@DendronTeam 
 It's that time of week again! In about ~12 hours, we'll be creating the changelog for the weekly early seed release.
 
 Review [[Ready to Ship|weekly.journal.2022.03.15#ready-to-ship]] for updates:
