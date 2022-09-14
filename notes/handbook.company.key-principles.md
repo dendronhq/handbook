@@ -2,7 +2,7 @@
 id: xNWbKBuOto73tWExRPsaR
 title: Key Principles
 desc: ''
-updated: 1655748317251
+updated: 1663177204101
 created: 1630621137161
 ---
 
@@ -12,57 +12,57 @@ If you think of our [[values|dendron://dendron.handbook/handbook.company.values]
 
 A key principle is a building block to one or more values. 
 
-## Principles
-
-### Document First
+## Document First
 - Inspired by: [Gitlab Principles](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/)
-- Values
-    * [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
-    * [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
-    * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
 
 Write it or lose it. Having a single source of truth for everything we do helps us effectively communicate and build up institutional knowledge. This is the foundation that makes an async first, remote workplace culture possible and gives everyone a way to participate in the decision making process.
 
-### Lookup
-- Values:
-    * [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
-    * [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
-    * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
-    * [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
+Values:
+* [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
+* [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
+* [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
+
+## Lookup
 
 Information isn't useful if it can't be found when its needed. **Lookup** focuses on making sure that humans can find - both for the individual that authored the information as well as other people (usually the wider [[Dendron Community|dendron://dendron.handbook/handbook.concepts#dendron-community]]) that might make use of it. 
 
-#### Examples
+Values:
+* [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
+* [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
+* [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
+* [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
+
+### Examples
 - all documentation todo with the [[Development Process|dendron://dendron.docs/dev.process]] is consolidated in one place
 - we have [RFC proposals](https://docs.dendron.so/notes/ONVyX9yIBTHO5BjZwJ56I.html) that are codified with schemas and templates of how and where to document different details 
 - we use [[Async Meetings|dendron://dendron.handbook/handbook.sop.async-meetings]] to [[Over Communicate|dendron://dendron.handbook/handbook.company.key-principles#over-communicate]] about changes in our structure
 
-### Over Communicate
-- Values
-    * [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
-    * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
-    * [[Iterate|dendron://dendron.handbook/handbook.company.values#iterate]]
-
+## Over Communicate
 Things get lost in translation. Especially across timezones and across messaging apps. When in doubt, followup.
 
-#### Examples
+Values:
+* [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
+* [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
+* [[Iterate|dendron://dendron.handbook/handbook.company.values#iterate]]
+
+### Examples
 - when you send out a PR and haven't received a response within 24h, ping the PR owner in case they've missed it
 - when you are writing documentation for some new process, make sure the rest of the team knows about it by scheduling an async
 - when you get a message, acknowledge reading the message via a response or a 👍
 - when you merge a github branch and have some outstanding comments, also ping the submitter
 
-### Earn Trust
-
-- Values
-    * [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
-    * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
-    * [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
+## Earn Trust
 
 > Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best.
 > 
 > [Amazon Leadership Principle](https://www.amazon.jobs/en/principles)
 
 Adding on to this, earning trust means showing up on time and following through on promises that we make
+
+Values:
+* [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
+* [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
+* [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
 
 
 <!-- #### Dive Deep
@@ -79,61 +79,60 @@ Adding on to this, earning trust means showing up on time and following through 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.  
 > [Amazon Leadership Principle](https://www.amazon.jobs/en/principles) -->
 
-### Bias for Action
+## Bias for Action
 - Source: [Amazon Leadership Principle](https://www.amazon.jobs/en/principles)
-- Related Values:
-    * [[80/20|dendron://dendron.handbook/handbook.company.values#8020]]
-    - [[Iterate|dendron://dendron.handbook/handbook.company.values#iterate]]
-    * [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
 
 > Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking. 
 > [Amazon Leadership Principle](https://www.amazon.jobs/en/principles)
 
-### Zero Cost Features
+Values:
+* [[80/20|dendron://dendron.handbook/handbook.company.values#8020]]
+- [[Iterate|dendron://dendron.handbook/handbook.company.values#iterate]]
+* [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
+
+## Zero Cost Features
 - Inspired by: [Zero Cost Abstractions](https://doc.rust-lang.org/beta/embedded-book/static-guarantees/zero-cost-abstractions.html)
-- Values
-    * [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
-    * [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
-    * [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
 
 A zero cost feature is [platonic ideal](https://en.wikipedia.org/wiki/Platonic_idealism) of a feature that has zero cost after launch. Zero bugs, zero issues, zero questions on how to best use or integrate, zero maintenance. 
 The best way to approach this principle is as one would a rainbow - as a direction to go vs an end to accomplish.
 
-#### Examples
+Values:
+* [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
+* [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
+* [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
+
+### Examples
 - make sure developer docs is up to date according to [[pkg hierarchy|dendron://dendron.docs/pkg.schema]]
 - add a [[product stage tag|dendron://dendron.dendron-site/dendron.ref.stages]] to features to set expectations
 - have tests
 - look over common [[Customer Support|dendron://private/area.community.sop.customer-support]] issues for the feature and find code fixes for persistent issues
 
-### Don't Rely on Good Intentions
-
-- Values
-    * [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
-    * [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
-    * [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
+## Don't Rely on Good Intentions
 
 We don't want to rely on people's good intentions for the successful execution of a feature or process.  This isn't to say people don't have good intentions but rather that we all make mistakes and the best system is one that makes those mistakes impossible (eg. a statically typed language doesn't rely on humans to get types correct). 
 
 - To effect this, we want the following (in order of least desirable to most desirable, improved upon iteratively as a process becomes more critical):
   - One off process -> SOP -> Executable Script -> Pipeline Automation
 
-#### Examples
+Values:
+* [[Learn and Adapt|dendron://dendron.handbook/handbook.company.values#learn-and-adapt]]
+* [[Close the Loop|dendron://dendron.handbook/handbook.company.values#close-the-loop]]
+* [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
+
+### Examples
 - making sure that next steps are captured in the daily journal vs simply verbally acknowledged
 - writing sops for processes that might need repeating and turning those sops into executable scripts if they become too complicated
 
-#### Examples
-- [[Close Loop on breaking developer changes|dendron://dendron.docs/dev.process.close-loop]]
-- [[Code Utilities and how to find them|dendron://dendron.docs/dev.process.code.utilities]]
-
-### Be Early
+## Be Early
 <!-- - Source: [[Be Early|dendron://private/scratch.2022.05.02.130043.be-early]] -->
-- Values:
-    - [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
-    - [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
-    - [[Iterate|dendron://dendron.handbook/handbook.company.values#iterate]]
 
 Being early means pro-actively preparing for things instead of reacting. Instead of rushing to things at the last minute, allowing space for things to go wrong.
 
-#### Examples
+Values:
+- [[Community Focus|dendron://dendron.handbook/handbook.company.values#community-focus]]
+- [[Pass it Forward|dendron://dendron.handbook/handbook.company.values#pass-it-forward]]
+- [[Iterate|dendron://dendron.handbook/handbook.company.values#iterate]]
+
+### Examples
 - showing up 3min early for a meeting
 - leaving comments on meeting notes ahead of a meet
