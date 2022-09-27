@@ -2,7 +2,7 @@
 id: qsDq5jZVM0NqEmj7L2VgR
 title: Weekly Release Notes
 desc: 'How to do release notes.'
-updated: 1661359494402
+updated: 1664305476586
 created: 1635724125776
 ---
 
@@ -85,11 +85,12 @@ The release notes also serve as the content submitted to subscribers of the Dend
 1. create release notes under `area.product.release.{date}.notes`
     - NOTE: loom video embed links will not render in discord, use a regular loom link instead (eg. https://www.loom.com/share/c6e8e75605d5416a9a8aa67465a6df17)
     - Add `@everyone` to the top
-    - to create release notes, copy everything above `## Community`
+    - to create release notes, copy everything above `## Community` and **Thank Yous**
     - This should include:
       - Release Highlights descriptions
       - **Highlights** section
       - **Everything Else** section
+      - **Thank Yous**
     - example: [[Notes|dendron://private/area.product.release.2022.01.25.notes]]
     - Add the URL link to the release directly beneath `Dendron {version} has sprouted`
       - example:
@@ -103,7 +104,6 @@ The release notes also serve as the content submitted to subscribers of the Dend
     - This sections should include:
       - **General**
       - **Events**
-      - **Thank Yous**
     - NOTE: make sure all discord mentions come out properly so that folks are notified for their contribution
     - example: [[Announcement|dendron://private/area.product.release.2022.01.25.announcement]]
 1. create reading series notes under `area.product.release.{date}.reading-series`
