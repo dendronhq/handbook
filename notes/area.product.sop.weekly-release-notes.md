@@ -2,7 +2,7 @@
 id: qsDq5jZVM0NqEmj7L2VgR
 title: Weekly Release Notes
 desc: 'How to do release notes.'
-updated: 1664305476586
+updated: 1664305621753
 created: 1635724125776
 ---
 
@@ -100,7 +100,7 @@ The release notes also serve as the content submitted to subscribers of the Dend
         ```
 1. create announcement notes under `area.product.release.{date}.announcement`
     - Add `@ServerNotify` to the top
-    - to create announcement notes copy everything in `## Community` but leave out **Starboard**, **Changelog**, and **Reading Series** sections
+    - to create announcement notes copy everything in `## Community` but leave out **Thank Yous**, **Starboard**, **Changelog**, and **Reading Series** sections
     - This sections should include:
       - **General**
       - **Events**
