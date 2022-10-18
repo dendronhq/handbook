@@ -2,7 +2,7 @@
 id: MDqYxBszVoWxNJUZ1C1PE
 title: Changelog Update
 desc: ''
-updated: 1655979610068
+updated: 1666089975987
 created: 1634137544355
 ---
 
@@ -94,6 +94,7 @@ If running the latest `dendron-cli`, users can optionally migrate their configur
 1. Go to the `Ready to Ship` section of the weekly journal for this week
     - eg. `dendron://private/weekly.journal.2021.10.19`
     - Categories of focus: `Deprecations`, `Features`, `Enhancements`, `Fix`, and anything related (such as breaking changes). `## Internal` is ignored when it comes to the changelog.
+    - For early-seed, only include changes under `<!-- Early Seed: -->` / above `<!-- General Release: -->`.  For general release, include all changes.
 1. For each category, copy over everything under the `*** in master` line and copy it to the changelog ^r08juF8Rt8Ds
     - move the lines under `*** in master` below `*** in changelog` after doing this
     - eg. before copying

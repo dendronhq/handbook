@@ -13,7 +13,7 @@ How we handle Dendron's early seed releases
 
 These are pre-release versions of Dendron extensions made available to [[Environmentalist|dendron://dendron.dendron-site/community.discord.roles#environmentalist]].
 
-- Release cadence: Every Friday (PST)
+- Release cadence: Every Other Tuesday (PST)
 
 ## Steps
 
@@ -24,7 +24,7 @@ These are pre-release versions of Dendron extensions made available to [[Environ
 
 1. Notify [^5] `@DendronTeam` in the thread created the [[day before|dendron://dendron.handbook/area.product.sop.early-seed-release#day-before]] to remind the team that the release branch has been snapped and all changes merged to master after that point of time should not be added to this week's `Ready to Ship` unless they need to be cherry-picked into this week's release.
 1. Make sure the weekly journal (`weekly.journal.*`) for next week is created so that team members can easily add items that didn't make the release cut-off point.
-1. Go to [[Create Release Image|dendron://dendron.handbook/s.github.ref.actions#create-release-image]] github actions and view the latest pipeline run. See [[Pipelines for General Release|dendron://dendron.docs/dev.build.automation#pipelines-for-general-release]] for more info.
+1. Go to [[Create Release Image|dendron://dendron.handbook/s.github.ref.actions#create-release-image]] github actions and view the latest pipeline run. The early seed image should be built off a branch prefixed with `early-seed/*`. See [[Pipelines for General Release|dendron://dendron.docs/dev.build.automation#pipelines-for-general-release]] for more info.
 1. Check that features in [[Ready to Ship|dendron://dendron.handbook/area.product.concepts.ready-to-ship]] are accurate. 
     - copy the commit id of what was pushed in the latest pipeline run, see [here](https://www.loom.com/i/5e945dfecf4b4ee487a13ec8338f0127) for screenshot
     - look at [commit history](https://github.com/dendronhq/dendron/commits/master) of dendronhq to match last merge changes
@@ -32,6 +32,7 @@ These are pre-release versions of Dendron extensions made available to [[Environ
         - if not, create a new [[Weekly Journal (Team)|dendron://dendron.handbook/area.product.concepts.weekly-journal-team]]
         - to create a journal, follow same instructions as [[individual weekly journal|dendron://dendron.handbook/handbook.sop.weekly-journal#steps]] but do it for the team weekly journal
         - copy over any of next week items to this journal 
+        - Everything going in the early seed should be entered under the `<!-- Early Seed: -->` sections of each category
 1. Install the .vsix file locally and do a sanity check in `test-workspace` 
     - make sure early seed features from [[Ready to Ship|dendron://dendron.handbook/area.product.concepts.ready-to-ship]] don't have any obvious bugs
     - See [here](https://stackoverflow.com/questions/42017617/how-to-install-vs-code-extension-manually) for how to install `.vsix` manually
