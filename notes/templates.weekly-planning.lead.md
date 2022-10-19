@@ -2,7 +2,7 @@
 id: xgIjSQJcQyGArCDKKH9an
 title: Weekly Planning Lead Checklist
 desc: ''
-updated: 1653844161709
+updated: 1664297353635
 created: 1625575868274
 ---
 
@@ -11,6 +11,9 @@ created: 1625575868274
 ### During Meeting
 - [ ] Record video
 - [ ] Ask for volunteers for story time (every other week)
+
+Title: Weekly Planning - {{ match FNAME "\d{4}-\d{2}-\d{2}" }}
+![[dendron://private/ext.youtube.gen.team-upload-link]]
 
 ### After Meeting
 - [ ] Close out last week's weekly journal [^1]

@@ -1,7 +1,7 @@
 ---
 id: 8WUmaO3iJDB9UNUGuL9ND
 title: Common Links
-desc: 'Links that we commonly give out'
+desc: Links that we commonly give out
 updated: 1656522388708
 created: 1625707230018
 ---
@@ -10,10 +10,15 @@ created: 1625707230018
 - [[Product|dendron://dendron.handbook/area.community.ref.links.product]]
 
 ## Dendron Theory
+- https://dendron.so/
+
 - [It's Not You - It's Your Knowledge Base](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html): Dendron's philosophy on knowledge management
 - [A Hierarchy First Approach to Note Taking](https://blog.dendron.so/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64.html): Dendron's methodology for note taking
+- [Cache all the things](https://blog.dendron.so/notes/o2qlr31o99tycon4hlhgjhw)
+
 - [Dendron Inc](https://blog.dendron.so/notes/N9VxT7G5SovmncezBAGO2.html): Dendron's business plan
 - [Launch hn post](https://news.ycombinator.com/item?id=29176158)
+- [[dendron://dendron.blog/blog.2022.09-27-cache-all-the-things]]
 
 ## Contribute
 - [[Financial|dendron://dendron.dendron-site/dendron.contribute.financial]]

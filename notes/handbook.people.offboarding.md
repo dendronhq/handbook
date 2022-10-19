@@ -2,7 +2,7 @@
 id: HXMc8qTz9fjSrZmF
 title: Offboarding Checklist
 desc: ''
-updated: 1658848919758
+updated: 1663772276366
 created: 1627472295773
 ---
 
@@ -18,7 +18,7 @@ created: 1627472295773
 
 ## For managers
 - before last day
-- [ ] send employee [[offboarding checklist|#for-offboarding-employees]]
+- [ ] send employee [[offboarding checklist|#for-offboarding-employees]] 
 - [ ] Go over offboarding steps
 - [ ] Create sendoff doc 
 - [ ] Mark last day in Rippling 

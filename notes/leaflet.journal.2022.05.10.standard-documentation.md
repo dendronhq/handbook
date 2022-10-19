@@ -97,7 +97,7 @@ These are headers for features and are directly inside `dendron.topic.{feature}`
 ### Children
 These are the children of features and are located in `dendron.topic.{feature}.*` 
 
-[[Top Level Feature|dendron://dendron.dendron-site/dendron.contribute.documentation.tutorial.top-level-feature]] (NOTE: link on handbook won't resolve on website. url: https://github.com/dendronhq/dendron-site/blob/dev/vault/dendron.contribute.documentation.tutorial.top-level-feature.md#L8:L8)
+[[Topic|dendron://dendron.dendron-site/dendron.contribute.documentation.tutorial.topic]] (NOTE: link on handbook won't resolve on website. url: https://github.com/dendronhq/dendron-site/blob/dev/vault/dendron.contribute.documentation.tutorial.top-level-feature.md#L8:L8)
 
 ## Structure for References
 ![[dendron://dendron.handbook/leaflet.journal.2022.05.10.standard-documentation.references]]

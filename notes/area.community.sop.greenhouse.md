@@ -2,7 +2,7 @@
 id: 2akj3t8lzbud1t005ib7ki2
 title: Greenhouse
 desc: Coordinate greenhouse events
-updated: 1654620618505
+updated: 1663554057446
 created: 1653951331631
 published: true
 ---
@@ -28,6 +28,8 @@ published: true
 1. Add #role.speaker to speaker
 1. [[Add Greenhouse to Release Notes|dendron://dendron.handbook/area.community.sop.greenhouse.sop.add-greenhouse-to-release-notes]] (if applicable - should be first week of month) 
 
-
 ## Reference
-[[Greenhouse Talks|dendron://dendron.dendron-site/community.events.greenhouse]]
+- [[Greenhouse Talks|dendron://dendron.dendron-site/community.events.greenhouse]]
+
+## Related
+ [[dendron://dendron.handbook/area.community.sop.greenhouse.invite-speaker]]
